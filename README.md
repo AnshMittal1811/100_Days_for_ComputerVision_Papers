@@ -1,66 +1,66 @@
 # 365 Days for Computer Vision Research
 
-* **Day 1 (01/01/2022)**: []()
+* **Day 1 (01/01/2022)**: [Deep Vehicle Detection in Satellite Videos]()
 
-* **Day 2 (01/02/2022)**: []()
+* **Day 2 (01/02/2022)**: [Pyramidial Attention for Saliency Detection]()
 
-* **Day 3 (01/03/2022)**: []()
+* **Day 3 (01/03/2022)**: [Human Identity-Preserved Motion Retargeting in Video Synthesis by Feature Diseentanglement]()
 
-* **Day 4 (01/04/2022)**: []()
+* **Day 4 (01/04/2022)**: [Implicit Sample Extension for Unsupervised Person ReIdentification]()
 
-* **Day 5 (01/05/2022)**: []()
+* **Day 5 (01/05/2022)**: [GIFS: Neural Implicit Function for General Shape Representation]()
 
-* **Day 6 (01/06/2022)**: []()
+* **Day 6 (01/06/2022)**: [XCiT: Cross Covariance Image Transformers]()
 
-* **Day 7 (01/07/2022)**: []()
+* **Day 7 (01/07/2022)**: [Partial Membership Latent Dirichlet Allocation for Image Segmentation]()
 
-* **Day 8 (01/08/2022)**: []()
+* **Day 8 (01/08/2022)**: [Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing]()
 
 * **Day 9 (01/09/2022)**: []()
 
-* **Day 10 (01/10/2022)**: []()
+* **Day 10 (01/10/2022)**: [Pyramid Grafting Network for One-Stage High Resolution Saliency Detection]()
 
-* **Day 11 (01/11/2022)**: []()
+* **Day 11 (01/11/2022)**: [Searching Intrinsic Dimensions of Vision Transformers]()
 
-* **Day 12 (01/12/2022)**: []() 
+* **Day 12 (01/12/2022)**: [OSSO: Obtaining Skeletal Shape from Outside]() 
 
-* **Day 13 (01/13/2022)**: []()
+* **Day 13 (01/13/2022)**: [SelfD: Self-Learning Large-Scale Driving Policies From the Web]()
 
-* **Day 14 (01/14/2022)**: []()
+* **Day 14 (01/14/2022)**: [Analysis of the Possibilities of Tire-Defect Inspection based on Unsupervised Learning and Deep Learning]()
 
-* **Day 15 (01/15/2022)**: []()
+* **Day 15 (01/15/2022)**: [Self-Supervised Camera Self-Calibration from Video]()
 
 * **Day 16 (01/16/2022)**: []()
 
-* **Day 17 (01/17/2022)**: []()
+* **Day 17 (01/17/2022)**: [ConDor: Self-Supervised Canonicalization of 3D Pose for Partial Shapes]()
 
-* **Day 18 (01/18/2022)**: []()
+* **Day 18 (01/18/2022)**: [Dense-Captioning Events in Videos]()
 
-* **Day 19 (01/19/2022)**: []()
+* **Day 19 (01/19/2022)**: [ARTEMIS: Articulated Neural Pets with Appearance and Motion Synthesis]()
 
-* **Day 20 (01/20/2022)**: []()
+* **Day 20 (01/20/2022)**: [End-toEnd Visual Editing with a Generatively PreTrained Artist]()
 
-* **Day 21 (01/21/2022)**: []()
+* **Day 21 (01/21/2022)**: [Ensembling Off-the-shelf models for GAN Training]()
 
-* **Day 22 (01/22/2022)**: []()
+* **Day 22 (01/22/2022)**: [End-to-End Object Detection with Transformers]()
 
-* **Day 23 (01/23/2022)**: []()
+* **Day 23 (01/23/2022)**: [A Generalist Agent]()
 
-* **Day 24 (01/24/2022)**: []()
+* **Day 24 (01/24/2022)**: [Differentiable Signed Distance Function Rendering]()
 
-* **Day 25 (01/25/2022)**: []()
+* **Day 25 (01/25/2022)**: [PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-Supervision]()
 
-* **Day 26 (01/26/2022)**: []()
+* **Day 26 (01/26/2022)**: [Learned Vertex Descent: A New Direction for 3D Human Model Fitting]()
 
-* **Day 27 (01/27/2022)**: []()
+* **Day 27 (01/27/2022)**: [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding]()
 
-* **Day 28 (01/28/2022)**: []()
+* **Day 28 (01/28/2022)**: [Tnt Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems]()
 
-* **Day 29 (01/29/2022)**: []()
+* **Day 29 (01/29/2022)**: [Super Vision Transformer]()
 
-* **Day 30 (01/30/2022)**: []()
+* **Day 30 (01/30/2022)**: [Simple Unsupervised Object-Centric Learning for Complex and Naturalistic Videos]()
 
-* **Day 31 (01/31/2022)**: []()
+* **Day 31 (01/31/2022)**: [Contrastive Learning Rivals Masked Image Modeling in Fine-Tuning via Feature Distillation]()
 
 * **Day 32 (02/01/2022)**: []()
 
