@@ -200,203 +200,205 @@
 
 * **Day 100 (04/10/2022)**: [SP-ViT: Learning 3D Spatial Priors for Vision Transformers](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/100%20SP-ViT%20Learning%202D%20Spatial%20Priors%20for%20Vision%20Transformers.pdf)
 
-* **Day 101 (04/11/2022)**: []()
+* **Day 101 (04/11/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/101%20AVATAR%20Unconstrained%20Audiovisual%20Speech%20Recognition.pdf)
 
-* **Day 102 (04/12/2022)**: []()
+* **Day 102 (04/12/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/102%20Residual%20Sparsity%20Connection%20Learning%20for%20Efficient%20Video%20Super-Resolution.pdf)
 	
-* **Day 103 (04/13/2022)**: []()
+* **Day 103 (04/13/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/103%20ELUDE%20Generating%20interpretable%20explanations%20via%20a%20decomposition%20into%20labelled%20and%20unlabelled%20features.pdf)
 
-* **Day 104 (04/14/2022)**: []()
+* **Day 104 (04/14/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/104%20Diffusion%20Models%20for%20Video%20Prediction%20and%20Infilling.pdf)
 
-* **Day 105 (04/15/2022)**: []()
+* **Day 105 (04/15/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/105%20Edge%20Inference%20with%20Fully%20Differentiable%20Quantized%20Mixed%20Precision%20Neural%20Networks.pdf)
 
-* **Day 106 (04/16/2022)**: []()
+* **Day 106 (04/16/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/106%20Reconstructing%20Training%20Data%20from%20Trained%20Neural%20Networks.pdf)
 
-* **Day 107 (04/17/2022)**: []()
+* **Day 107 (04/17/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/107%20MoDi%20Unconditional%20Motion%20Synthesis%20from%20Diverse%20Data.pdf)
 
-* **Day 108 (04/18/2022)**: []()
+* **Day 108 (04/18/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/108%20Multi-View%20Imputation%20and%20Cross-Attention%20Network%20Based%20on%20Incomplete%20Longitudinal%20and%20Multi-Modal%20Data%20for%20Alzheimer's%20Disease%20Prediction.pdf)
 
-* **Day 109 (04/19/2022)**: []()
+* **Day 109 (04/19/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/109%20AMOS%20A%20Large-Scale%20Abdominal%20Multi-Organ%20Benchmark%20for%20Versatile%20Medical%20Image%20Segmentation.pdf)
 
-* **Day 110 (04/20/2022)**: []()
+* **Day 110 (04/20/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/110%20Learning%20Effect%20of%20Lay%20People%20in%20Gesture-Based%20Locomotion%20in%20Virtual%20Reality.pdf)
 
-* **Day 111 (04/21/2022)**: []()
+* **Day 111 (04/21/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/111%20Neural%20Scene%20Representation%20for%20Locomotion%20on%20Structured%20Terrain.pdf)
 	
-* **Day 112 (04/22/2022)**: []()
+* **Day 112 (04/22/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/112%20U-PET%20MRI-based%20Dementia%20Detection%20with%20Joint%20Generation%20of%20Synthetic%20FDG-PET%20Images.pdf)
 	
-* **Day 113 (04/23/2022)**: []()
+* **Day 113 (04/23/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/113%20Longitudinal%20Detection%20of%20New%20MS%20Lesions%20using%20Deep%20Learning.pdf)
 	
-* **Day 114 (04/24/2022)**: []()
+* **Day 114 (04/24/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/114%20Video%20Capsule%20Endoscopy%20Classification%20using%20Focal%20Modulation%20Guided%20Convolutional%20Neural%20Network.pdf)
 	
-* **Day 115 (04/25/2022)**: []()
+* **Day 115 (04/25/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/115%20SoundSpaces%202.0%20A%20Simulation%20Platform%20for%20Visual-Acoustic%20Learning.pdf)
 	
-* **Day 116 (04/26/2022)**: []()
+* **Day 116 (04/26/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/116%20SAVi%2B%2B%20Towards%20End-to-End%20Object-Centric%20Learning%20from%20Real-World%20Videos.pdf)
 	
-* **Day 117 (04/27/2022)**: []()
+* **Day 117 (04/27/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/117%20Disentangling%20visual%20and%20written%20concepts%20in%20CLIP.pdf)
 	
-* **Day 118 (04/28/2022)**: []()
+* **Day 118 (04/28/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/118%20Action%20Spotting%20using%20Dense%20Detection%20Anchors%20Revisited%20Submission%20to%20the%20SoccerNet%20Challennge%202022.pdf)
 	
-* **Day 119 (04/29/2022)**: []()
+* **Day 119 (04/29/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/119%20Improved%20surface%20reconstruction%20using%20high-frequency%20details.pdf)
 	
-* **Day 120 (04/30/2022)**: []()
+* **Day 120 (04/30/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/120%20PeQuENet%20Perceptual%20Quality%20Enhancement%20of%20Compressed%20Video%20with%20Adaptation-%20and%20Attentio-based%20Network.pdf)
 	
-* **Day 121 (05/01/2022)**: []()
+* **Day 121 (05/01/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/121%20Dual%20Contrastive%20Attributed%20Graph%20Clustering%20Network.pdf)
 	
-* **Day 122 (05/02/2022)**: []()
+* **Day 122 (05/02/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/122%20Lifelong%20Wandering%20A%20realistic%20few-shot%20online%20continual%20learning%20setting.pdf)
 	
-* **Day 123 (05/03/2022)**: []()
+* **Day 123 (05/03/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/123%20Technical%20Report%20for%20Argoverse2%20Challenge%202022%20-%20Motion%20Forecasting%20Task.pdf)
 	
-* **Day 124 (05/04/2022)**: []()
+* **Day 124 (05/04/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/124%20Analysis%20and%20Extensions%20of%20Adversarial%20Training%20for%20Video%20Classification.pdf)
 
-* **Day 125 (05/05/2022)**: []()
+* **Day 125 (05/05/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/125%20A%20Simple%20Baseline%20for%20BEV%20Perception%20Without%20LiDAR.pdf)
 	
-* **Day 126 (05/06/2022)**: []()
+* **Day 126 (05/06/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/126%20DreamNet%20A%20Deep%20Riemannian%20Network%20based%20on%20SPD%20Manifold%20Learning%20for%20Visual%20Classification.pdf)
 
-* **Day 127 (05/07/2022)**: []()
+* **Day 127 (05/07/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/127%20Multi-scale%20Cooperative%20Multimodal%20Transformers%20for%20Multimodal%20Sentiment%20Analysis%20in%20Videos.pdf)
 
-* **Day 128 (05/08/2022)**: []()
+* **Day 128 (05/08/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/128%20Image%20Captioning%20based%20on%20Feature%20Refinement%20and%20Reflecting%20Decoding.pdf)
 
-* **Day 129 (05/09/2022)**: []()
+* **Day 129 (05/09/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/129%20Patch-level%20Representation%20Learning%20for%20Self-supervised%20Vision%20Transformers.pdf)
 
-* **Day 130 (05/10/2022)**: []()
+* **Day 130 (05/10/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/130%20Joint%20Class-Affinity%20Loss%20Correction%20for%20Robust%20Medical%20Image%20Segmentation%20with%20Noisy%20Labels.pdf)
 
-* **Day 131 (05/11/2022)**: []()
+* **Day 131 (05/11/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/131%20Balancing%20Discriminability%20and%20Transferability%20for%20Source-Free%20Domain%20Adaptation.pdf)
 
-* **Day 132 (05/12/2022)**: []()
+* **Day 132 (05/12/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/132%20Backbones-Review%20Feature%20Extraction%20Networks%20for%20Deep%20Learning%20and%20Deep%20RL%20Approaches.pdf)
 
-* **Day 133 (05/13/2022)**: []()
+* **Day 133 (05/13/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/133%20DeepFormableTag%20End-to-end%20Generation%20and%20Recognition%20of%20Deformable%20Fiducial%20Markers.pdf)
 
-* **Day 134 (05/14/2022)**: []()
+* **Day 134 (05/14/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/134%20CARLANE%20A%20Lane%20Detection%20Benchmark%20for%20Unsupervised%20Domain%20Adaptation%20from%20Simulation%20to%20multiple%20Real-World%20Domains.pdf)
 	
-* **Day 135 (05/15/2022)**: []()
+* **Day 135 (05/15/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/135%20An%20Improved%20Normed-Deformable%20Convolution%20for%20Crowd%20Counting.pdf)
 	
-* **Day 136 (05/16/2022)**: []()
+* **Day 136 (05/16/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/136%20A%20Simple%20Baseline%20for%20Adversarial%20Domain%20Adaptation-based%20Unsupervised%20Flood%20Forecasting.pdf)
 	
-* **Day 137 (05/17/2022)**: []()
+* **Day 137 (05/17/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/137%20Channel%20Importance%20Matters%20in%20Few-Shot%20Image%20Classification.pdf)
 	
-* **Day 138 (05/18/2022)**: []()
+* **Day 138 (05/18/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/138%20Trajectory-guided%20Control%20Prediction%20for%20End-to-end%20Autonomous%20Driving%20A%20Simple%20yet%20Strong%20Baseline.pdf)
 	
-* **Day 139 (05/19/2022)**: []()
+* **Day 139 (05/19/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/139%20Self-Adaptive%20Label%20Augmentation%20for%20Semi-supervised%20Few-shot%20Classification.pdf)
 	
-* **Day 140 (05/20/2022)**: []()
+* **Day 140 (05/20/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/140%20Zero-Shot%20Video%20Question%20Answering%20via%20Frozen%20Bidirectional%20Language%20Models.pdf)
 	
-* **Day 141 (05/21/2022)**: []()
+* **Day 141 (05/21/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/141%20Volumetric%20Supervised%20Contrastive%20Learning%20for%20Seismic%20Semantic%20Segmentation.pdf)
 	
-* **Day 142 (05/22/2022)**: []()
+* **Day 142 (05/22/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/142%20K-Radar%204D%20Radar%20Object%20Detection%20Dataset%20and%20Benchmark%20for%20Autonomous%20Driving%20in%20Various%20Weather%20Conditions.pdf)
 	
-* **Day 143 (05/23/2022)**: []()
+* **Day 143 (05/23/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/143%20RefCrowd%20Grounding%20the%20Target%20in%20Crowd%20with%20Referring%20Expressions.pdf)
 	
-* **Day 144 (05/24/2022)**: []()
+* **Day 144 (05/24/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/144%20Level%202%20Autonomous%20Driving%20on%20a%20Single%20Device%20Driving%20into%20the%20Devils%20of%20OpenPilot.pdf)
 	
-* **Day 145 (05/25/2022)**: []()
+* **Day 145 (05/25/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/145%20Nucleus%20Segmentation%20and%20Analysis%20in%20Breast%20Cancer%20with%20the%20MIScnn%20Framework.pdf)
 	
-* **Day 146 (05/26/2022)**: []()
+* **Day 146 (05/26/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/146%20Asymptotic%20Soft%20Cluster%20Pruning%20for%20Deep%20Neural%20Networks.pdf)
 	
-* **Day 147 (05/27/2022)**: []()
+* **Day 147 (05/27/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/147%20Online%20Segmentation%20of%20LiDAR%20Sequences%20Dataset%20and%20Algorithm.pdf)
 	
-* **Day 148 (05/28/2022)**: []()
+* **Day 148 (05/28/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/148%20Selective%20Multi-Scale%20Learning%20for%20Object%20Detection.pdf)
 	
-* **Day 149 (05/29/2022)**: []()
+* **Day 149 (05/29/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/149%20HaGRID%20-%20Hand%20Gesture%20Recognition%20Image%20Dataset.pdf)
 	
-* **Day 150 (05/30/2022)**: []()
+* **Day 150 (05/30/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/150%20Adapting%20Self-Supervised%20Vision%20Transformers%20by%20Probing%20Attention-Conditioned%20Masking%20Consistency.pdf)
 	
-* **Day 151 (05/31/2022)**: []()
+* **Day 151 (05/31/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/151%20Multi-scale%20Feature%20Extraction%20and%20Fusion%20for%20Online%20Knowledge%20Distillation.pdf)
 	
-* **Day 152 (06/01/2022)**: []()
+* **Day 152 (06/01/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/152%20Delving%20into%20the%20Scale%20Variance%20Problem%20in%20Object%20Detection.pdf)
 	
-* **Day 153 (06/02/2022)**: []()
+* **Day 153 (06/02/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/153%20Open-Set%20Representation%20with%20Gradient-based%20Representations.pdf)
 	
-* **Day 154 (06/03/2022)**: []()
+* **Day 154 (06/03/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/154%20Simple%20and%20Efficient%20Architectures%20for%20Semantic%20Segmentation.pdf)
 	
-* **Day 155 (06/04/2022)**: []()
+* **Day 155 (06/04/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/155%20Rank%20the%20triplets%20A%20ranking-based%20multiple%20instance%20learning%20framework%20for%20detecting%20HPV%20infection%20in%20head%20and%20neck%20cancers%20using%20routine%20H%26E%20images.pdf)
 
-* **Day 156 (06/05/2022)**: []()
+* **Day 156 (06/05/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/156%20Adversarial%20Patch%20Attacks%20and%20Defences%20in%20Vision-based%20Tasks%20A%20Survey.pdf)
 
-* **Day 157 (06/06/2022)**: []()
+* **Day 157 (06/06/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/157%20iBoot%20Image-bootstrapped%20Self-Supervised%20Video%20Representation%20Learning.pdf)
 
-* **Day 158 (06/07/2022)**: []()
+* **Day 158 (06/07/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/158%20Realistic%20One-shot%20Mesh-based%20Head%20Avatars.pdf)
 	
-* **Day 159 (06/08/2022)**: []()
+* **Day 159 (06/08/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/159%20Real-World%20Single%20Image%20Super-Resolution%20Under%20Rainy%20Condition.pdf)
 	
-* **Day 160 (06/09/2022)**: []()
+* **Day 160 (06/09/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/160%20Beyond%20Supervised%20vs%20Unsupervised%20Representative%20Benchmarking%20and%20Analysis%20of%20Image%20Representation%20Learning.pdf)
 	
-* **Day 161 (06/10/2022)**: []()
+* **Day 161 (06/10/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/161%20OmniMAE%20Single%20Model%20Masked%20Pretraining%20on%20Images%20and%20Videos.pdf)
 	
-* **Day 162 (06/11/2022)**: []() 
+* **Day 162 (06/11/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/162%20Spatially-Adaptive%20Multilayer%20Selection%20for%20GAN%20Inversion%20and%20Editing.pdf) 
 
-* **Day 163 (06/12/2022)**: []()
+* **Day 163 (06/12/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/163%20MixGen%20A%20New%20Multi-Modal%20Data%20Augmentation.pdf)
 	
-* **Day 164 (06/13/2022)**: []()
+* **Day 164 (06/13/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/164%20Controllable%203D%20Face%20Synthesis%20with%20Conditional%20Generative%20Occupancy%20Fields.pdf)
 	
-* **Day 165 (06/14/2022)**: []()
+* **Day 165 (06/14/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/165%20Unified%20Fourier-based%20Kernel%20and%20Nonlinearity%20Design%20for%20Equivariant%20Networks%20on%20Homogeneous%20Spaces.pdf)
 	
-* **Day 166 (06/15/2022)**: []()
+* **Day 166 (06/15/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/166%20Virtual%20Correspondence%20Humans%20as%20a%20Cue%20for%20Extreme-View%20Geometry.pdf)
 	
-* **Day 167 (06/16/2022)**: []()
+* **Day 167 (06/16/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/167%20SHIFT%20A%20Synthetic%20Driving%20Dataset%20for%20Continuous%20Multi-Task%20Domain%20Adaptation.pdf)
 	
-* **Day 168 (06/17/2022)**: []()
+* **Day 168 (06/17/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/168%20Unbiased%204D%20Monocular%204D%20Reconstruction%20with%20a%20Neural%20Deformation%20Model.pdf)
 	
-* **Day 169 (06/18/2022)**: []()
+* **Day 169 (06/18/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/169%20Towards%20Robust%20Blind%20Face%20Restoration%20with%20Codebook%20Lookup%20Transformer.pdf)
 	
-* **Day 170 (06/19/2022)**: []()
+* **Day 170 (06/19/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/170%20A%20High%20Resolution%20Multi-exposure%20Stereoscopic%20Image%20%26%20Video%20Database%20of%20Natural%20Scenes.pdf)
 	
-* **Day 171 (06/20/2022)**: []()
+* **Day 171 (06/20/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/171%20Surgical-VQA%20Visual%20Question%20Answering%20in%20Surgical%20Scenes%20using%20Transformer.pdf)
 	
-* **Day 172 (06/21/2022)**: []()
+* **Day 172 (06/21/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/172%20AdvSmo%20Black-box%20Adversarial%20Attack%20by%20Smoothing%20Linear%20Structure%20of%20Texture.pdf)
 	
-* **Day 173 (06/22/2022)**: []()
+* **Day 173 (06/22/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/173%20SpA-Former%20Transformer%20image%20shadow%20detection%20and%20removal%20via%20spatial%20attention.pdf)
 	
-* **Day 174 (06/23/2022)**: []()
+* **Day 174 (06/23/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/174%20Specialize%20and%20Fuse%20Pyramidal%20Output%20Representation%20for%20Semantic%20Segmentation.pdf)
 	
-* **Day 176 (06/25/2022)**: []()
-	
-* **Day 177 (06/26/2022)**: []()
+* **Day 175 (06/24/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/175%203D%20Morphable%20Face%20Models%20-%20Past%2C%20Present%2C%20and%20Future.pdf)
 
-* **Day 178 (06/27/2022)**: []()
-	
-* **Day 179 (06/28/2022)**: []()
+* **Day 176 (06/24/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/176%20Semantic%20Abstraction%20Open-World%203D%20Scene%20Understanding%20from%202D%20Vision-Language%20Models.pdf)
 
-* **Day 180 (06/29/2022)**: []()
+* **Day 177 (06/26/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/177%20TinyCD%20A%20(Not%20So)%20Deep%20Learning%20Model%20for%20Change%20Detection.pdf)
 
-* **Day 181 (06/30/2022)**: []()
+* **Day 178 (06/27/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/178%20Low-complexity%20Approximate%20Convolutional%20Neural%20Networks.pdf)
+	
+* **Day 179 (06/28/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/179%20Robust%20Trajectory%20Prediction%20against%20Adversarial%20Attacks.pdf)
 
-* **Day 182 (07/01/2022)**: []()
-	
-* **Day 183 (07/02/2022)**: []()
-	
-* **Day 184 (07/03/2022)**: []()
-	
-* **Day 185 (07/04/2022)**: []()
-	
-* **Day 186 (07/05/2022)**: []()
-	
-* **Day 187 (07/06/2022)**: []()
-	
-* **Day 188 (07/07/2022)**: []()
+* **Day 180 (06/29/2022)**: [A review of Deep Learning Techniques for COVID-19 Identification on Chest CT Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/180%20A%20review%20of%20Deep%20learning%20Techniques%20for%20COVID-19%20identification%20on%20Chest%20CT%20images.pdf)
 
-* **Day 189 (07/08/2022)**: []()
+* **Day 181 (06/30/2022)**: [A Multi-stage Framwork with Mean Subspace Computation and Recursive Feedbackk for Online Unsupervised Domain Adaptation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/181%20A%20Multi-stage%20Framework%20with%20Mean%20Subspace%20Computation%20and%20Recursive%20Feedback%20for%20Online%20Unsupervised%20Domain%20Adaptation.pdf)
 
-* **Day 190 (07/09/2022)**: []()
+* **Day 182 (07/01/2022)**: [MulViMOtion: Shape-aware 3D Mycordial Motion Tracking from Multi-View Cardiac MRI](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/182%20MulViMotion%20Shape-aware%203D%20Myocardial%20Motion%20Tracking%20from%20Multi-View%20Cardiac%20MRI.pdf)
 	
-* **Day 191 (07/10/2022)**: []()
+* **Day 183 (07/02/2022)**: [Resolution enhanced of placenta histological images using Deep Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/183%20Resolution%20enhancement%20of%20placenta%20histological%20images%20using%20Deep%20Learning.pdf)
 	
-* **Day 192 (07/11/2022)**: []()
+* **Day 184 (07/03/2022)**: [Temporal Extrapolation of heart wall segmentation in cardiac magnetic resonance images via pixel tracking](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/184%20Temporal%20extrapolation%20of%20heart%20wall%20segmentation%20in%20cardiac%20magnetic%20resonance%20images%20via%20pixel%20tracking.pdf)
 	
-* **Day 193 (07/12/2022)**: []()
+* **Day 185 (07/04/2022)**: [LRIP-Net: Low Resolution Image Prior based Network  for Limited-Angle CT Reconstruction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/185%20LRIP-Net%20Low-Resolution%20Image%20Prior%20based%20Network%20for%20Limited-Angle%20CT%20Reconstruction.pdf)
 	
-* **Day 194 (07/13/2022)**: []()
+* **Day 186 (07/05/2022)**: [MultiEarth 2022 - The Champion Solution for Image-](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/186%20MultiEarth%202022%20-%20The%20Champion%20Solution%20for%20Image-to-Image%20Translation%20Challenge%20via%20Generation%20Models.pdf)
 	
-* **Day 195 (07/14/2022)**: []()
+* **Day 187 (07/06/2022)**: [Speckle2Speckle: Unsupervised Learning of Ultrasound Speckle Filtering w/o Clean Data](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/187%20Speckle2Speckle%20Unsupervised%20Learning%20of%20Ultrasound%20Speckle%20Filtering%20wo%20Clean%20Data.pdf)
 	
-* **Day 196 (07/15/2022)**: []()
+* **Day 188 (07/07/2022)**: [DA2 Dataset: Towards Dexterity-Aware Dual-Arm Grasping](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/188%20DA2%20Dataset%20Towards%20Dexterity-Aware%20Dual-Arm%20Grasping.pdf)
+
+* **Day 189 (07/08/2022)**: [Feather-Light Fourier Domain Adaptation in Magnetic Resonance Imaging](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/189%20Feather-Light%20Fourier%20Domain%20Adaptation%20in%20Magnetic%20Resonance%20Imaging.pdf)
+
+* **Day 190 (07/09/2022)**: [One Object at a Time: Accurate and Structure from Motion for Robots](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/190%20One%20Object%20at%20a%20Time%20Accurate%20and%20Structure%20From%20Motion%20for%20Robots.pdf)
 	
-* **Day 197 (07/16/2022)**: []()
+* **Day 191 (07/10/2022)**: [An Enhanced Deep Learning Technique for Prostate Cancer Identification based on MRI Scans](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/191%20An%20Enhanced%20Deep%20Learning%20Technique%20for%20Prostate%20Cancre%20Identification%20based%20on%20MRI%20Scans.pdf)
 	
-* **Day 198 (07/17/2022)**: []()
+* **Day 192 (07/11/2022)**: [XOOD: Extreme Value Based Out-Of-Distribution Detection for Image Classification](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/192%20XOOD%20Extreme%20Value%20Based%20Out-Of-Distribution%20Detection%20for%20Image%20Classification.pdf)
 	
-* **Day 199 (07/18/2022)**: []()
+* **Day 193 (07/12/2022)**: [Lung Nodules segmentation from CT with DeepHealth Toolkit](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/193%20Lung%20nodules%20segmentation%20from%20CT%20with%20DeepHealth%20Toolkit.pdf)
 	
-* **Day 200 (07/19/2022)**: []()	
+* **Day 194 (07/13/2022)**: [UniToBrain dataset: a Brain Perfusion Dataset](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/194%20UniToBrain%20dataset%20a%20Brain%20Perfusion%20Dataset.pdf)
+	
+* **Day 195 (07/14/2022)**: [TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/195%20TransDeepLab%20Convolution-Free%20Transformer-based%20DeepLab%20v3%2B%20for%20Medical%20Image%20Segmentation.pdf)
+	
+* **Day 196 (07/15/2022)**: [Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/196%20Interaction%20Mix%20and%20Match%20Synthesizing%20Close%20Interaction%20using%20Conditional%20Hierarchical%20GAN%20with%20Multi-Hot%20Class%20Embedding.pdf)
+	
+* **Day 197 (07/16/2022)**: [Dynamic Batch Adaptation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/197%20Dynamic%20Batch%20Adaptation.pdf)
+	
+* **Day 198 (07/17/2022)**: [Attacking Adversarial Defenses by Smoothing the Loss Landscape](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/198%20Attacking%20Adversarial%20Defences%20by%20Smoothing%20the%20Loss%20Landscape.pdf)
+	
+* **Day 199 (07/18/2022)**: [VolTeMorph: Realtime, Controllable and Generalizable Animation of Volumetric Representations](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/199%20VolTeMorph%20Realtime%2C%20Controllable%20and%20Generalisable%20Animation%20of%20Volumetric%20Representations.pdf)
+	
+* **Day 200 (07/19/2022)**: [Fast Two-Step Blind Optical Aberration Correction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/200%20Fast%20Two-step%20Blind%20Optical%20Aberration%20Correction.pdf)	
 
 * **Day 201 (07/20/2022)**: []()
 
