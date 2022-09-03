@@ -336,27 +336,27 @@
 	
 * **Day 168 (06/17/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/168%20Unbiased%204D%20Monocular%204D%20Reconstruction%20with%20a%20Neural%20Deformation%20Model.pdf)
 	
-* **Day 169 (06/18/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/169%20Towards%20Robust%20Blind%20Face%20Restoration%20with%20Codebook%20Lookup%20Transformer.pdf)
+* **Day 169 (06/18/2022)**: [Towards Robust Blind Restoration with Codebook Lookup Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/169%20Towards%20Robust%20Blind%20Face%20Restoration%20with%20Codebook%20Lookup%20Transformer.pdf)
 	
-* **Day 170 (06/19/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/170%20A%20High%20Resolution%20Multi-exposure%20Stereoscopic%20Image%20%26%20Video%20Database%20of%20Natural%20Scenes.pdf)
+* **Day 170 (06/19/2022)**: [A High Resolution Multi-exposure Stereoscopic Image & Video Database of Natural Scenes](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/170%20A%20High%20Resolution%20Multi-exposure%20Stereoscopic%20Image%20%26%20Video%20Database%20of%20Natural%20Scenes.pdf)
 	
-* **Day 171 (06/20/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/171%20Surgical-VQA%20Visual%20Question%20Answering%20in%20Surgical%20Scenes%20using%20Transformer.pdf)
+* **Day 171 (06/20/2022)**: [Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/171%20Surgical-VQA%20Visual%20Question%20Answering%20in%20Surgical%20Scenes%20using%20Transformer.pdf)
 	
-* **Day 172 (06/21/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/172%20AdvSmo%20Black-box%20Adversarial%20Attack%20by%20Smoothing%20Linear%20Structure%20of%20Texture.pdf)
+* **Day 172 (06/21/2022)**: [AdvSmo: Black-box Adversarial Attack by Smoothing Linear Structure of Texture](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/172%20AdvSmo%20Black-box%20Adversarial%20Attack%20by%20Smoothing%20Linear%20Structure%20of%20Texture.pdf)
 	
-* **Day 173 (06/22/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/173%20SpA-Former%20Transformer%20image%20shadow%20detection%20and%20removal%20via%20spatial%20attention.pdf)
+* **Day 173 (06/22/2022)**: [SpA-Former: Transformer image shadow detection and removal via spatial attention](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/173%20SpA-Former%20Transformer%20image%20shadow%20detection%20and%20removal%20via%20spatial%20attention.pdf)
 	
-* **Day 174 (06/23/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/174%20Specialize%20and%20Fuse%20Pyramidal%20Output%20Representation%20for%20Semantic%20Segmentation.pdf)
+* **Day 174 (06/23/2022)**: [Specialize and Fuse: Pyramidal Output Representation for Semantic Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/174%20Specialize%20and%20Fuse%20Pyramidal%20Output%20Representation%20for%20Semantic%20Segmentation.pdf)
 	
-* **Day 175 (06/24/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/175%203D%20Morphable%20Face%20Models%20-%20Past%2C%20Present%2C%20and%20Future.pdf)
+* **Day 175 (06/24/2022)**: [3D Morphable Face Models - Past, Present, and  Future](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/175%203D%20Morphable%20Face%20Models%20-%20Past%2C%20Present%2C%20and%20Future.pdf)
 
-* **Day 176 (06/24/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/176%20Semantic%20Abstraction%20Open-World%203D%20Scene%20Understanding%20from%202D%20Vision-Language%20Models.pdf)
+* **Day 176 (06/24/2022)**: [Semantic Abstraction Open-World 3D Scene Understanding from 2D Vision-Language Models](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/176%20Semantic%20Abstraction%20Open-World%203D%20Scene%20Understanding%20from%202D%20Vision-Language%20Models.pdf)
 
-* **Day 177 (06/26/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/177%20TinyCD%20A%20(Not%20So)%20Deep%20Learning%20Model%20for%20Change%20Detection.pdf)
+* **Day 177 (06/26/2022)**: [TinyCD: A (Not So) Deep Learning Model for Change Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/177%20TinyCD%20A%20(Not%20So)%20Deep%20Learning%20Model%20for%20Change%20Detection.pdf)
 
-* **Day 178 (06/27/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/178%20Low-complexity%20Approximate%20Convolutional%20Neural%20Networks.pdf)
+* **Day 178 (06/27/2022)**: [Low-Complexity Approximate Convolutional Neural Network](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/178%20Low-complexity%20Approximate%20Convolutional%20Neural%20Networks.pdf)
 	
-* **Day 179 (06/28/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/179%20Robust%20Trajectory%20Prediction%20against%20Adversarial%20Attacks.pdf)
+* **Day 179 (06/28/2022)**: [Robust Trajectory Prediction Against Adversarial Attacks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/179%20Robust%20Trajectory%20Prediction%20against%20Adversarial%20Attacks.pdf)
 
 * **Day 180 (06/29/2022)**: [A review of Deep Learning Techniques for COVID-19 Identification on Chest CT Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/180%20A%20review%20of%20Deep%20learning%20Techniques%20for%20COVID-19%20identification%20on%20Chest%20CT%20images.pdf)
 
@@ -507,3 +507,15 @@
 * **Day 253 (09/04/2022)**: []()
 	
 * **Day 254 (09/04/2022)**: []()
+
+* **Day 255 (08/30/2022)**: []()
+	
+* **Day 256 (08/31/2022)**: []()
+	
+* **Day 257 (09/01/2022)**: []()
+	
+* **Day 258 (09/02/2022)**: []()
+	
+* **Day 259 (09/03/2022)**: []()
+	
+* **Day 260 (09/04/2022)**: []()
