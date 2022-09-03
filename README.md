@@ -314,27 +314,27 @@
 
 * **Day 157 (06/06/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/157%20iBoot%20Image-bootstrapped%20Self-Supervised%20Video%20Representation%20Learning.pdf)
 
-* **Day 158 (06/07/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/158%20Realistic%20One-shot%20Mesh-based%20Head%20Avatars.pdf)
+* **Day 158 (06/07/2022)**: [Realistic One-Shot Mesh-based Head Avatars](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/158%20Realistic%20One-shot%20Mesh-based%20Head%20Avatars.pdf)
 	
-* **Day 159 (06/08/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/159%20Real-World%20Single%20Image%20Super-Resolution%20Under%20Rainy%20Condition.pdf)
+* **Day 159 (06/08/2022)**: [Real-World Single Image Super-Resolution Under Rainy Condition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/159%20Real-World%20Single%20Image%20Super-Resolution%20Under%20Rainy%20Condition.pdf)
 	
-* **Day 160 (06/09/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/160%20Beyond%20Supervised%20vs%20Unsupervised%20Representative%20Benchmarking%20and%20Analysis%20of%20Image%20Representation%20Learning.pdf)
+* **Day 160 (06/09/2022)**: [Beyond Supervised v/s Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/160%20Beyond%20Supervised%20vs%20Unsupervised%20Representative%20Benchmarking%20and%20Analysis%20of%20Image%20Representation%20Learning.pdf)
 	
-* **Day 161 (06/10/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/161%20OmniMAE%20Single%20Model%20Masked%20Pretraining%20on%20Images%20and%20Videos.pdf)
+* **Day 161 (06/10/2022)**: [OmniMAE: Single Model Masked Pretraining on Images and Videos](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/161%20OmniMAE%20Single%20Model%20Masked%20Pretraining%20on%20Images%20and%20Videos.pdf)
 	
-* **Day 162 (06/11/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/162%20Spatially-Adaptive%20Multilayer%20Selection%20for%20GAN%20Inversion%20and%20Editing.pdf) 
+* **Day 162 (06/11/2022)**: [Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/162%20Spatially-Adaptive%20Multilayer%20Selection%20for%20GAN%20Inversion%20and%20Editing.pdf) 
 
-* **Day 163 (06/12/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/163%20MixGen%20A%20New%20Multi-Modal%20Data%20Augmentation.pdf)
+* **Day 163 (06/12/2022)**: [MixGen: A New Multi-Modal Data Augmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/163%20MixGen%20A%20New%20Multi-Modal%20Data%20Augmentation.pdf)
 	
-* **Day 164 (06/13/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/164%20Controllable%203D%20Face%20Synthesis%20with%20Conditional%20Generative%20Occupancy%20Fields.pdf)
+* **Day 164 (06/13/2022)**: [Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/164%20Controllable%203D%20Face%20Synthesis%20with%20Conditional%20Generative%20Occupancy%20Fields.pdf)
 	
-* **Day 165 (06/14/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/165%20Unified%20Fourier-based%20Kernel%20and%20Nonlinearity%20Design%20for%20Equivariant%20Networks%20on%20Homogeneous%20Spaces.pdf)
+* **Day 165 (06/14/2022)**: [Unified Fourier-based Kernel and Nonlinearity Design for Equivariant Networks on Homogeneous Spaces](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/165%20Unified%20Fourier-based%20Kernel%20and%20Nonlinearity%20Design%20for%20Equivariant%20Networks%20on%20Homogeneous%20Spaces.pdf)
 	
-* **Day 166 (06/15/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/166%20Virtual%20Correspondence%20Humans%20as%20a%20Cue%20for%20Extreme-View%20Geometry.pdf)
+* **Day 166 (06/15/2022)**: [Virtual Correspondence: Humans as a Cue for Extreme-View Geometry](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/166%20Virtual%20Correspondence%20Humans%20as%20a%20Cue%20for%20Extreme-View%20Geometry.pdf)
 	
-* **Day 167 (06/16/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/167%20SHIFT%20A%20Synthetic%20Driving%20Dataset%20for%20Continuous%20Multi-Task%20Domain%20Adaptation.pdf)
+* **Day 167 (06/16/2022)**: [SHIFT: A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/167%20SHIFT%20A%20Synthetic%20Driving%20Dataset%20for%20Continuous%20Multi-Task%20Domain%20Adaptation.pdf)
 	
-* **Day 168 (06/17/2022)**: [](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/168%20Unbiased%204D%20Monocular%204D%20Reconstruction%20with%20a%20Neural%20Deformation%20Model.pdf)
+* **Day 168 (06/17/2022)**: [Unbiased 4D Monocular 4D Reconstruction with a Neural Deformable Model](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/168%20Unbiased%204D%20Monocular%204D%20Reconstruction%20with%20a%20Neural%20Deformation%20Model.pdf)
 	
 * **Day 169 (06/18/2022)**: [Towards Robust Blind Restoration with Codebook Lookup Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/169%20Towards%20Robust%20Blind%20Face%20Restoration%20with%20Codebook%20Lookup%20Transformer.pdf)
 	
