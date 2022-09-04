@@ -123,43 +123,83 @@
 
 * **Day 31 (01/31/2022)**: [Contrastive Learning Rivals Masked Image Modeling in Fine-Tuning via Feature Distillation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/031%20Contrastive%20Learning%20Rivals%20Masked%20Image%20Modeling%20in%20FineTuning%20via%20Feature%20Distillation.pdf)
 
+**Abstract—** Masked image modeling (MIM) learns representations with remarkably good fine-tuning performances, overshadowing previous prevalent pre-training approaches such as image classification, instance contrastive learning, and image-text alignment. In this paper, we show that the inferior fine-tuning performance of these pre-training approaches can be significantly improved by a simple post-processing in the form of feature distillation (FD). The feature distillation converts the old representations to new representations that have a few desirable properties just like those representations produced by MIM. These properties, which we aggregately refer to as optimization friendliness, are identified and analyzed by a set of attention- and optimization-related diagnosis tools. With these properties, the new representations show strong fine-tuning performance. Specifically, the contrastive self-supervised learning methods are made as competitive in fine-tuning as the state-of-the-art masked image modeling (MIM) algorithms. The CLIP models' fine-tuning performance is also significantly improved, with a CLIP ViT-L model reaching 89.0% top-1 accuracy on ImageNet-1K classification. On the 3-billion-parameter SwinV2-G model, the fine-tuning accuracy is improved by +1.5 mIoU / +1.1 mAP to 61.4 mIoU / 64.2 mAP on ADE20K semantic segmentation and COCO object detection, respectively, creating new records on both benchmarks. More importantly, our work provides a way for the future research to focus more effort on the generality and scalability of the learnt representations without being pre-occupied with optimization friendliness since it can be enhanced rather easily. The code will be available at [this https URL](https://github.com/SwinTransformer/Feature-Distillation).
+
 * **Day 32 (02/01/2022)**: [Few-Shot Adaptation of Pre-Trained Networks for Domain Shift](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/032%20Few-Shot%20Adaptation%20of%20Pre-Trained%20Networks%20for%20Domain%20Shift.pdf)
+
+**Abstract—** Deep networks are prone to performance degradation when there is a domain shift between the source (training) data and target (test) data. Recent test-time adaptation methods update batch normalization layers of pre-trained source models deployed in new target environments with streaming data to mitigate such performance degradation. Although such methods can adapt on-the-fly without first collecting a large target domain dataset, their performance is dependent on streaming conditions such as mini-batch size and class-distribution, which can be unpredictable in practice. In this work, we propose a framework for few-shot domain adaptation to address the practical challenges of data-efficient adaptation. Specifically, we propose a constrained optimization of feature normalization statistics in pre-trained source models supervised by a small support set from the target domain. Our method is easy to implement and improves source model performance with as few as one sample per class for classification tasks. Extensive experiments on 5 cross-domain classification and 4 semantic segmentation datasets show that our method achieves more accurate and reliable performance than test-time adaptation, while not being constrained by streaming conditions.
 
 * **Day 33 (02/02/2022)**: [REVIVE: Regional VIsual Representation Matters in KB VQA](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/033%20REVIVE%20Regional%20Visual%20Representation%20Matters%20in%20KB%20VQA.pdf)
 
+**Abstract—** This paper revisits visual representation in knowledge-based visual question answering (VQA) and demonstrates that using regional information in a better way can significantly improve the performance. While visual representation is extensively studied in traditional VQA, it is under-explored in knowledge-based VQA even though these two tasks share the common spirit, i.e., rely on visual input to answer the question. Specifically, we observe that in most state-of-the-art knowledge-based VQA methods: 1) visual features are extracted either from the whole image or in a sliding window manner for retrieving knowledge, and the important relationship within/among object regions is neglected; 2) visual features are not well utilized in the final answering model, which is counter-intuitive to some extent. Based on these observations, we propose a new knowledge-based VQA method REVIVE, which tries to utilize the explicit information of object regions not only in the knowledge retrieval stage but also in the answering model. The key motivation is that object regions and inherent relationships are important for knowledge-based VQA. We perform extensive experiments on the standard OK-VQA dataset and achieve new state-of-the-art performance, i.e., 58.0 state-of-the-art method by a large margin (+3.6 analysis and show the necessity of regional information in different framework components for knowledge-based VQA.
+
 * **Day 34 (02/03/2022)**: [SAMURAI: Shape And Material from Unconstrained Real-World Arbitrary Image Collections](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/034%20SAMURAI%20Shape%20And%20Material%20from%20Unconstrained%20Real-World%20Arbitrary%20Image%20Collections.pdf)
+
+**Abstract—** Inverse rendering of an object under entirely unknown capture conditions is a fundamental challenge in computer vision and graphics. Neural approaches such as NeRF have achieved photorealistic results on novel view synthesis, but they require known camera poses. Solving this problem with unknown camera poses is highly challenging as it requires joint optimization over shape, radiance, and pose. This problem is exacerbated when the input images are captured in the wild with varying backgrounds and illuminations. Standard pose estimation techniques fail in such image collections in the wild due to very few estimated correspondences across images. Furthermore, NeRF cannot relight a scene under any illumination, as it operates on radiance (the product of reflectance and illumination). We propose a joint optimization framework to estimate the shape, BRDF, and per-image camera pose and illumination. Our method works on in-the-wild online image collections of an object and produces relightable 3D assets for several use-cases such as AR/VR. To our knowledge, our method is the first to tackle this severely unconstrained task with minimal user interaction. Project page: [this https URL](https://markboss.me/publication/2022-samurai/) Video: [this https URL](https://youtu.be/LlYuGDjXp-8)
 
 * **Day 35 (02/04/2022)**: [Decomposing NeRF For Editing via Feature Field Distillation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/035%20Decomposing%20NERF%20for%20Editing%20via%20Feature%20Field%20Distillation.pdf)
 
+**Abstract—** Emerging neural radiance fields (NeRF) are a promising scene representation for computer graphics, enabling high-quality 3D reconstruction and novel view synthesis from image observations. However, editing a scene represented by a NeRF is challenging, as the underlying connectionist representations such as MLPs or voxel grids are not object-centric or compositional. In particular, it has been difficult to selectively edit specific regions or objects. In this work, we tackle the problem of semantic scene decomposition of NeRFs to enable query-based local editing of the represented 3D scenes. We propose to distill the knowledge of off-the-shelf, self-supervised 2D image feature extractors such as CLIP-LSeg or DINO into a 3D feature field optimized in parallel to the radiance field. Given a user-specified query of various modalities such as text, an image patch, or a point-and-click selection, 3D feature fields semantically decompose 3D space without the need for re-training and enable us to semantically select and edit regions in the radiance field. Our experiments validate that the distilled feature fields (DFFs) can transfer recent progress in 2D vision and language foundation models to 3D scene representations, enabling convincing 3D segmentation and selective editing of emerging neural graphics representations.
+
 * **Day 36 (02/05/2022)**: [RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/036%20RTMV%20A%20Ray-Traced%20Multi-View%20Synthetic%20Dataset%20for%20Novel%20View%20Synthesis.pdf)
 
-* **Day 37 (02/06/2022)**: [Niew Synthesis using Sculpted Neural Points](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/037%20View%20Synthesis%20using%20Sculpted%20Neural%20Points.pdf)
+**Abstract—** We present a large-scale synthetic dataset for novel view synthesis consisting of ~300k images rendered from nearly 2000 complex scenes using high-quality ray tracing at high resolution (1600 x 1600 pixels). The dataset is orders of magnitude larger than existing synthetic datasets for novel view synthesis, thus providing a large unified benchmark for both training and evaluation. Using 4 distinct sources of high-quality 3D meshes, the scenes of our dataset exhibit challenging variations in camera views, lighting, shape, materials, and textures. Because our dataset is too large for existing methods to process, we propose Sparse Voxel Light Field (SVLF), an efficient voxel-based light field approach for novel view synthesis that achieves comparable performance to NeRF on synthetic data, while being an order of magnitude faster to train and two orders of magnitude faster to render. SVLF achieves this speed by relying on a sparse voxel octree, careful voxel sampling (requiring only a handful of queries per ray), and reduced network structure; as well as ground truth depth maps at training time. Our dataset is generated by NViSII, a Python-based ray tracing renderer, which is designed to be simple for non-experts to use and share, flexible and powerful through its use of scripting, and able to create high-quality and physically-based rendered images. Experiments with a subset of our dataset allow us to compare standard methods like NeRF and mip-NeRF for single-scene modeling, and pixelNeRF for category-level modeling, pointing toward the need for future improvements in this area.
+
+* **Day 37 (02/06/2022)**: [View Synthesis using Sculpted Neural Points](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/037%20View%20Synthesis%20using%20Sculpted%20Neural%20Points.pdf)
+
+**Abstract—** We address the task of view synthesis, which can be posed as recovering a rendering function that renders new views from a set of existing images. In many recent works such as NeRF, this rendering function is parameterized using implicit neural representations of scene geometry. Implicit neural representations have achieved impressive visual quality but have drawbacks in computational efficiency. In this work, we propose a new approach that performs view synthesis using point clouds. It is the first point-based method to achieve better visual quality than NeRF while being more than 100x faster in rendering speed. Our approach builds on existing works on differentiable point-based rendering but introduces a novel technique we call "Sculpted Neural Points (SNP)", which significantly improves the robustness to errors and holes in the reconstructed point cloud. Experiments show that on the task of view synthesis, our sculpting technique closes the gap between point-based and implicit representation-based methods. Code is available at [this https URL](https://github.com/princeton-vl/SNP) and supplementary video at [this https URL](https://youtu.be/dBwCQP9uNws).
 
 * **Day 38 (02/07/2022)**: [PREF: Phasorial Embedding Fields for Compact Neural Representations](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/038%20PREF%20Phasorial%20Embedding%20Fields%20for%20Compact%20Neural%20Representations.pdf)
  
+**Abstract—** We present a phasorial embedding field \emph{PREF} as a compact representation to facilitate neural signal modeling and reconstruction tasks. Pure multi-layer perceptron (MLP) based neural techniques are biased towards low frequency signals and have relied on deep layers or Fourier encoding to avoid losing details. PREF instead employs a compact and physically explainable encoding field based on the phasor formulation of the Fourier embedding space. We conduct comprehensive experiments to demonstrate the advantages of PREF over the latest spatial embedding techniques. We then develop a highly efficient frequency learning framework using an approximated inverse Fourier transform scheme for PREF along with a novel Parseval regularizer. Extensive experiments show our efficient and compact frequency-based neural signal processing technique is on par with and even better than the state-of-the-art in 2D image completion, 3D SDF surface regression, and 5D radiance field reconstruction.
+
 * **Day 39 (02/08/2022)**: [Generating Long Videos of Dynamic Scenes](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/039%20Generating%20Long%20Videos%20of%20Dynamic%20Scenes.pdf)
  
+**Abstract—** We present a video generation model that accurately reproduces object motion, changes in camera viewpoint, and new content that arises over time. Existing video generation methods often fail to produce new content as a function of time while maintaining consistencies expected in real environments, such as plausible dynamics and object persistence. A common failure case is for content to never change due to over-reliance on inductive biases to provide temporal consistency, such as a single latent code that dictates content for the entire video. On the other extreme, without long-term consistency, generated videos may morph unrealistically between different scenes. To address these limitations, we prioritize the time axis by redesigning the temporal latent representation and learning long-term consistency from data by training on longer videos. To this end, we leverage a two-phase training strategy, where we separately train using longer videos at a low resolution and shorter videos at a high resolution. To evaluate the capabilities of our model, we introduce two new benchmark datasets with explicit focus on long-term temporal dynamics.
+
 * **Day 40 (02/09/2022)**: [Conditional Adversarial Synthesis of 3D Facial Action Units](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/040%20Conditional%20Adversarial%20Synthesis%20of%203D%20Facial%20Action%20Units.pdf)
+
+**Abstract—** Employing deep learning-based approaches for fine-grained facial expression analysis, such as those involving the estimation of Action Unit (AU) intensities, is difficult due to the lack of a large-scale dataset of real faces with sufficiently diverse AU labels for training. In this paper, we consider how AU-level facial image synthesis can be used to substantially augment such a dataset. We propose an AU synthesis framework that combines the well-known 3D Morphable Model (3DMM), which intrinsically disentangles expression parameters from other face attributes, with models that adversarially generate 3DMM expression parameters conditioned on given target AU labels, in contrast to the more conventional approach of generating facial images directly. In this way, we are able to synthesize new combinations of expression parameters and facial images from desired AU labels. Extensive quantitative and qualitative results on the benchmark DISFA dataset demonstrate the effectiveness of our method on 3DMM facial expression parameter synthesis and data augmentation for deep learning-based AU intensity estimation.
 
 * **Day 41 (02/10/2022)**: [Efficient Geometry-aware 3D Generative Adversarial Networks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/041%20Efficient%20Geometry-aware%203D%20Generative%20Adversarial%20Networks.pdf)
 
+**Abstract—** Unsupervised generation of high-quality multi-view-consistent images and 3D shapes using only collections of single-view 2D photographs has been a long-standing challenge. Existing 3D GANs are either compute-intensive or make approximations that are not 3D-consistent; the former limits quality and resolution of the generated images and the latter adversely affects multi-view consistency and shape quality. In this work, we improve the computational efficiency and image quality of 3D GANs without overly relying on these approximations. We introduce an expressive hybrid explicit-implicit network architecture that, together with other design choices, synthesizes not only high-resolution multi-view-consistent images in real time but also produces high-quality 3D geometry. By decoupling feature generation and neural rendering, our framework is able to leverage state-of-the-art 2D CNN generators, such as StyleGAN2, and inherit their efficiency and expressiveness. We demonstrate state-of-the-art 3D-aware synthesis with FFHQ and AFHQ Cats, among other experiments.
+
 * **Day 42 (02/11/2022)**: [An Improved One millisecond Mobile Backbone](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/042%20An%20Improved%20One%20millisecond%20Mobile%20Backbone.pdf)
+
+**Abstract—** Efficient neural network backbones for mobile devices are often optimized for metrics such as FLOPs or parameter count. However, these metrics may not correlate well with latency of the network when deployed on a mobile device. Therefore, we perform extensive analysis of different metrics by deploying several mobile-friendly networks on a mobile device. We identify and analyze architectural and optimization bottlenecks in recent efficient neural networks and provide ways to mitigate these bottlenecks. To this end, we design an efficient backbone MobileOne, with variants achieving an inference time under 1 ms on an iPhone12 with 75.9% top-1 accuracy on ImageNet. We show that MobileOne achieves state-of-the-art performance within the efficient architectures while being many times faster on mobile. Our best model obtains similar performance on ImageNet as MobileFormer while being 38x faster. Our model obtains 2.3% better top-1 accuracy on ImageNet than EfficientNet at similar latency. Furthermore, we show that our model generalizes to multiple tasks - image classification, object detection, and semantic segmentation with significant improvements in latency and accuracy as compared to existing efficient architectures when deployed on a mobile device.
 
 * **Day 43 (02/12/2022)**: [Position Labels for Self-Supervised Vision Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/043%20Position%20Labels%20for%20Self-Supervised%20Vision%20Transformer.pdf)
 
+**Abstract—** Positional encoding is important for vision transformer (ViT) to capture the spatial structure of the input image. General effectiveness has been proven in ViT. In our work we propose to train ViT to recognize the positional label of patches of the input image, this apparently simple task actually yields a meaningful self-supervisory task. Based on previous work on ViT positional encoding, we propose two positional labels dedicated to 2D images including absolute position and relative position. Our positional labels can be easily plugged into various current ViT variants. It can work in two ways: (a) As an auxiliary training target for vanilla ViT (e.g., ViT-B and Swin-B) for better performance. (b) Combine the self-supervised ViT (e.g., MAE) to provide a more powerful self-supervised signal for semantic feature learning. Experiments demonstrate that with the proposed self-supervised methods, ViT-B and Swin-B gain improvements of 1.20% (top-1 Acc) and 0.74% (top-1 Acc) on ImageNet, respectively, and 6.15% and 1.14% improvement on Mini-ImageNet.
+
 * **Day 44 (02/13/2022)**: [Spatial Cross-Attention Improves Self-Supervised Visual Representation Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/044%20Spatial%20Cross-Attention%20Improves%20Self-Supervised%20Visual%20Representation%20Learning.pdf)
+
+**Abstract—** Unsupervised representation learning methods like SwAV are proved to be effective in learning visual semantics of a target dataset. The main idea behind these methods is that different views of a same image represent the same semantics. In this paper, we further introduce an add-on module to facilitate the injection of the knowledge accounting for spatial cross correlations among the samples. This in turn results in distilling intra-class information including feature level locations and cross similarities between same-class instances. The proposed add-on can be added to existing methods such as the SwAV. We can later remove the add-on module for inference without any modification of the learned weights. Through an extensive set of empirical evaluations, we verify that our method yields an improved performance in detecting the class activation maps, top-1 classification accuracy, and down-stream tasks such as object detection, with different configuration settings.
 
 * **Day 45 (02/14/2022)**: [Image Degeneration with Multi-Model Priors Using Denoising Diffusion Probabilistic Models](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/045%20Image%20Degeneration%20with%20Multi-Modal%20Priors%20Using%20Denoising%20Diffusion%20Probabilistic%20Models.pdf)
 
+**Abstract—** Image synthesis under multi-modal priors is a useful and challenging task that has received increasing attention in recent years. A major challenge in using generative models to accomplish this task is the lack of paired data containing all modalities (i.e. priors) and corresponding outputs. In recent work, a variational auto-encoder (VAE) model was trained in a weakly supervised manner to address this challenge. Since the generative power of VAEs is usually limited, it is difficult for this method to synthesize images belonging to complex distributions. To this end, we propose a solution based on a denoising diffusion probabilistic models to synthesise images under multi-model priors. Based on the fact that the distribution over each time step in the diffusion model is Gaussian, in this work we show that there exists a closed-form expression to the generate the image corresponds to the given modalities. The proposed solution does not require explicit retraining for all modalities and can leverage the outputs of individual modalities to generate realistic images according to different constraints. We conduct studies on two real-world datasets to demonstrate the effectiveness of our approach.
+
 * **Day 46 (02/15/2022)**: [SimVP: Simpler yet Better Video Prediction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/046%20SimVP%20Simpler%20yet%20Better%20Video%20Prediction.pdf)
+
+**Abstract—** From CNN, RNN, to ViT, we have witnessed remarkable advancements in video prediction, incorporating auxiliary inputs, elaborate neural architectures, and sophisticated training strategies. We admire these progresses but are confused about the necessity: is there a simple method that can perform comparably well? This paper proposes SimVP, a simple video prediction model that is completely built upon CNN and trained by MSE loss in an end-to-end fashion. Without introducing any additional tricks and complicated strategies, we can achieve state-of-the-art performance on five benchmark datasets. Through extended experiments, we demonstrate that SimVP has strong generalization and extensibility on real-world datasets. The significant reduction of training cost makes it easier to scale to complex scenarios. We believe SimVP can serve as a solid baseline to stimulate the further development of video prediction. The code is available at [this https URL](https://github.com/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction).
 
 * **Day 47 (02/16/2022)**: [Saccade Mechanisms for Image Classification, Object Detection and Tracking](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/047%20Saccade%20Mechanisms%20for%20Image%20Classification%20Object%20Detection%20and%20Tracking.pdf)
 
+**Abstract—** We examine how the saccade mechanism from biological vision can be used to make deep neural networks more efficient for classification and object detection problems. Our proposed approach is based on the ideas of attention-driven visual processing and saccades, miniature eye movements influenced by attention. We conduct experiments by analyzing: i) the robustness of different deep neural network (DNN) feature extractors to partially-sensed images for image classification and object detection, and ii) the utility of saccades in masking image patches for image classification and object tracking. Experiments with convolutional nets (ResNet-18) and transformer-based models (ViT, DETR, TransTrack) are conducted on several datasets (CIFAR-10, DAVSOD, MSCOCO, and MOT17). Our experiments show intelligent data reduction via learning to mimic human saccades when used in conjunction with state-of-the-art DNNs for classification, detection, and tracking tasks. We observed minimal drop in performance for the classification and detection tasks while only using about 30\% of the original sensor data. We discuss how the saccade mechanism can inform hardware design via ``in-pixel'' processing.
+
 * **Day 48 (02/17/2022)**: [Globally-Optimal Contrast Maximisation for Event Cameras](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/048%20Globally-Optimal%20Contrast%20Maximisation%20for%20Event%20Cameras.pdf)
+
+**Abstract—** Event cameras are bio-inspired sensors that perform well in challenging illumination conditions and have high temporal resolution. However, their concept is fundamentally different from traditional frame-based cameras. The pixels of an event camera operate independently and asynchronously. They measure changes of the logarithmic brightness and return them in the highly discretised form of time-stamped events indicating a relative change of a certain quantity since the last event. New models and algorithms are needed to process this kind of measurements. The present work looks at several motion estimation problems with event cameras. The flow of the events is modelled by a general homographic warping in a space-time volume, and the objective is formulated as a maximisation of contrast within the image of warped events. Our core contribution consists of deriving globally optimal solutions to these generally non-convex problems, which removes the dependency on a good initial guess plaguing existing methods. Our methods rely on branch-and-bound optimisation and employ novel and efficient, recursive upper and lower bounds derived for six different contrast estimation functions. The practical validity of our approach is demonstrated by a successful application to three different event camera motion estimation problems.
 
 * **Day 49 (02/18/2022)**: [Real-time Hyper-Dimensional Reconfiguration at the Edge using Hardware Accelerators](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/049%20Real-time%20Hyper-Dimensional%20Reconfiguration%20at%20the%20Edge%20using%20Hardware%20Accelerators.pdf) 
 
+**Abstract—** In this paper we present Hyper-Dimensional Reconfigurable Analytics at the Tactical Edge (HyDRATE) using low-SWaP embedded hardware that can perform real-time reconfiguration at the edge leveraging non-MAC (free of floating-point MultiplyACcumulate operations) deep neural nets (DNN) combined with hyperdimensional (HD) computing accelerators. We describe the algorithm, trained quantized model generation, and simulated performance of a feature extractor free of multiply-accumulates feeding a hyperdimensional logic-based classifier. Then we show how performance increases with the number of hyperdimensions. We describe the realized low-SWaP FPGA hardware and embedded software system compared to traditional DNNs and detail the implemented hardware accelerators. We discuss the measured system latency and power, noise robustness due to use of learnable quantization and HD computing, actual versus simulated system performance for a video activity classification task and demonstration of reconfiguration on this same dataset. We show that reconfigurability in the field is achieved by retraining only the feed-forward HD classifier without gradient descent backpropagation (gradient-free), using few-shot learning of new classes at the edge. Initial work performed used LRCN DNN and is currently extended to use Two-stream DNN with improved performance.
+
 * **Day 50 (02/19/2022)**: [Referring Image Matting](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/050%20Referring%20Image%20Matting.pdf)
+
+**Abstract—** Image matting refers to extracting the accurate foregrounds in the image. Current automatic methods tend to extract all the salient objects in the image indiscriminately. In this paper, we propose a new task named Referring Image Matting (RIM), referring to extracting the meticulous alpha matte of the specific object that can best match the given natural language description. However, prevalent visual grounding methods are all limited to the segmentation level, probably due to the lack of high-quality datasets for RIM. To fill the gap, we establish the first large-scale challenging dataset RefMatte by designing a comprehensive image composition and expression generation engine to produce synthetic images on top of current public high-quality matting foregrounds with flexible logics and re-labelled diverse attributes. RefMatte consists of 230 object categories, 47,500 images, 118,749 expression-region entities, and 474,996 expressions, which can be further extended easily in the future. Besides this, we also construct a real-world test set with manually generated phrase annotations consisting of 100 natural images to further evaluate the generalization of RIM models. We first define the task of RIM in two settings, i.e., prompt-based and expression-based, and then benchmark several representative methods together with specific model designs for image matting. The results provide empirical insights into the limitations of existing methods as well as possible solutions. We believe the new task RIM along with the RefMatte dataset will open new research directions in this area and facilitate future studies. The dataset and code will be made publicly available at [this https URL](https://github.com/JizhiziLi/RIM).
 
 * **Day 51 (02/20/2022)**: [MEAT: Maneuver Extraction from Agent Trajectories](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/051%20MEAT%20Maneuver%20Extraction%20from%20Agent%20Trajectories.pdf)
 
@@ -523,60 +563,60 @@
 	
 * **Day 231 (08/19/2022)**: []()
 
-* **Day 232 (08/17/2022)**: []()
+* **Day 232 (08/20/2022)**: []()
 
-* **Day 233 (08/18/2022)**: []()
+* **Day 233 (08/21/2022)**: []()
 
-* **Day 234 (08/19/2022)**: []()
+* **Day 234 (08/22/2022)**: []()
 	
-* **Day 235 (08/20/2022)**: []()
+* **Day 235 (08/23/2022)**: []()
 	
-* **Day 236 (08/21/2022)**: []()
+* **Day 236 (08/24/2022)**: []()
 	
-* **Day 237 (08/22/2022)**: []()
+* **Day 237 (08/25/2022)**: []()
 	
-* **Day 238 (08/23/2022)**: []()
+* **Day 238 (08/26/2022)**: []()
 	
-* **Day 239 (08/24/2022)**: []()
+* **Day 239 (08/27/2022)**: []()
 	
-* **Day 240 (08/25/2022)**: []()
+* **Day 240 (08/28/2022)**: []()
 	
-* **Day 241 (08/26/2022)**: []()
+* **Day 241 (08/29/2022)**: []()
 	
-* **Day 242 (08/27/2022)**: []()
+* **Day 242 (08/30/2022)**: []()
 	
-* **Day 243 (08/28/2022)**: []()
+* **Day 243 (08/31/2022)**: []()
 	
-* **Day 244 (08/29/2022)**: []()
+* **Day 244 (09/01/2022)**: []()
 	
-* **Day 245 (08/30/2022)**: []()
+* **Day 245 (09/02/2022)**: []()
 	
-* **Day 246 (08/31/2022)**: []()
+* **Day 246 (09/03/2022)**: []()
 	
-* **Day 247 (09/01/2022)**: []()
+* **Day 247 (09/04/2022)**: []()
 	
-* **Day 248 (09/02/2022)**: []()
+* **Day 248 (09/05/2022)**: []()
 	
-* **Day 249 (09/03/2022)**: []()
+* **Day 249 (09/06/2022)**: []()
 	
-* **Day 250 (09/04/2022)**: []()
+* **Day 250 (09/07/2022)**: []()
 	
-* **Day 251 (09/04/2022)**: []()
+* **Day 251 (09/08/2022)**: []()
 	
-* **Day 252 (09/04/2022)**: []()
+* **Day 252 (09/09/2022)**: []()
 	
-* **Day 253 (09/04/2022)**: []()
+* **Day 253 (09/10/2022)**: []()
 	
-* **Day 254 (09/04/2022)**: []()
+* **Day 254 (09/11/2022)**: []()
 
-* **Day 255 (08/30/2022)**: []()
+* **Day 255 (09/12/2022)**: []()
 	
-* **Day 256 (08/31/2022)**: []()
+* **Day 256 (09/13/2022)**: []()
 	
-* **Day 257 (09/01/2022)**: []()
+* **Day 257 (09/14/2022)**: []()
 	
-* **Day 258 (09/02/2022)**: []()
+* **Day 258 (09/15/2022)**: []()
 	
-* **Day 259 (09/03/2022)**: []()
+* **Day 259 (09/16/2022)**: []()
 	
-* **Day 260 (09/04/2022)**: []()
+* **Day 260 (09/17/2022)**: []()
