@@ -808,216 +808,216 @@ Our code is relased on [this https URL](https://github.com/zhangbaijin/Spatial-T
 
 [202 FastGeodis Fast Generalised Geodesic Distance Transform](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
 
-* **Day 202 (07/21/2022)**: [203 HOB-CNN Hallucination of Occluded Branches with a Convolutional Neural Network for 2D Fruit Trees](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 202 (07/21/2022)**: [203 HOB-CNN: Hallucination of Occluded Branches with a Convolutional Neural Network for 2D Fruit Trees](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/203%20HOB-CNN%20Hallucination%20of%20Occluded%20Branches%20with%20a%20Convolutional%20Neural%20Network%20for%202D%20Fruit%20Trees.pdf)
 
 
-[204 Testing Relational Understanding in Text-Guided Image Generation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[204 Testing Relational Understanding in Text-Guided Image Generation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/204%20Testing%20Relational%20Understanding%20in%20Text-Guided%20Image%20Generation.pdf)
 
 
-* **Day 203 (07/22/2022)**: [205 Paddy Leaf diseases identification on Infrared Images based Convolutional Neural Networks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 203 (07/22/2022)**: [205 Paddy Leaf diseases identification on Infrared Images based Convolutional Neural Networks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/205%20Paddy%20Leaf%20diseases%20identification%20on%20Infrared%20Images%20based%20Convolutional%20Neural%20Networks.pdf)
 
 
-[206 Generating Complex 4D Expression Transitions by Learning Face Landmark Trajectories](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[206 Generating Complex 4D Expression Transitions by Learning Face Landmark Trajectories](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/206%20Generating%20Complex%204D%20Expression%20Transitions%20by%20Learning%20Face%20Landmark%20Trajectories.pdf)
 
-* **Day 204 (07/23/2022)**: [207 UAVM: A Unified Model for Audio-Visual Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[208 Machine Learning and Computer Vision Techniques in Bee Monitoring Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 205 (07/24/2022)**: [209 Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 204 (07/23/2022)**: [207 UAVM: A Unified Model for Audio-Visual Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/207%20UAVM%20A%20Unified%20Model%20for%20Audio-Visual%20Learning.pdf)
 
 
-[210 Weakly Supervised Deep Instance Nuclei Detection using Points Annotation in 3D Cardiovascular Immunofluorescent Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[208 Machine Learning and Computer Vision Techniques in Bee Monitoring Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/208%20Machine%20Learning%20and%20Computer%20Vision%20Techniques%20in%20Bee%20Monitoring%20Applications.pdf)
 
-* **Day 206 (07/25/2022)**: [211 Neural Correspondence Field for Object Pose Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[212 Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 207 (07/26/2022)**: [213 DAS Densely-Anchored Sampling for Deep Metric Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 205 (07/24/2022)**: [209 Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/209%20Explicit%20Occlusion%20Reasoning%20for%20Multi-person%203D%20Human%20Pose%20Estimation.pdf)
 
 
-[214 Few-Shot Class-Incremental Learning from an Open-Set Perspective](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[210 Weakly Supervised Deep Instance Nuclei Detection using Points Annotation in 3D Cardiovascular Immunofluorescent Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/210%20Weakly%20Supervised%20Deep%20Instance%20Nuclei%20Detection%20using%20Points%20Annotation%20in%203D%20Cardiovascular%20Immunofluorescent%20Images.pdf)
 
-* **Day 208 (07/27/2022)**: [215 Learning Shadow Correspondence for Video Shadow Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[216 Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 209 (07/28/2022)**: [217 Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 206 (07/25/2022)**: [211 Neural Correspondence Field for Object Pose Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/211%20Neural%20Correspondence%20Field%20for%20Object%20Pose%20Estimation.pdf)
 
 
-[218 Virtual Reality Simulator for Fetoscopic Spina Bifida Repair Surgery](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[212 Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/212%20Adaptive%20Feature%20Fusion%20for%20Cooperative%20Perception%20using%20LiDAR%20Point%20Clouds.pdf)
+
+* **Day 207 (07/26/2022)**: [213 DAS Densely-Anchored Sampling for Deep Metric Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/213%20DAS%20Densely-Anchored%20Sampling%20for%20Deep%20Metric%20Learning.pdf)
+
+
+[214 Few-Shot Class-Incremental Learning from an Open-Set Perspective](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/214%20Few-Shot%20Class-Incremental%20Learning%20from%20an%20Open-Set%20Perspective.pdf)
+
+* **Day 208 (07/27/2022)**: [215 Learning Shadow Correspondence for Video Shadow Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/215%20Learning%20Shadow%20Correspondence%20for%20Video%20Shadow%20Detection.pdf)
+
+
+[216 Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/216%20Learning%20Feature%20Decomposition%20for%20Domain%20Adaptive%20Monocular%20Depth%20Estimation.pdf)
+
+* **Day 209 (07/28/2022)**: [217 Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/217%20Distilled%20Low%20Rank%20Neural%20Radiance%20Field%20with%20Quantization%20for%20Light%20Field%20Compression.pdf)
+
+
+[218 Virtual Reality Simulator for Fetoscopic Spina Bifida Repair Surgery](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/218%20Virtual%20Reality%20Simulator%20for%20Fetoscopic%20Spina%20Bifida%20Repair%20Surgery.pdf)
   
-* **Day 210 (07/29/2022)**: [219 A Survey on Masked Autoencoder for Self-Supervised Learning in Vision and Beyond](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 210 (07/29/2022)**: [219 A Survey on Masked Autoencoder for Self-Supervised Learning in Vision and Beyond](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/219%20A%20Survey%20on%20Masked%20Autoencoder%20for%20Self-Supervised%20Learning%20in%20Vision%20and%20Beyond.pdf)
 
 
-[220 Few-shot Single-view 3D Reconstruction with Memory Pair Contrastive Network](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[220 Few-shot Single-view 3D Reconstruction with Memory Pair Contrastive Network](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/220%20Few-shot%20Single-view%203D%20Reconstruction%20with%20Memory%20Pair%20Contrastive%20Network.pdf)
 
-* **Day 211 (07/30/2022)**: [221 Multiple Categories Of Visual Smoke Detection Database](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[222 Towards Privacy-Preserving, Real-Time and Lossless Feature Matching](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 212 (07/31/2022)**: [223 Meta-DETR Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 211 (07/30/2022)**: [221 Multiple Categories Of Visual Smoke Detection Database](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/221%20Multiple%20Categories%20Of%20Visual%20Smoke%20Detection%20Database.pdf)
 
 
-[224 PolarMix A General Data Augmentation Technique for LiDAR Point Clouds](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[222 Towards Privacy-Preserving, Real-Time and Lossless Feature Matching](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/222%20Towards%20Privacy-Preserving%2C%20Real-Time%20and%20Lossless%20Feature%20Matching.pdf)
 
-* **Day 213 (08/01/2022)**: [225 Learning Pseudo Front Depth for 2D Forward-Looking Sonar-based Multi-view Stereo](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[226 RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 214 (08/02/2022)**: [227 Improving Fine-tuning of Self-supervised Models with Contrastive Initialization](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 212 (07/31/2022)**: [223 Meta-DETR Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/223%20Meta-DETR%20Image-Level%20Few-Shot%20Detection%20with%20Inter-Class%20Correlation%20Exploitation.pdf)
 
 
-[228 Revisiting the Critical Factors of Augmentation-Invariant Representation Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[224 PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/224%20PolarMix%20A%20General%20Data%20Augmentation%20Technique%20for%20LiDAR%20Point%20Clouds.pdf)
 
-* **Day 215 (08/03/2022)**: [229 MobileNeRF Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[230 Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 216 (08/04/2022)**: [231 Simplex Clustering via sBeta with Applications to Online Adjustment of Black-Box Predictions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 213 (08/01/2022)**: [225 Learning Pseudo Front Depth for 2D Forward-Looking Sonar-based Multi-view Stereo](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/225%20Learning%20Pseudo%20Front%20Depth%20for%202D%20Forward-Looking%20Sonar-based%20Multi-view%20Stereo.pdf)
 
 
-[232 Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[226 RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/226%20RBP-Pose%20Residual%20Bounding%20Box%20Projection%20for%20Category-Level%20Pose%20Estimation.pdf)
 
-* **Day 217 (08/05/2022)**: [233 Towards Intercultural Affect Recognition Audio-Visual Affect Recognition in-the-Wild Across Six Cultures](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[234 One for All One-stage Referring Expression Comprehension with Dynamic Reasoning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 218 (08/06/2022)**: [235 Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 214 (08/02/2022)**: [227 Improving Fine-tuning of Self-supervised Models with Contrastive Initialization](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/227%20Improving%20Fine-tuning%20of%20Self-supervised%20Models%20with%20Contrastive%20Initialization.pdf)
 
 
-[236 Neuro-Symbolic Learning Principles and Applications in Ophthalmology](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[228 Revisiting the Critical Factors of Augmentation-Invariant Representation Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/228%20Revisiting%20the%20Critical%20Factors%20of%20Augmentation-Invariant%20Representation%20Learning.pdf)
 
-* **Day 219 (08/07/2022)**: [237 Less is More Consistent Video Depth Estimation with Masked Frames Modeling](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[238 Evaluating Table Structure Recognition A New Perspective](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 220 (08/08/2022)**: [239 PVBM: A Python Vasculature Biomarker Toolbox Based On Retinal Blood Vessel Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 215 (08/03/2022)**: [229 MobileNeRF Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/229%20MobileNeRF%20Exploiting%20the%20Polygon%20Rasterization%20Pipeline%20for%20Efficient%20Neural%20Field%20Rendering%20on%20Mobile%20Architectures.pdf)
 
 
-[240 STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[230 Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/230%20Point%20Primitive%20Transformer%20for%20Long-Term%204D%20Point%20Cloud%20Video%20Understanding.pdf)
 
-* **Day 221 (08/09/2022)**: [241 FixMatchSeg Fixing FixMatch for Semi-Supervised Semantic Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[242 Robust Real-World Image Super-Resolution against Adversarial Attacks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 222 (08/10/2022)**: [243 Toward Understanding WordArt Corner-Guided Transformer for Scene Text Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 216 (08/04/2022)**: [231 Simplex Clustering via sBeta with Applications to Online Adjustment of Black-Box Predictions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/231%20Simplex%20Clustering%20via%20sBeta%20with%20Applications%20to%20Online%20Adjustment%20of%20Black-Box%20Predictions.pdf)
 
 
-[202 FastGeodis Fast Generalised Geodesic Distance Transform](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[232 Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/232%20Doubly%20Deformable%20Aggregation%20of%20Covariance%20Matrices%20for%20Few-Shot%20Segmentation.pdf)
 
-* **Day 223 (08/11/2022)**: [245 Design What You Desire Icon Generation from Orthogonal Application and Theme Labels](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[246 BYOLMed3D: Self-Supervised Representation Learning of Medical Videos using Gradient Accumulation Assisted 3D BYOL Framework](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 224 (08/12/2022)**: [247 Out-of-Distribution Detection with Semantic Mismatch under Masking](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 217 (08/05/2022)**: [233 Towards Intercultural Affect Recognition Audio-Visual Affect Recognition in-the-Wild Across Six Cultures](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/233%20Towards%20Intercultural%20Affect%20Recognition%20Audio-Visual%20Affect%20Recognition%20in-the-Wild%20Across%20Six%20Cultures.pdf)
 
 
-[248 SdAE Self-distillated Masked Autoencoder](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[234 One for All One-stage Referring Expression Comprehension with Dynamic Reasoning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/234%20One%20for%20All%20One-stage%20Referring%20Expression%20Comprehension%20with%20Dynamic%20Reasoning.pdf)
 
-* **Day 225 (08/13/2022)**: [249 One-Shot Medical Landmark Localization by Edge-Guided Transform and Noisy Landmark Refinement](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[250 INSightR-Net Interpretable Neural Network for Regression using Similarity-based Comparisons to Prototypical Examples](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 226 (08/14/2022)**: [251 T4DT Tensorizing Time for Learning Temporal 3D Visual Data](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 218 (08/06/2022)**: [235 Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/235%20Skeleton-Parted%20Graph%20Scattering%20Networks%20for%203D%20Human%20Motion%20Prediction.pdf)
 
 
-[252 CLIP-based Neural Neighbour Style Transfer for 3D Assets](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[236 Neuro-Symbolic Learning Principles and Applications in Ophthalmology](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/236%20Neuro-Symbolic%20Learning%20Principles%20and%20Applications%20in%20Ophthalmology.pdf)
 
-* **Day 227 (08/15/2022)**: [253 Deep Saliency Prior for Reducing Visual Distraction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[254 MotionDiffuse Text-Driven Human Motion Generation with Diffusion Model](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 228 (08/16/2022)**: [255 QuantNAS for super resolution searching for efficient quantization-friendly architectures against quantization noise](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 219 (08/07/2022)**: [237 Less is More Consistent Video Depth Estimation with Masked Frames Modeling](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/237%20Less%20is%20More%20Consistent%20Video%20Depth%20Estimation%20with%20Masked%20Frames%20Modeling.pdf)
 
 
-[256 Attentive pooling for Group Activity Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[238 Evaluating Table Structure Recognition A New Perspective](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/238%20Evaluating%20Table%20Structure%20Recognition%20A%20New%20Perspective.pdf)
 
-* **Day 229 (08/17/2022)**: [257 Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[258 Style-Agnostic Reinforcement Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 230 (08/18/2022)**: [259 Automatic Identification of Coal and RockGangue Based on DenseNet and Gaussian Process](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 220 (08/08/2022)**: [239 PVBM: A Python Vasculature Biomarker Toolbox Based On Retinal Blood Vessel Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/239%20PVBM%20A%20Python%20Vasculature%20Biomarker%20Toolbox%20Based%20On%20Retinal%20Blood%20Vessel%20Segmentation.pdf)
 
 
-[260 Binary Representation via Jointly Personalized Sparse Hashing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[240 STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/240%20STrajNet%20Occupancy%20Flow%20Prediction%20via%20Multi-modal%20Swin%20Transformer.pdf)
+
+* **Day 221 (08/09/2022)**: [241 FixMatchSeg: Fixing FixMatch for Semi-Supervised Semantic Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/241%20FixMatchSeg%20Fixing%20FixMatch%20for%20Semi-Supervised%20Semantic%20Segmentation.pdf)
+
+
+[242 Robust Real-World Image Super-Resolution against Adversarial Attacks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/242%20Robust%20Real-World%20Image%20Super-Resolution%20against%20Adversarial%20Attacks.pdf)
+
+* **Day 222 (08/10/2022)**: [243 Toward Understanding WordArt Corner-Guided Transformer for Scene Text Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/243%20Toward%20Understanding%20WordArt%20Corner-Guided%20Transformer%20for%20Scene%20Text%20Recognition.pdf)
+
+
+[244]()
+
+* **Day 223 (08/11/2022)**: [245 Design What You Desire Icon Generation from Orthogonal Application and Theme Labels](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/245%20Design%20What%20You%20Desire%20Icon%20Generation%20from%20Orthogonal%20Application%20and%20Theme%20Labels.pdf)
+
+
+[246 BYOLMed3D: Self-Supervised Representation Learning of Medical Videos using Gradient Accumulation Assisted 3D BYOL Framework](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/246%20BYOLMed3D%20Self-Supervised%20Representation%20Learning%20of%20Medical%20Videos%20using%20Gradient%20Accumulation%20Assisted%203D%20BYOL%20Framework.pdf)
+
+* **Day 224 (08/12/2022)**: [247 Out-of-Distribution Detection with Semantic Mismatch under Masking](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/247%20Out-of-Distribution%20Detection%20with%20Semantic%20Mismatch%20under%20Masking.pdf)
+
+
+[248 SdAE: Self-distillated Masked Autoencoder](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/248%20SdAE%20Self-distillated%20Masked%20Autoencoder.pdf)
+
+* **Day 225 (08/13/2022)**: [249 One-Shot Medical Landmark Localization by Edge-Guided Transform and Noisy Landmark Refinement](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/249%20One-Shot%20Medical%20Landmark%20Localization%20by%20Edge-Guided%20Transform%20and%20Noisy%20Landmark%20Refinement.pdf)
+
+
+[250 INSightR-Net Interpretable Neural Network for Regression using Similarity-based Comparisons to Prototypical Examples](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/250%20INSightR-Net%20Interpretable%20Neural%20Network%20for%20Regression%20using%20Similarity-based%20Comparisons%20to%20Prototypical%20Examples.pdf)
+
+* **Day 226 (08/14/2022)**: [251 T4DT: Tensorizing Time for Learning Temporal 3D Visual Data](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/251%20T4DT%20Tensorizing%20Time%20for%20Learning%20Temporal%203D%20Visual%20Data.pdf)
+
+
+[252 CLIP-based Neural Neighbour Style Transfer for 3D Assets](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/252%20CLIP-based%20Neural%20Neighbour%20Style%20Transfer%20for%203D%20Assets.pdf)
+
+* **Day 227 (08/15/2022)**: [253 Deep Saliency Prior for Reducing Visual Distraction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/253%20Deep%20Saliency%20Prior%20for%20Reducing%20Visual%20Distraction.pdf)
+
+
+[254 MotionDiffuse Text-Driven Human Motion Generation with Diffusion Model](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/254%20MotionDiffuse%20Text-Driven%20Human%20Motion%20Generation%20with%20Diffusion%20Model.pdf)
+
+* **Day 228 (08/16/2022)**: [255 QuantNAS for super resolution searching for efficient quantization-friendly architectures against quantization noise](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/255%20QuantNAS%20for%20super%20resolution%20searching%20for%20efficient%20quantization-friendly%20architectures%20against%20quantization%20noise.pdf)
+
+
+[256 Attentive pooling for Group Activity Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/256%20Attentive%20pooling%20for%20Group%20Activity%20Recognition.pdf)
+
+* **Day 229 (08/17/2022)**: [257 Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/257%20Active%20Learning%20with%20Effective%20Scoring%20Functions%20for%20Semi-Supervised%20Temporal%20Action%20Localization.pdf)
+
+
+[258 Style-Agnostic Reinforcement Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/258%20Style-Agnostic%20Reinforcement%20Learning.pdf)
+
+* **Day 230 (08/18/2022)**: [259 Automatic Identification of Coal and RockGangue Based on DenseNet and Gaussian Process](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/259%20Automatic%20Identification%20of%20Coal%20and%20RockGangue%20Based%20on%20DenseNet%20and%20Gaussian%20Process.pdf)
+
+
+[260 Binary Representation via Jointly Personalized Sparse Hashing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/260%20Binary%20Representation%20via%20Jointly%20Personalized%20Sparse%20Hashing.pdf)
 	
-* **Day 231 (08/19/2022)**: [261 Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 231 (08/19/2022)**: [261 Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/261%20Feature%20Alignment%20by%20Uncertainty%20and%20Self-Training%20for%20Source-Free%20Unsupervised%20Domain%20Adaptation.pdf)
 
 
-[262 LANIT Language-Driven Image-to-Image Translation for Unlabeled Data](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[262 LANIT Language-Driven Image-to-Image Translation for Unlabeled Data](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/262%20LANIT%20Language-Driven%20Image-to-Image%20Translation%20for%20Unlabeled%20Data.pdf)
 
-* **Day 232 (08/20/2022)**: [263 Improving RGB-D Point Cloud Registration by Learning Multi-Scale Local Linear Transformation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
-
-
-[264 Segmentation of Weakly Visible Environmental Microorganism Images Using Pair-wise Deep Learning Features](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
-
-* **Day 233 (08/21/2022)**: [265 A Realism Metric for Generated LiDAR Point Clouds](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 232 (08/20/2022)**: [263 Improving RGB-D Point Cloud Registration by Learning Multi-Scale Local Linear Transformation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/263%20Improving%20RGB-D%20Point%20Cloud%20Registration%20by%20Learning%20Multi-Scale%20Local%20Linear%20Transformation.pdf)
 
 
-[266 Audiogram Digitization Tool for Audiological Reports](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[264 Segmentation of Weakly Visible Environmental Microorganism Images Using Pair-wise Deep Learning Features](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/264%20Segmentation%20of%20Weakly%20Visible%20Environmental%20Microorganism%20Images%20Using%20Pair-wise%20Deep%20Learning%20Features.pdf)
 
-* **Day 234 (08/22/2022)**: [267 Temporal Flow Mask Attention for Open-Set Long-Tailed Recognition of Wild Animals in Camera-Trap Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 233 (08/21/2022)**: [265 A Realism Metric for Generated LiDAR Point Clouds](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/265%20A%20Realism%20Metric%20for%20Generated%20LiDAR%20Point%20Clouds.pdf)
 
 
-[268 Injecting Image Details into CLIPs Feature Space](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[266 Audiogram Digitization Tool for Audiological Reports](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/266%20Audiogram%20Digitization%20Tool%20for%20Audiological%20Reports.pdf)
+
+* **Day 234 (08/22/2022)**: [267 Temporal Flow Mask Attention for Open-Set Long-Tailed Recognition of Wild Animals in Camera-Trap Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/267%20Temporal%20Flow%20Mask%20Attention%20for%20Open-Set%20Long-Tailed%20Recognition%20of%20Wild%20Animals%20in%20Camera-Trap%20Images.pdf)
+
+
+[268 Injecting Image Details into CLIPs Feature Space](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/268%20Injecting%20Image%20Details%20into%20CLIPs%20Feature%20Space.pdf)
 	
-* **Day 235 (08/23/2022)**: [269 EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 235 (08/23/2022)**: [269 EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/269%20EViT%20Privacy-Preserving%20Image%20Retrieval%20via%20Encrypted%20Vision%20Transformer%20in%20Cloud%20Computing.pdf)
 
 
-[270 AWADA Attention-Weighted Adversarial Domain Adaptation for Object Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[270 AWADA Attention-Weighted Adversarial Domain Adaptation for Object Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/270%20AWADA%20Attention-Weighted%20Adversarial%20Domain%20Adaptation%20for%20Object%20Detection.pdf)
 	
-* **Day 236 (08/24/2022)**: [271 TRUST: An Accurate and End-to-End Table structure Recognizer Using Spitting-based Transformers](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 236 (08/24/2022)**: [271 TRUST: An Accurate and End-to-End Table structure Recognizer Using Spitting-based Transformers](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/271%20TRUST%20An%20Accurate%20and%20End-to-End%20Table%20structure%20Recognizer%20Using%20Spitting-based%20Transformers.pdf)
 
 
-[272 ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[272 ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/272%20ELMformer%20Efficient%20Raw%20Image%20Restoration%20with%20a%20Locally%20Multiplicative%20Transformer.pdf)
 	
-* **Day 237 (08/25/2022)**: [273 Transfering Low-Frequency Features for Domain Adaptation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 237 (08/25/2022)**: [273 Transfering Low-Frequency Features for Domain Adaptation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/273%20TRANSFERING%20LOW-FREQUENCY%20FEATURES%20FOR%20DOMAIN%20ADAPTATION.pdf)
 
 
-[274 Scatter Points in Space 3D Detection from Multi-view Monocular Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[274 Scatter Points in Space 3D Detection from Multi-view Monocular Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/274%20Scatter%20Points%20in%20Space%203D%20Detection%20from%20Multi-view%20Monocular%20Images.pdf)
 	
-* **Day 238 (08/26/2022)**: [275 SimpleRecon 3D Reconstruction without 3D Convolutions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 238 (08/26/2022)**: [275 SimpleRecon 3D Reconstruction without 3D Convolutions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/275%20SimpleRecon%203D%20Reconstruction%20without%203D%20Convolutions.pdf)
 
 
-[276 Synthehicle Multi-Vehicle Multi-Camera Tracking in Virtual Cities](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[276 Synthehicle Multi-Vehicle Multi-Camera Tracking in Virtual Cities](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/276%20Synthehicle%20Multi-Vehicle%20Multi-Camera%20Tracking%20in%20Virtual%20Cities.pdf)
 	
-* **Day 239 (08/27/2022)**: [277 Wasserstein Embedding for Capsule Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 239 (08/27/2022)**: [277 Wasserstein Embedding for Capsule Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/277%20Wasserstein%20Embedding%20for%20Capsule%20Learning.pdf)
 
 
-[278 Delving into the Frequency Temporally Consistent Human Motion Transfer in the Fourier Space](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[278 Delving into the Frequency Temporally Consistent Human Motion Transfer in the Fourier Space](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/278%20Delving%20into%20the%20Frequency%20Temporally%20Consistent%20Human%20Motion%20Transfer%20in%20the%20Fourier%20Space.pdf)
 	
-* **Day 240 (08/28/2022)**: [279 MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 240 (08/28/2022)**: [279 MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/279%20MM-PCQA%20Multi-Modal%20Learning%20for%20No-reference%20Point%20Cloud%20Quality%20Assessment.pdf)
 
 
-[280 Combating Noisy Labels in Long-Tailed Image Classification](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[280 Combating Noisy Labels in Long-Tailed Image Classification](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/280%20Combating%20Noisy%20Labels%20in%20Long-Tailed%20Image%20Classification.pdf)
 	
-* **Day 241 (08/29/2022)**: [281 Video-Guided Curriculum Learning for Spoken Video Grounding](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 241 (08/29/2022)**: [281 Video-Guided Curriculum Learning for Spoken Video Grounding](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/281%20Video-Guided%20Curriculum%20Learning%20for%20Spoken%20Video%20Grounding.pdf)
 
 
-[282 Self-Supervised Pretraining for 2D Medical Image Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[282 Self-Supervised Pretraining for 2D Medical Image Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/282%20Self-Supervised%20Pretraining%20for%202D%20Medical%20Image%20Segmentation.pdf)
 	
-* **Day 242 (08/30/2022)**: [283 FLAME Free-form Language-based Motion Synthesis & Editing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 242 (08/30/2022)**: [283 FLAME: Free-form Language-based Motion Synthesis & Editing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/283%20FLAME%20Free-form%20Language-based%20Motion%20Synthesis%20%26%20Editing.pdf)
 
 
-[284 Gait Recognition in the Wild with Multi-hop Temporal Switch](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[284 Gait Recognition in the Wild with Multi-hop Temporal Switch](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/284%20Gait%20Recognition%20in%20the%20Wild%20with%20Multi-hop%20Temporal%20Switch.pdf)
 	
-* **Day 243 (08/31/2022)**: [285 Identifying Out-of-Distribution Samples in Real-Time for Safety-Critical 2D Object Detectio with Margin Entropy Loss](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/201%20Robust%20Change%20Detection%20Based%20on%20Neural%20Descriptor%20Fields.pdf)
+* **Day 243 (08/31/2022)**: [285 Identifying Out-of-Distribution Samples in Real-Time for Safety-Critical 2D Object Detectio with Margin Entropy Loss](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/285%20Identifying%20Out-of-Distribution%20Samples%20in%20Real-Time%20for%20Safety-Critical%202D%20Object%20Detectio%20with%20Margin%20Entropy%20Loss.pdf)
 
 
-[286 SemSegDepth A Combined Model for Semantic Segmentation and Depth Completion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/202%20FastGeodis%20Fast%20Generalised%20Geodesic%20Distance%20Transform.pdf)
+[286 SemSegDepth: A Combined Model for Semantic Segmentation and Depth Completion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/286%20SemSegDepth%20A%20Combined%20Model%20for%20Semantic%20Segmentation%20and%20Depth%20Completion.pdf)
 	
 	--
 * **Day 244 (09/01/2022)**: [287 TokenCut: Segmenting in Images and Videos with Self-Supervised Transformer and Normalized Cut](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/287%20TokenCut%20Segmenting%20in%20Images%20and%20Videos%20with%20Self-Supervised%20Transformer%20and%20Normalized%20Cut.pdf)
