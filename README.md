@@ -1241,7 +1241,15 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 **Abstract—** This paper introduces a unified framework for video action segmentation via sequence to sequence (seq2seq) translation in a fully and timestamp supervised setup. In contrast to current state-of-the-art frame-level prediction methods, we view action segmentation as a seq2seq translation task, i.e., mapping a sequence of video frames to a sequence of action segments. Our proposed method involves a series of modifications and auxiliary loss functions on the standard Transformer seq2seq translation model to cope with long input sequences opposed to short output sequences and relatively few videos. We incorporate an auxiliary supervision signal for the encoder via a frame-wise loss and propose a separate alignment decoder for an implicit duration prediction. Finally, we extend our framework to the timestamp supervised setting via our proposed constrained k-medoids algorithm to generate pseudo-segmentations. Our proposed framework performs consistently on both fully and timestamp supervised settings, outperforming or competing state-of-the-art on several datasets.
 
 	
-* **Day 249 (09/06/2022)**: []()
+* **Day 249 (09/06/2022)**:
+- [297 Seq-UPS: Sequential Uncertainty-aware Pseudo-label for Semi-Supervised Text Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/297%20Seq-UPS%20Sequential%20Uncertainty-aware%20Pseudo-label%20Selection%20for%20Semi-Supervised%20Text%20Recognition.pdf)
+
+**Abstract—** 
+
+- [298 Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/298%20Lip-to-Speech%20Synthesis%20for%20Arbitrary%20Speakers%20in%20the%20Wild.pdf)
+
+**Abstract—** 
+
 	
 * **Day 250 (09/07/2022)**: []()
 	
