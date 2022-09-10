@@ -1269,11 +1269,17 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 - [302 A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/302%20A%20Scene-Text%20Synthesis%20Engine%20Achieved%20Through%20Learning%20from%20Decomposed%20Real-World%20Data.pdf)
 
 **Abstract—** Scene-text image synthesis techniques aimed at naturally composing text instances on background scene images are very appealing for training deep neural networks because they can provide accurate and comprehensive annotation information. Prior studies have explored generating synthetic text images on two-dimensional and three-dimensional surfaces based on rules derived from real-world observations. Some of these studies have proposed generating scene-text images from learning; however, owing to the absence of a suitable training dataset, unsupervised frameworks have been explored to learn from existing real-world data, which may not result in a robust performance. To ease this dilemma and facilitate research on learning-based scene text synthesis, we propose DecompST, a real-world dataset prepared using public benchmarks, with three types of annotations: quadrilateral-level BBoxes, stroke-level text masks, and text-erased images. Using the DecompST dataset, we propose an image synthesis engine that includes a text location proposal network (TLPNet) and a text appearance adaptation network (TAANet). TLPNet first predicts the suitable regions for text embedding. TAANet then adaptively changes the geometry and color of the text instance according to the context of the background. Our comprehensive experiments verified the effectiveness of the proposed method for generating pretraining data for scene text detectors.
-
-
 	
 * **Day 252 (09/09/2022)**: []()
 	
+- [303 UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/303%20UPAR%20Unified%20Pedestrian%20Attribute%20Recognition%20and%20Person%20Retrieval.pdf)
+
+**Abstract—** 
+
+- [304 Difficulty-Net: Learning to Predict Difficulty for Long-Tailed Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/304%20Difficulty-Net%20Learning%20to%20Predict%20Difficulty%20for%20Long-Tailed%20Recognition.pdf)
+
+**Abstract—** 
+
 * **Day 253 (09/10/2022)**: []()
 	
 * **Day 254 (09/11/2022)**: []()
