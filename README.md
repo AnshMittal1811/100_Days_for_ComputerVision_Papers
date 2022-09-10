@@ -1289,7 +1289,7 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 **Abstract—** 
 
-- [306 FETA: Towards Specializing Foundation Models for Expert Task Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/306%20FETA%20Towards%20Specializing%20Foundation%20Models%20forExpert%20Task%20Applications.pdf)
+- [306 FETA: Towards Specializing Foundation Models for Expert Task Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/306%20FETA%20Towards%20Specializing%20Foundation%20Models%20for%20Expert%20Task%20Applications.pdf)
 
 **Abstract—** 
 
