@@ -1287,7 +1287,8 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 - [305 Multi-Grained Angle Representation for Remote Sensing Object Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/305%20Multi-Grained%20Angle%20Representation%20for%20Remote%20Sensing%20Object%20Detection.pdf)
 
-**Abstract—** 
+**Abstract—** Arbitrary-oriented object detection (AOOD) plays a significant role for image understanding in remote sensing scenarios. The existing AOOD methods face the challenges of ambiguity and high costs in angle representation. To this end, a multi-grained angle representation (MGAR) method, consisting of coarse-grained angle classification (CAC) and fine-grained angle regression (FAR), is proposed. Specifically, the designed CAC avoids the ambiguity of angle prediction by discrete angular encoding (DAE) and reduces complexity by coarsening the granularity of DAE. Based on CAC, FAR is developed to refine the angle prediction with much lower costs than narrowing the granularity of DAE. Furthermore, an Intersection over Union (IoU) aware FAR-Loss (IFL) is designed to improve accuracy of angle prediction using an adaptive re-weighting mechanism guided by IoU. Extensive experiments are performed on several public remote sensing datasets, which demonstrate the effectiveness of the proposed MGAR. Moreover, experiments on embedded devices demonstrate that the proposed MGAR is also friendly for lightweight deployments.
+
 
 - [306 FETA: Towards Specializing Foundation Models for Expert Task Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/306%20FETA%20Towards%20Specializing%20Foundation%20Models%20for%20Expert%20Task%20Applications.pdf)
 
