@@ -1298,6 +1298,16 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 	
 * **Day 254 (09/11/2022)**: []()
 
+- [307 Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/307%20Frame-Subtitle%20Self-Supervision%20for%20Multi-Modal%20Video%20Question%20Answering.pdf)
+
+**Abstract—** 
+
+
+- [308 CGAN-ECT: Tomography Image Reconstruction from Electrical Capacitance Measurements using CGANs](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/308%20CGAN-ECT%20Tomography%20Image%20Reconstruction%20from%20Electrical%20Capacitance%20Measurements%20using%20CGANs.pdf)
+
+**Abstract—** 
+
+
 * **Day 255 (09/12/2022)**: []()
 	
 * **Day 256 (09/13/2022)**: []()
