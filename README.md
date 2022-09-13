@@ -1300,16 +1300,25 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 - [307 Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/307%20Frame-Subtitle%20Self-Supervision%20for%20Multi-Modal%20Video%20Question%20Answering.pdf)
 
-**Abstract—** 
+**Abstract—** Multi-modal video question answering aims to predict correct answer and localize the temporal boundary relevant to the question. The temporal annotations of questions improve QA performance and interpretability of recent works, but they are usually empirical and costly. To avoid the temporal annotations, we devise a weakly supervised question grounding (WSQG) setting, where only QA annotations are used and the relevant temporal boundaries are generated according to the temporal attention scores. To substitute the temporal annotations, we transform the correspondence between frames and subtitles to Frame-Subtitle (FS) self-supervision, which helps to optimize the temporal attention scores and hence improve the video-language understanding in VideoQA model. The extensive experiments on TVQA and TVQA+ datasets demonstrate that the proposed WSQG strategy gets comparable performance on question grounding, and the FS self-supervision helps improve the question answering and grounding performance on both QA-supervision only and full-supervision settings.
 
 
 - [308 CGAN-ECT: Tomography Image Reconstruction from Electrical Capacitance Measurements using CGANs](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/308%20CGAN-ECT%20Tomography%20Image%20Reconstruction%20from%20Electrical%20Capacitance%20Measurements%20using%20CGANs.pdf)
 
-**Abstract—** 
+**Abstract—** Due to the rapid growth of Electrical Capacitance Tomography (ECT) applications in several industrial fields, there is a crucial need for developing high quality, yet fast, methodologies of image reconstruction from raw capacitance measurements. Deep learning, as an effective non-linear mapping tool for complicated functions, has been going viral in many fields including electrical tomography. In this paper, we propose a Conditional Generative Adversarial Network (CGAN) model for reconstructing ECT images from capacitance measurements. The initial image of the CGAN model is constructed from the capacitance measurement. To our knowledge, this is the first time to represent the capacitance measurements in an image form. We have created a new massive ECT dataset of 320K synthetic image measurements pairs for training, and testing the proposed model. The feasibility and generalization ability of the proposed CGAN-ECT model are evaluated using testing dataset, contaminated data and flow patterns that are not exposed to the model during the training phase. The evaluation results prove that the proposed CGAN-ECT model can efficiently create more accurate ECT images than traditional and other deep learning-based image reconstruction algorithms. CGAN-ECT achieved an average image correlation coefficient of more than 99.3% and an average relative image error about 0.07.
 
 
 * **Day 255 (09/12/2022)**: []()
 	
+- [309 Learning-based and unrolled motion-controlled reconstructed for cardiac MRI CINE Imaging](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/309%20Learning-based%20and%20unrolled%20motion-compensated%20reconstructed%20for%20cardiac%20MR%20CINE%20imaging.pdf)
+
+**Abstract—** 
+
+
+- [310 Diffusion Models: A Comprehensive Survey of Models and Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/310%20Diffusion%20Models%20A%20Comprehensive%20Survey%20of%20Methods%20and%20Applications.pdf)
+
+**Abstract—** 
+
 * **Day 256 (09/13/2022)**: []()
 	
 * **Day 257 (09/14/2022)**: []()
