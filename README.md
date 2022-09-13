@@ -1310,9 +1310,9 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 255 (09/12/2022)**: []()
 	
-- [309 Learning-based and unrolled motion-controlled reconstructed for cardiac MRI CINE Imaging](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/309%20Learning-based%20and%20unrolled%20motion-compensated%20reconstructed%20for%20cardiac%20MR%20CINE%20imaging.pdf)
+- [309 Learning-based and unrolled motion-compensated reconstructed for cardiac MRI CINE Imaging](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/309%20Learning-based%20and%20unrolled%20motion-compensated%20reconstructed%20for%20cardiac%20MR%20CINE%20imaging.pdf)
 
-**Abstract—** 
+**Abstract—** Motion-compensated MR reconstruction (MCMR) is a powerful concept with considerable potential, consisting of two coupled sub-problems: Motion estimation, assuming a known image, and image reconstruction, assuming known motion. In this work, we propose a learning-based self-supervised framework for MCMR, to efficiently deal with non-rigid motion corruption in cardiac MR imaging. Contrary to conventional MCMR methods in which the motion is estimated prior to reconstruction and remains unchanged during the iterative optimization process, we introduce a dynamic motion estimation process and embed it into the unrolled optimization. We establish a cardiac motion estimation network that leverages temporal information via a group-wise registration approach, and carry out a joint optimization between the motion estimation and reconstruction. Experiments on 40 acquired 2D cardiac MR CINE datasets demonstrate that the proposed unrolled MCMR framework can reconstruct high quality MR images at high acceleration rates where other state-of-the-art methods fail. We also show that the joint optimization mechanism is mutually beneficial for both sub-tasks, i.e., motion estimation and image reconstruction, especially when the MR image is highly undersampled.
 
 
 - [310 Diffusion Models: A Comprehensive Survey of Models and Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/310%20Diffusion%20Models%20A%20Comprehensive%20Survey%20of%20Methods%20and%20Applications.pdf)
