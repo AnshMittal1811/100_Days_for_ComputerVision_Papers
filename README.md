@@ -1315,15 +1315,47 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 **Abstract—** Motion-compensated MR reconstruction (MCMR) is a powerful concept with considerable potential, consisting of two coupled sub-problems: Motion estimation, assuming a known image, and image reconstruction, assuming known motion. In this work, we propose a learning-based self-supervised framework for MCMR, to efficiently deal with non-rigid motion corruption in cardiac MR imaging. Contrary to conventional MCMR methods in which the motion is estimated prior to reconstruction and remains unchanged during the iterative optimization process, we introduce a dynamic motion estimation process and embed it into the unrolled optimization. We establish a cardiac motion estimation network that leverages temporal information via a group-wise registration approach, and carry out a joint optimization between the motion estimation and reconstruction. Experiments on 40 acquired 2D cardiac MR CINE datasets demonstrate that the proposed unrolled MCMR framework can reconstruct high quality MR images at high acceleration rates where other state-of-the-art methods fail. We also show that the joint optimization mechanism is mutually beneficial for both sub-tasks, i.e., motion estimation and image reconstruction, especially when the MR image is highly undersampled.
 
 
-- [310 Diffusion Models: A Comprehensive Survey of Models and Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/310%20Diffusion%20Models%20A%20Comprehensive%20Survey%20of%20Methods%20and%20Applications.pdf)
+- [310 Diffusion Models: A Comprehensive Survey of Methods and Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/310%20Diffusion%20Models%20A%20Comprehensive%20Survey%20of%20Methods%20and%20Applications.pdf)
+
+**Abstract—** Diffusion models are a class of deep generative models that have shown impressive results on various tasks with a solid theoretical foundation. Despite demonstrated success than state-of-the-art approaches, diffusion models often entail costly sampling procedures and sub-optimal likelihood estimation. Significant efforts have been made to improve the performance of diffusion models in various aspects. In this article, we present a comprehensive review of existing variants of diffusion models. Specifically, we provide the taxonomy of diffusion models and categorize them into three types: sampling-acceleration enhancement, likelihood-maximization enhancement, and data-generalization enhancement. We also introduce the other generative models (i.e., variational autoencoders, generative adversarial networks, normalizing flow, autoregressive models, and energy-based models) and discuss the connections between diffusion models and these generative models. Then we review the applications of diffusion models, including computer vision, natural language processing, waveform signal processing, multi-modal modeling, molecular graph generation, time series modeling, and adversarial purification. Furthermore, we propose new perspectives pertaining to the development of generative models. Github: [this https URL](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy).
+
+* **Day 256 (09/13/2022)**:
+
+- [311 Exploring Target Representations for Masked Autoencoders](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/311%20Exploring%20Target%20Representations%20for%20Masked%20Autoencoders.pdf)
+
+**Abstract—** Masked autoencoders have become popular training paradigms for self-supervised visual representation learning. These models randomly mask a portion of the input and reconstruct the masked portion according to the target representations. In this paper, we first show that a careful choice of the target representation is unnecessary for learning good representations, since different targets tend to derive similarly behaved models. Driven by this observation, we propose a multi-stage masked distillation pipeline and use a randomly initialized model as the teacher, enabling us to effectively train high-capacity models without any efforts to carefully design target representations. Interestingly, we further explore using teachers of larger capacity, obtaining distilled students with remarkable transferring ability. On different tasks of classification, transfer learning, object detection, and semantic segmentation, the proposed method to perform masked knowledge distillation with bootstrapped teachers (dBOT) outperforms previous self-supervised methods by nontrivial margins. We hope our findings, as well as the proposed method, could motivate people to rethink the roles of target representations in pre-training masked autoencoders.
+
+
+- [312 Histogram Layers of Synthetic Aperture SONAR Imagery](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/312%20Histogram%20Layers%20for%20Synthetic%20Aperture%20Sonar%20Imagery.pdf)
+
+**Abstract—** Synthetic aperture sonar (SAS) imagery is crucial for several applications, including target recognition and environmental segmentation. Deep learning models have led to much success in SAS analysis; however, the features extracted by these approaches may not be suitable for capturing certain textural information. To address this problem, we present a novel application of histogram layers on SAS imagery. The addition of histogram layer(s) within the deep learning models improved performance by incorporating statistical texture information on both synthetic and real-world datasets.
+
+
+	
+* **Day 257 (09/14/2022)**: 
+
+- [313 Lightweight Long-Range Generative Adversarial Networks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/313%20Lightweight%20Long-Range%20Generative%20Adversarial%20Networks.pdf)
+
+**Abstract—** In this paper, we introduce novel lightweight generative adversarial networks, which can effectively capture long-range dependencies in the image generation process, and produce high-quality results with a much simpler architecture. To achieve this, we first introduce a long-range module, allowing the network to dynamically adjust the number of focused sampling pixels and to also augment sampling locations. Thus, it can break the limitation of the fixed geometric structure of the convolution operator, and capture long-range dependencies in both spatial and channel-wise directions. Also, the proposed long-range module can highlight negative relations between pixels, working as a regularization to stabilize training. Furthermore, we propose a new generation strategy through which we introduce metadata into the image generation process to provide basic information about target images, which can stabilize and speed up the training process. Our novel long-range module only introduces few additional parameters and is easily inserted into existing models to capture long-range dependencies. Extensive experiments demonstrate the competitive performance of our method with a lightweight architecture.
+
+
+
+- [314 Automatic fetal fat quantification from MRI](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/314%20Automatic%20fetal%20fat%20quantification%20from%20MRI.pdf)
 
 **Abstract—** 
 
-* **Day 256 (09/13/2022)**: []()
 	
-* **Day 257 (09/14/2022)**: []()
-	
-* **Day 258 (09/15/2022)**: []()
+* **Day 258 (09/15/2022)**: 
+
+- [315 Bag of Tricks for FGSM Adversarial Training](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/315%20Bag%20of%20Tricks%20for%20FGSM%20Adversarial%20Training.pdf)
+
+**Abstract—** 
+
+
+- [316 ]()
+
+**Abstract—** 
+
 	
 * **Day 259 (09/16/2022)**: []()
 	
