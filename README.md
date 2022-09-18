@@ -1359,6 +1359,10 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 	
 * **Day 259 (09/16/2022)**: []()
+
+[317 ]()
+
+[318 ]()
 	
 * **Day 260 (09/17/2022)**: []()
 
