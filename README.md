@@ -1287,23 +1287,83 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 - [305 Multi-Grained Angle Representation for Remote Sensing Object Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/305%20Multi-Grained%20Angle%20Representation%20for%20Remote%20Sensing%20Object%20Detection.pdf)
 
-**Abstract—** 
+**Abstract—** Arbitrary-oriented object detection (AOOD) plays a significant role for image understanding in remote sensing scenarios. The existing AOOD methods face the challenges of ambiguity and high costs in angle representation. To this end, a multi-grained angle representation (MGAR) method, consisting of coarse-grained angle classification (CAC) and fine-grained angle regression (FAR), is proposed. Specifically, the designed CAC avoids the ambiguity of angle prediction by discrete angular encoding (DAE) and reduces complexity by coarsening the granularity of DAE. Based on CAC, FAR is developed to refine the angle prediction with much lower costs than narrowing the granularity of DAE. Furthermore, an Intersection over Union (IoU) aware FAR-Loss (IFL) is designed to improve accuracy of angle prediction using an adaptive re-weighting mechanism guided by IoU. Extensive experiments are performed on several public remote sensing datasets, which demonstrate the effectiveness of the proposed MGAR. Moreover, experiments on embedded devices demonstrate that the proposed MGAR is also friendly for lightweight deployments.
+
 
 - [306 FETA: Towards Specializing Foundation Models for Expert Task Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/306%20FETA%20Towards%20Specializing%20Foundation%20Models%20for%20Expert%20Task%20Applications.pdf)
 
-**Abstract—** 
+**Abstract—** Foundation Models (FMs) have demonstrated unprecedented capabilities including zero-shot learning, high fidelity data synthesis, and out of domain generalization. However, as we show in this paper, FMs still have poor out-of-the-box performance on expert tasks (e.g. retrieval of car manuals technical illustrations from language queries), data for which is either unseen or belonging to a long-tail part of the data distribution of the huge datasets used for FM pre-training. This underlines the necessity to explicitly evaluate and finetune FMs on such expert tasks, arguably ones that appear the most in practical real-world applications. In this paper, we propose a first of its kind FETA benchmark built around the task of teaching FMs to understand technical documentation, via learning to match their graphical illustrations to corresponding language descriptions. Our FETA benchmark focuses on text-to-image and image-to-text retrieval in public car manuals and sales catalogue brochures. FETA is equipped with a procedure for completely automatic annotation extraction (code would be released upon acceptance), allowing easy extension of FETA to more documentation types and application domains in the future. Our automatic annotation leads to an automated performance metric shown to be consistent with metrics computed on human-curated annotations (also released). We provide multiple baselines and analysis of popular FMs on FETA leading to several interesting findings that we believe would be very valuable to the FM community, paving the way towards real-world application of FMs for practical expert tasks currently 'overlooked' by standard benchmarks focusing on common objects.
+
 
 	
 * **Day 254 (09/11/2022)**: []()
 
+- [307 Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/307%20Frame-Subtitle%20Self-Supervision%20for%20Multi-Modal%20Video%20Question%20Answering.pdf)
+
+**Abstract—** Multi-modal video question answering aims to predict correct answer and localize the temporal boundary relevant to the question. The temporal annotations of questions improve QA performance and interpretability of recent works, but they are usually empirical and costly. To avoid the temporal annotations, we devise a weakly supervised question grounding (WSQG) setting, where only QA annotations are used and the relevant temporal boundaries are generated according to the temporal attention scores. To substitute the temporal annotations, we transform the correspondence between frames and subtitles to Frame-Subtitle (FS) self-supervision, which helps to optimize the temporal attention scores and hence improve the video-language understanding in VideoQA model. The extensive experiments on TVQA and TVQA+ datasets demonstrate that the proposed WSQG strategy gets comparable performance on question grounding, and the FS self-supervision helps improve the question answering and grounding performance on both QA-supervision only and full-supervision settings.
+
+
+- [308 CGAN-ECT: Tomography Image Reconstruction from Electrical Capacitance Measurements using CGANs](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/308%20CGAN-ECT%20Tomography%20Image%20Reconstruction%20from%20Electrical%20Capacitance%20Measurements%20using%20CGANs.pdf)
+
+**Abstract—** Due to the rapid growth of Electrical Capacitance Tomography (ECT) applications in several industrial fields, there is a crucial need for developing high quality, yet fast, methodologies of image reconstruction from raw capacitance measurements. Deep learning, as an effective non-linear mapping tool for complicated functions, has been going viral in many fields including electrical tomography. In this paper, we propose a Conditional Generative Adversarial Network (CGAN) model for reconstructing ECT images from capacitance measurements. The initial image of the CGAN model is constructed from the capacitance measurement. To our knowledge, this is the first time to represent the capacitance measurements in an image form. We have created a new massive ECT dataset of 320K synthetic image measurements pairs for training, and testing the proposed model. The feasibility and generalization ability of the proposed CGAN-ECT model are evaluated using testing dataset, contaminated data and flow patterns that are not exposed to the model during the training phase. The evaluation results prove that the proposed CGAN-ECT model can efficiently create more accurate ECT images than traditional and other deep learning-based image reconstruction algorithms. CGAN-ECT achieved an average image correlation coefficient of more than 99.3% and an average relative image error about 0.07.
+
+
 * **Day 255 (09/12/2022)**: []()
 	
-* **Day 256 (09/13/2022)**: []()
+- [309 Learning-based and unrolled motion-compensated reconstructed for cardiac MRI CINE Imaging](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/309%20Learning-based%20and%20unrolled%20motion-compensated%20reconstructed%20for%20cardiac%20MR%20CINE%20imaging.pdf)
+
+**Abstract—** Motion-compensated MR reconstruction (MCMR) is a powerful concept with considerable potential, consisting of two coupled sub-problems: Motion estimation, assuming a known image, and image reconstruction, assuming known motion. In this work, we propose a learning-based self-supervised framework for MCMR, to efficiently deal with non-rigid motion corruption in cardiac MR imaging. Contrary to conventional MCMR methods in which the motion is estimated prior to reconstruction and remains unchanged during the iterative optimization process, we introduce a dynamic motion estimation process and embed it into the unrolled optimization. We establish a cardiac motion estimation network that leverages temporal information via a group-wise registration approach, and carry out a joint optimization between the motion estimation and reconstruction. Experiments on 40 acquired 2D cardiac MR CINE datasets demonstrate that the proposed unrolled MCMR framework can reconstruct high quality MR images at high acceleration rates where other state-of-the-art methods fail. We also show that the joint optimization mechanism is mutually beneficial for both sub-tasks, i.e., motion estimation and image reconstruction, especially when the MR image is highly undersampled.
+
+
+- [310 Diffusion Models: A Comprehensive Survey of Methods and Applications](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/310%20Diffusion%20Models%20A%20Comprehensive%20Survey%20of%20Methods%20and%20Applications.pdf)
+
+**Abstract—** Diffusion models are a class of deep generative models that have shown impressive results on various tasks with a solid theoretical foundation. Despite demonstrated success than state-of-the-art approaches, diffusion models often entail costly sampling procedures and sub-optimal likelihood estimation. Significant efforts have been made to improve the performance of diffusion models in various aspects. In this article, we present a comprehensive review of existing variants of diffusion models. Specifically, we provide the taxonomy of diffusion models and categorize them into three types: sampling-acceleration enhancement, likelihood-maximization enhancement, and data-generalization enhancement. We also introduce the other generative models (i.e., variational autoencoders, generative adversarial networks, normalizing flow, autoregressive models, and energy-based models) and discuss the connections between diffusion models and these generative models. Then we review the applications of diffusion models, including computer vision, natural language processing, waveform signal processing, multi-modal modeling, molecular graph generation, time series modeling, and adversarial purification. Furthermore, we propose new perspectives pertaining to the development of generative models. Github: [this https URL](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy).
+
+* **Day 256 (09/13/2022)**:
+
+- [311 Exploring Target Representations for Masked Autoencoders](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/311%20Exploring%20Target%20Representations%20for%20Masked%20Autoencoders.pdf)
+
+**Abstract—** Masked autoencoders have become popular training paradigms for self-supervised visual representation learning. These models randomly mask a portion of the input and reconstruct the masked portion according to the target representations. In this paper, we first show that a careful choice of the target representation is unnecessary for learning good representations, since different targets tend to derive similarly behaved models. Driven by this observation, we propose a multi-stage masked distillation pipeline and use a randomly initialized model as the teacher, enabling us to effectively train high-capacity models without any efforts to carefully design target representations. Interestingly, we further explore using teachers of larger capacity, obtaining distilled students with remarkable transferring ability. On different tasks of classification, transfer learning, object detection, and semantic segmentation, the proposed method to perform masked knowledge distillation with bootstrapped teachers (dBOT) outperforms previous self-supervised methods by nontrivial margins. We hope our findings, as well as the proposed method, could motivate people to rethink the roles of target representations in pre-training masked autoencoders.
+
+
+- [312 Histogram Layers of Synthetic Aperture SONAR Imagery](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/312%20Histogram%20Layers%20for%20Synthetic%20Aperture%20Sonar%20Imagery.pdf)
+
+**Abstract—** Synthetic aperture sonar (SAS) imagery is crucial for several applications, including target recognition and environmental segmentation. Deep learning models have led to much success in SAS analysis; however, the features extracted by these approaches may not be suitable for capturing certain textural information. To address this problem, we present a novel application of histogram layers on SAS imagery. The addition of histogram layer(s) within the deep learning models improved performance by incorporating statistical texture information on both synthetic and real-world datasets.
+
+
 	
-* **Day 257 (09/14/2022)**: []()
+* **Day 257 (09/14/2022)**: 
+
+- [313 Lightweight Long-Range Generative Adversarial Networks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/313%20Lightweight%20Long-Range%20Generative%20Adversarial%20Networks.pdf)
+
+**Abstract—** In this paper, we introduce novel lightweight generative adversarial networks, which can effectively capture long-range dependencies in the image generation process, and produce high-quality results with a much simpler architecture. To achieve this, we first introduce a long-range module, allowing the network to dynamically adjust the number of focused sampling pixels and to also augment sampling locations. Thus, it can break the limitation of the fixed geometric structure of the convolution operator, and capture long-range dependencies in both spatial and channel-wise directions. Also, the proposed long-range module can highlight negative relations between pixels, working as a regularization to stabilize training. Furthermore, we propose a new generation strategy through which we introduce metadata into the image generation process to provide basic information about target images, which can stabilize and speed up the training process. Our novel long-range module only introduces few additional parameters and is easily inserted into existing models to capture long-range dependencies. Extensive experiments demonstrate the competitive performance of our method with a lightweight architecture.
+
+
+
+- [314 Automatic fetal fat quantification from MRI](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/314%20Automatic%20fetal%20fat%20quantification%20from%20MRI.pdf)
+
+**Abstract—** Adversarial training (AT) with samples generated by Fast Gradient Sign Method (FGSM), also known as FGSM-AT, is a computationally simple method to train robust networks. However, during its training procedure, an unstable mode of "catastrophic overfitting" has been identified in [arXiv:2001.03994](https://arxiv.org/abs/2001.03994) [cs.LG], where the robust accuracy abruptly drops to zero within a single training step. Existing methods use gradient regularizers or random initialization tricks to attenuate this issue, whereas they either take high computational cost or lead to lower robust accuracy. In this work, we provide the first study, which thoroughly examines a collection of tricks from three perspectives: Data Initialization, Network Structure, and Optimization, to overcome the catastrophic overfitting in FGSM-AT. Surprisingly, we find that simple tricks, i.e., a) masking partial pixels (even without randomness), b) setting a large convolution stride and smooth activation functions, or c) regularizing the weights of the first convolutional layer, can effectively tackle the overfitting issue. Extensive results on a range of network architectures validate the effectiveness of each proposed trick, and the combinations of tricks are also investigated. For example, trained with PreActResNet-18 on CIFAR-10, our method attains 49.8% accuracy against PGD-50 attacker and 46.4% accuracy against AutoAttack, demonstrating that pure FGSM-AT is capable of enabling robust learners. The code and models are publicly available at [this https URL](https://github.com/UCSC-VLAA/Bag-of-Tricks-for-FGSM-AT).
+
+
 	
-* **Day 258 (09/15/2022)**: []()
+* **Day 258 (09/15/2022)**: 
+
+- [315 Bag of Tricks for FGSM Adversarial Training](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/315%20Bag%20of%20Tricks%20for%20FGSM%20Adversarial%20Training.pdf)
+
+**Abstract—** 
+
+
+- [316 ]()
+
+**Abstract—** 
+
 	
 * **Day 259 (09/16/2022)**: []()
+
+[317 ]()
+
+[318 ]()
 	
 * **Day 260 (09/17/2022)**: []()
+
+
