@@ -1400,15 +1400,22 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 [325 Continual Learning for Class- and Domain-Incremental Semantic Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/325%20Continual%20Learning%20for%20Class-%20and%20Domain-Incremental%20Semantic%20Segmentation.pdf)
 
+**Abstract—** The field of continual deep learning is an emerging field and a lot of progress has been made. However, concurrently most of the approaches are only tested on the task of image classification, which is not relevant in the field of intelligent vehicles. Only recently approaches for class-incremental semantic segmentation were proposed. However, all of those approaches are based on some form of knowledge distillation. At the moment there are no investigations on replay-based approaches that are commonly used for object recognition in a continual setting. At the same time while unsupervised domain adaption for semantic segmentation gained a lot of traction, investigations regarding domain-incremental learning in an continual setting is not well-studied. Therefore, the goal of our work is to evaluate and adapt established solutions for continual object recognition to the task of semantic segmentation and to provide baseline methods and evaluation protocols for the task of continual semantic segmentation. We firstly introduce evaluation protocols for the class- and domain-incremental segmentation and analyze selected approaches. We show that the nature of the task of semantic segmentation changes which methods are most effective in mitigating forgetting compared to image classification. Especially, in class-incremental learning knowledge distillation proves to be a vital tool, whereas in domain-incremental learning replay methods are the most effective method.
 
 [326 Spatial-then-Temporal Self-Supervised Learning for Video Correspondence](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/326%20Spatial-then-Temporal%20Self-Supervised%20Learning%20for%20Video%20Correspondence.pdf)
 
-* **Day 264 (09/21/2022)**: []()
+**Abstract—** Learning temporal correspondence from unlabeled videos is of vital importance in computer vision, and has been tackled by different kinds of self-supervised pretext tasks. For the self-supervised learning, recent studies suggest using large-scale video datasets despite the training cost. We propose a spatial-then-temporal pretext task to address the training data cost problem. The task consists of two steps. First, we use contrastive learning from unlabeled still image data to obtain appearance-sensitive features. Then we switch to unlabeled video data and learn motion-sensitive features by reconstructing frames. In the second step, we propose a global correlation distillation loss to retain the appearance sensitivity learned in the first step, as well as a local correlation distillation loss in a pyramid structure to combat temporal discontinuity. Experimental results demonstrate that our method surpasses the state-of-the-art self-supervised methods on a series of correspondence-based tasks. The conducted ablation studies verify the effectiveness of the proposed two-step task and loss functions.
 
+* **Day 264 (09/21/2022)**: 
 
 [327 A Large-Scale Multiple-objective Method for Black-Box Attack Against Object Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/327%20A%20Large-scale%20Multiple-objective%20Method%20for%20Black-Box%20Attack%20Against%20Object%20Detection.pdf)
 
+**Abstract—** 
+
 [328 KaliCalib: A Framework for Basketball Court Registration](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/328%20KaliCalib%20A%20Framework%20for%20Basketball%20Court%20Registration.pdf)
+
+**Abstract—** 
+
 
 * **Day 265 (09/22/2022)**: []()
 
