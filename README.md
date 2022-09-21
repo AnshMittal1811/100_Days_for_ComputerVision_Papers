@@ -1414,8 +1414,7 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 [328 KaliCalib: A Framework for Basketball Court Registration](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/328%20KaliCalib%20A%20Framework%20for%20Basketball%20Court%20Registration.pdf)
 
-**Abstract—** 
-
+**Abstract—** Tracking the players and the ball in team sports is key to analyse the performance or to enhance the game watching experience with augmented reality. When the only sources for this data are broadcast videos, sports-field registration systems are required to estimate the homography and re-project the ball or the players from the image space to the field space. This paper describes a new basketball court registration framework in the context of the MMSports 2022 camera calibration challenge. The method is based on the estimation by an encoder-decoder network of the positions of keypoints sampled with perspective-aware constraints. The regression of the basket positions and heavy data augmentation techniques make the model robust to different arenas. Ablation studies show the positive effects of our contributions on the challenge test set. Our method divides the mean squared error by 4.7 compared to the challenge baseline.
 
 * **Day 265 (09/22/2022)**: []()
 
