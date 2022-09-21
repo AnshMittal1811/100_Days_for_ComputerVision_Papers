@@ -1386,15 +1386,20 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 **Abstract—** In this paper, we propose an attack method to block scrambled face images, particularly Encryption-then-Compression (EtC) applied images by utilizing the existing powerful StyleGAN encoder and decoder for the first time. Instead of reconstructing identical images as plain ones from encrypted images, we focus on recovering styles that can reveal identifiable information from the encrypted images. The proposed method trains an encoder by using plain and encrypted image pairs with a particular training strategy. While state-of-the-art attack methods cannot recover any perceptual information from EtC images, the proposed method discloses personally identifiable information such as hair color, skin color, eyeglasses, gender, etc. Experiments were carried out on the CelebA dataset, and results show that reconstructed images have some perceptual similarities compared to plain images.
 
-* **Day 262 (09/19/2022)**: []()
+* **Day 262 (09/19/2022)**:
 
 [323 Towards Bridging the Performance Gaps of Joint-Energy-based Models](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/323%20Towards%20Bridging%20the%20Performance%20Gaps%20of%20Joint%20Energy-based%20Models.pdf)
 
+**Abstract—** Can we train a hybrid discriminative-generative model within a single network? This question has recently been answered in the affirmative, introducing the field of Joint Energy-based Model (JEM), which achieves high classification accuracy and image generation quality simultaneously. Despite recent advances, there remain two performance gaps: the accuracy gap to the standard softmax classifier, and the generation quality gap to state-of-the-art generative models. In this paper, we introduce a variety of training techniques to bridge the accuracy gap and the generation quality gap of JEM. 1) We incorporate a recently proposed sharpness-aware minimization (SAM) framework to train JEM, which promotes the energy landscape smoothness and the generalizability of JEM. 2) We exclude data augmentation from the maximum likelihood estimate pipeline of JEM, and mitigate the negative impact of data augmentation to image generation quality. Extensive experiments on multiple datasets demonstrate that our SADA-JEM achieves state-of-the-art performances and outperforms JEM in image classification, image generation, calibration, out-of-distribution detection and adversarial robustness by a notable margin.
+
 [324 Causes of Catastrophic Forgetting in Class-Incremental Semantic Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/324%20Causes%20of%20Catastrophic%20Forgetting%20in%20Class-Incremental%20Semantic%20Segmentation.pdf)
 
-* **Day 263 (09/20/2022)**: []()
+**Abstract—** Class-incremental learning for semantic segmentation (CiSS) is presently a highly researched field which aims at updating a semantic segmentation model by sequentially learning new semantic classes. A major challenge in CiSS is overcoming the effects of catastrophic forgetting, which describes the sudden drop of accuracy on previously learned classes after the model is trained on a new set of classes. Despite latest advances in mitigating catastrophic forgetting, the underlying causes of forgetting specifically in CiSS are not well understood. Therefore, in a set of experiments and representational analyses, we demonstrate that the semantic shift of the background class and a bias towards new classes are the major causes of forgetting in CiSS. Furthermore, we show that both causes mostly manifest themselves in deeper classification layers of the network, while the early layers of the model are not affected. Finally, we demonstrate how both causes are effectively mitigated utilizing the information contained in the background, with the help of knowledge distillation and an unbiased cross-entropy loss.
+
+* **Day 263 (09/20/2022)**: 
 
 [325 Continual Learning for Class- and Domain-Incremental Semantic Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/325%20Continual%20Learning%20for%20Class-%20and%20Domain-Incremental%20Semantic%20Segmentation.pdf)
+
 
 [326 Spatial-then-Temporal Self-Supervised Learning for Video Correspondence](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/326%20Spatial-then-Temporal%20Self-Supervised%20Learning%20for%20Video%20Correspondence.pdf)
 
