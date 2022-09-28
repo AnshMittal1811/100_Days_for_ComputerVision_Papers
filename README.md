@@ -1418,6 +1418,15 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 265 (09/22/2022)**: []()
 
+[329 TwistSLAM++: Fusing Multiple Modalities for accurate dynamic semantic SLAM](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/329%20TwistSLAM%2B%2B%20Fusing%20multiple%20modalities%20for%20accurate%20dynamic%20semantic%20SLAM.pdf)
+
+**Abstract—** Most classical SLAM systems rely on the static scene assumption, which limits their applicability in real world scenarios. Recent SLAM frameworks have been proposed to simultaneously track the camera and moving objects. However they are often unable to estimate the canonical pose of the objects and exhibit a low object tracking accuracy. To solve this problem we propose TwistSLAM++, a semantic, dynamic, SLAM system that fuses stereo images and LiDAR information. Using semantic information, we track potentially moving objects and associate them to 3D object detections in LiDAR scans to obtain their pose and size. Then, we perform registration on consecutive object scans to refine object pose estimation. Finally, object scans are used to estimate the shape of the object and constrain map points to lie on the estimated surface within the BA. We show on classical benchmarks that this fusion approach based on multimodal information improves the accuracy of object tracking.
+
+[330 3DPointCaps++: Learning 3D Representations with Capsule Networks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/330%203DPointCaps%2B%2B%20Learning%203D%20Representations%20with%20Capsule%20Networks.pdf)
+
+**Abstract—** We present 3DPointCaps++ for learning robust, flexible and generalizable 3D object representations without requiring heavy annotation efforts or supervision. Unlike conventional 3D generative models, our algorithm aims for building a structured latent space where certain factors of shape variations, such as object parts, can be disentangled into independent sub-spaces. Our novel decoder then acts on these individual latent sub-spaces (i.e. capsules) using deconvolution operators to reconstruct 3D points in a self-supervised manner. We further introduce a cluster loss ensuring that the points reconstructed by a single capsule remain local and do not spread across the object uncontrollably. These contributions allow our network to tackle the challenging tasks of part segmentation, part interpolation/replacement as well as correspondence estimation across rigid / non-rigid shape, and across / within category. Our extensive evaluations on ShapeNet objects and human scans demonstrate that our network can learn generic representations that are robust and useful in many applications.
+
+
 * **Day 266 (09/23/2022)**: []()
 
 * **Day 267 (09/24/2022)**: []()
