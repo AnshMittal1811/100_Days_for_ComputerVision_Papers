@@ -1429,83 +1429,83 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 266 (09/23/2022)**: []()
 
-[331 A Trio-Method for Retinal Vessel Segmentation using Image Processing]()
+[331 A Trio-Method for Retinal Vessel Segmentation using Image Processing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/331%20A%20Trio-Method%20for%20Retinal%20Vessel%20Segmentation%20using%20Image%20Processing.pdf)
 
 **Abstract—** 
 
-[332 Hierarchical Graph Convolutional Network Built by Multiscale Atlases for Brain Disorder Diagnosis Using Functional Connectivity]()
+[332 Hierarchical Graph Convolutional Network Built by Multiscale Atlases for Brain Disorder Diagnosis Using Functional Connectivity](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/332%20Hierarchical%20Graph%20Convolutional%20Network%20Built%20by%20Multiscale%20Atlases%20for%20Brain%20Disorder%20Diagnosis%20Using%20Functional%20Connectivity.pdf)
 
 **Abstract—** 
 
 
 * **Day 267 (09/24/2022)**: []()
 
-[333 Optimization of FPGA-based CNN Accelerators using MetaHeuristics]()
+[333 Optimization of FPGA-based CNN Accelerators using MetaHeuristics](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/333%20Optimization%20of%20FPGA-based%20CNN%20Accelerators%20using%20MetaHeuristics.pdf)
 
 **Abstract—** 
 
-[334 Automated detection of Alzheimer disease using MRI images and deep neural networks - A review]()
+[334 Automated detection of Alzheimer disease using MRI images and deep neural networks - A review](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/334%20Automated%20detection%20of%20Alzheimer%20disease%20using%20MRI%20images%20and%20deep%20neural%20networks%20-%20A%20review.pdf)
 
 **Abstract—** 
 
 
 * **Day 268 (09/25/2022)**: []()
 
-[335 Tensor-based Multi-Modality Feature Selection and Regression for Alzheimer's Disease Diagnosis]()
+[335 Tensor-based Multi-Modality Feature Selection and Regression for Alzheimer's Disease Diagnosis](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/335%20Tensor-based%20Multi-Modality%20Feature%20Selection%20and%20Regression%20for%20Alzheimer's%20Disease%20Diagnosis.pdf)
 
 **Abstract—** 
 
-[336 Learning to screen Glaucoma like the ophthalmologists]()
+[336 Learning to screen Glaucoma like the ophthalmologists](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/336%20Learning%20to%20screen%20Glaucoma%20like%20the%20ophthalmologists.pdf)
 
 **Abstract—** 
 
 * **Day 269 (09/26/2022)**: []()
 
-[337 Modular Degradation Simulation and Restoration for Under-Display Camera]()
+[337 Modular Degradation Simulation and Restoration for Under-Display Camera](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/337%20Modular%20Degradation%20Simulation%20and%20Restoration%20for%20Under-Display%20Camera.pdf)
 
 **Abstract—** 
 
-[338 Segmentation based Infromation Extraction and Amalgamation in Fundus Images for Glaucoma Detection]()
+[338 Segmentation based Infromation Extraction and Amalgamation in Fundus Images for Glaucoma Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/338%20Segmentation%20based%20Infromation%20Extraction%20and%20Amalgamation%20in%20Fundus%20Images%20for%20Glaucoma%20Detection.pdf)
 
 **Abstract—** 
 
 * **Day 270 (09/27/2022)**: []()
 
-[337 Modular Degradation Simulation and Restoration for Under-Display Camera]()
+[339 Deep Learning-based Anonymization of Chest Radiographs A Utility-Preserving Measure for Patient Privacy](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/339%20Deep%20Learning-based%20Anonymization%20of%20Chest%20Radiographs%20A%20Utility-Preserving%20Measure%20for%20Patient%20Privacy.pdf)
 
 **Abstract—** 
 
-[338 Segmentation based Infromation Extraction and Amalgamation in Fundus Images for Glaucoma Detection]()
+[340 Best Prompts for Text-to-Image Modelsand How to Find them](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/340%20Best%20Prompts%20for%20Text-to-Image%20Modelsand%20How%20to%20Find%20them.pdf)
 
 **Abstract—** 
 
 * **Day 271 (09/28/2022)**: []()
 
-[339 Deep Learning-based Anonymization of Chest Radiographs A Utility-Preserving Measure for Patient Privacy]()
+[341 Boost CTR Prediction for New Advertisements via Modeling Visual Content](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/341%20Boost%20CTR%20Prediction%20for%20New%20Advertisements%20via%20Modeling%20Visual%20Content.pdf)
 
 **Abstract—** 
 
-[340 Best Prompts for Text-to-Image Modelsand How to Find them]()
+[342 Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/342%20Dual-Cycle%20Self-Supervised%20Dual-View%20Fluorescence%20Microscopy%20Image%20Reconstruction%20using%20CycleGAN.pdf)
 
 **Abstract—** 
 
 * **Day 272 (09/29/2022)**: []()
 
-[341 Boost CTR Prediction for New Advertisements via Modeling Visual Content]()
+[343 3DPCT: 3D Point Cloud Transformer with Dual Self-Attention](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/343%203DPCT%203D%20Point%20Cloud%20Transformer%20with%20Dual%20Self-Attention.pdf)
 
 **Abstract—** 
 
-[342 Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN]()
+[344 Recurrence-free Survival Prediction under the Guidance of Automatic Gross Tumor Volume Segmentation for Head and Neck Cancers](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/344%20Recurrence-free%20Survival%20Prediction%20under%20the%20Guidance%20of%20Automatic%20Gross%20Tumor%20Volume%20Segmentation%20for%20Head%20and%20Neck%20Cancers.pdf)
 
 **Abstract—** 
 
 * **Day 273 (09/30/2022)**: []()
 
-[343 3DPCT: 3D Point Cloud Transformer with Dual Self-Attention]()
+[345]()
 
 **Abstract—** 
 
-[344 Recurrence-free Survival Prediction under the Guidance of Automatic Gross Tumor Volume Segmentation for Head and Neck Cancers]()
+[346]()
 
 **Abstract—** 
 
