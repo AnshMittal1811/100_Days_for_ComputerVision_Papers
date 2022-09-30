@@ -1501,11 +1501,11 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 273 (09/30/2022)**: []()
 
-[345]()
+[345 Capsule Network based Contrastive Learning of Unsupervised Visual Representations]()
 
 **Abstract—** 
 
-[346]()
+[346 FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion]()
 
 **Abstract—** 
 
