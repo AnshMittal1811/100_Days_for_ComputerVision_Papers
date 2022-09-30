@@ -1429,19 +1429,85 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 266 (09/23/2022)**: []()
 
+[331 A Trio-Method for Retinal Vessel Segmentation using Image Processing]()
+
+**Abstract—** 
+
+[332 Hierarchical Graph Convolutional Network Built by Multiscale Atlases for Brain Disorder Diagnosis Using Functional Connectivity]()
+
+**Abstract—** 
+
+
 * **Day 267 (09/24/2022)**: []()
+
+[333 Optimization of FPGA-based CNN Accelerators using MetaHeuristics]()
+
+**Abstract—** 
+
+[334 Automated detection of Alzheimer disease using MRI images and deep neural networks - A review]()
+
+**Abstract—** 
+
 
 * **Day 268 (09/25/2022)**: []()
 
+[335 Tensor-based Multi-Modality Feature Selection and Regression for Alzheimer's Disease Diagnosis]()
+
+**Abstract—** 
+
+[336 Learning to screen Glaucoma like the ophthalmologists]()
+
+**Abstract—** 
+
 * **Day 269 (09/26/2022)**: []()
+
+[337 Modular Degradation Simulation and Restoration for Under-Display Camera]()
+
+**Abstract—** 
+
+[338 Segmentation based Infromation Extraction and Amalgamation in Fundus Images for Glaucoma Detection]()
+
+**Abstract—** 
 
 * **Day 270 (09/27/2022)**: []()
 
+[337 Modular Degradation Simulation and Restoration for Under-Display Camera]()
+
+**Abstract—** 
+
+[338 Segmentation based Infromation Extraction and Amalgamation in Fundus Images for Glaucoma Detection]()
+
+**Abstract—** 
+
 * **Day 271 (09/28/2022)**: []()
+
+[339 Deep Learning-based Anonymization of Chest Radiographs A Utility-Preserving Measure for Patient Privacy]()
+
+**Abstract—** 
+
+[340 Best Prompts for Text-to-Image Modelsand How to Find them]()
+
+**Abstract—** 
 
 * **Day 272 (09/29/2022)**: []()
 
+[341 Boost CTR Prediction for New Advertisements via Modeling Visual Content]()
+
+**Abstract—** 
+
+[342 Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN]()
+
+**Abstract—** 
+
 * **Day 273 (09/30/2022)**: []()
+
+[343 3DPCT: 3D Point Cloud Transformer with Dual Self-Attention]()
+
+**Abstract—** 
+
+[344 Recurrence-free Survival Prediction under the Guidance of Automatic Gross Tumor Volume Segmentation for Head and Neck Cancers]()
+
+**Abstract—** 
 
 * **Day 274 (10/01/2022)**: []()
 
