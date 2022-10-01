@@ -1501,15 +1501,24 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 273 (09/30/2022)**: []()
 
-[345 Capsule Network based Contrastive Learning of Unsupervised Visual Representations]()
+[345 Capsule Network based Contrastive Learning of Unsupervised Visual Representations](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/345%20Capsule%20Network%20based%20Contrastive%20Learning%20of%20Unsupervised%20Visual%20Representations.pdf)
 
-**Abstract—** 
+**Abstract—** Capsule Networks have shown tremendous advancement in the past decade, outperforming the traditional CNNs in various task due to it's equivariant properties. With the use of vector I/O which provides information of both magnitude and direction of an object or it's part, there lies an enormous possibility of using Capsule Networks in unsupervised learning environment for visual representation tasks such as multi class image classification. In this paper, we propose Contrastive Capsule (CoCa) Model which is a Siamese style Capsule Network using Contrastive loss with our novel architecture, training and testing algorithm. We evaluate the model on unsupervised image classification CIFAR-10 dataset and achieve a top-1 test accuracy of 70.50% and top-5 test accuracy of 98.10%. Due to our efficient architecture our model has 31 times less parameters and 71 times less FLOPs than the current SOTA in both supervised and unsupervised learning.
 
-[346 FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion]()
+[346 FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/346%20FusionVAE%20A%20Deep%20Hierarchical%20Variational%20Autoencoder%20for%20RGB%20Image%20Fusion.pdf)
 
-**Abstract—** 
+**Abstract—** Sensor fusion can significantly improve the performance of many computer vision tasks. However, traditional fusion approaches are either not data-driven and cannot exploit prior knowledge nor find regularities in a given dataset or they are restricted to a single application. We overcome this shortcoming by presenting a novel deep hierarchical variational autoencoder called FusionVAE that can serve as a basis for many fusion tasks. Our approach is able to generate diverse image samples that are conditioned on multiple noisy, occluded, or only partially visible input images. We derive and optimize a variational lower bound for the conditional log-likelihood of FusionVAE. In order to assess the fusion capabilities of our model thoroughly, we created three novel datasets for image fusion based on popular computer vision datasets. In our experiments, we show that FusionVAE learns a representation of aggregated information that is relevant to fusion tasks. The results demonstrate that our approach outperforms traditional methods significantly. Furthermore, we present the advantages and disadvantages of different design choices.
 
 * **Day 274 (10/01/2022)**: []()
+
+[347 T2FPV: Constructing High-Fidelity First-Person View Datasets From Real-World Pedestrian Trajectories](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/347%20T2FPV%20Constructing%20High-Fidelity%20First-Person%20View%20Datasets%20From%20Real-World%20Pedestrian%20Trajectories.pdf)
+
+**Abstract—** Capsule Networks have shown tremendous advancement in the past decade, outperforming the traditional CNNs in various task due to it's equivariant properties. With the use of vector I/O which provides information of both magnitude and direction of an object or it's part, there lies an enormous possibility of using Capsule Networks in unsupervised learning environment for visual representation tasks such as multi class image classification. In this paper, we propose Contrastive Capsule (CoCa) Model which is a Siamese style Capsule Network using Contrastive loss with our novel architecture, training and testing algorithm. We evaluate the model on unsupervised image classification CIFAR-10 dataset and achieve a top-1 test accuracy of 70.50% and top-5 test accuracy of 98.10%. Due to our efficient architecture our model has 31 times less parameters and 71 times less FLOPs than the current SOTA in both supervised and unsupervised learning.
+
+[348 Deep Domain Adaptation for Detecting Bomb Craters in Aerial Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/348%20Deep%20Domain%20Adaptation%20for%20Detecting%20Bomb%20Craters%20in%20Aerial%20Images.pdf)
+
+**Abstract—** Sensor fusion can significantly improve the performance of many computer vision tasks. However, traditional fusion approaches are either not data-driven and cannot exploit prior knowledge nor find regularities in a given dataset or they are restricted to a single application. We overcome this shortcoming by presenting a novel deep hierarchical variational autoencoder called FusionVAE that can serve as a basis for many fusion tasks. Our approach is able to generate diverse image samples that are conditioned on multiple noisy, occluded, or only partially visible input images. We derive and optimize a variational lower bound for the conditional log-likelihood of FusionVAE. In order to assess the fusion capabilities of our model thoroughly, we created three novel datasets for image fusion based on popular computer vision datasets. In our experiments, we show that FusionVAE learns a representation of aggregated information that is relevant to fusion tasks. The results demonstrate that our approach outperforms traditional methods significantly. Furthermore, we present the advantages and disadvantages of different design choices.
+
 
 * **Day 275 (10/02/2022)**: []()
 
