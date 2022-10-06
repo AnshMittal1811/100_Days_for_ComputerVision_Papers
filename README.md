@@ -1542,21 +1542,21 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 277 (10/04/2022)**: []()
 
-[353 A domain adaptive deep learning solution for scanpath prediction of paintings]()
+[353 A domain adaptive deep learning solution for scanpath prediction of paintings](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/353%20A%20domain%20adaptive%20deep%20learning%20solution%20for%20scanpath%20prediction%20of%20paintings.pdf)
 
-**Abstract—** 
+**Abstract—** Cultural heritage understanding and preservation is an important issue for society as it represents a fundamental aspect of its identity. Paintings represent a significant part of cultural heritage, and are the subject of study continuously. However, the way viewers perceive paintings is strictly related to the so-called HVS (Human Vision System) behaviour. This paper focuses on the eye-movement analysis of viewers during the visual experience of a certain number of paintings. In further details, we introduce a new approach to predicting human visual attention, which impacts several cognitive functions for humans, including the fundamental understanding of a scene, and then extend it to painting images. The proposed new architecture ingests images and returns scanpaths, a sequence of points featuring a high likelihood of catching viewers' attention. We use an FCNN (Fully Convolutional Neural Network), in which we exploit a differentiable channel-wise selection and Soft-Argmax modules. We also incorporate learnable Gaussian distributions onto the network bottleneck to simulate visual attention process bias in natural scene images. Furthermore, to reduce the effect of shifts between different domains (i.e. natural images, painting), we urge the model to learn unsupervised general features from other domains using a gradient reversal classifier. The results obtained by our model outperform existing state-of-the-art ones in terms of accuracy and efficiency.
 
-[354 Fast Disparity Estimation from a Single Compressed Light Field Measurement]()
+[354 Fast Disparity Estimation from a Single Compressed Light Field Measurement](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/354%20Fast%20Disparity%20Estimation%20from%20a%20Single%20Compressed%20Light%20Field%20Measurement.pdf)
 
-**Abstract—** 
+**Abstract—** The abundant spatial and angular information from light fields has allowed the development of multiple disparity estimation approaches. However, the acquisition of light fields requires high storage and processing cost, limiting the use of this technology in practical applications. To overcome these drawbacks, the compressive sensing (CS) theory has allowed the development of optical architectures to acquire a single coded light field measurement. This measurement is decoded using an optimization algorithm or deep neural network that requires high computational costs. The traditional approach for disparity estimation from compressed light fields requires first recovering the entire light field and then a post-processing step, thus requiring long times. In contrast, this work proposes a fast disparity estimation from a single compressed measurement by omitting the recovery step required in traditional approaches. Specifically, we propose to jointly optimize an optical architecture for acquiring a single coded light field snapshot and a convolutional neural network (CNN) for estimating the disparity maps. Experimentally, the proposed method estimates disparity maps comparable with those obtained from light fields reconstructed using deep learning approaches. Furthermore, the proposed method is 20 times faster in training and inference than the best method that estimates the disparity from reconstructed light fields.
 
 * **Day 278 (10/05/2022)**: []()
 
-[355 Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration]()
+[355 Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/355%20Swin2SR%20SwinV2%20Transformer%20for%20Compressed%20Image%20Super-Resolution%20and%20Restoration.pdf)
 
 **Abstract—** 
 
-[356 Oracle Analysis Of Representations For Deep Open Set Detection]()
+[356 Oracle Analysis Of Representations For Deep Open Set Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/356%20Oracle%20Analysis%20Of%20Representations%20For%20Deep%20Open%20Set%20Detection.pdf)
 
 **Abstract—** 
 
