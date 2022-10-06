@@ -1542,7 +1542,23 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 277 (10/04/2022)**: []()
 
+[353 A domain adaptive deep learning solution for scanpath prediction of paintings]()
+
+**Abstract—** 
+
+[354 Fast Disparity Estimation from a Single Compressed Light Field Measurement]()
+
+**Abstract—** 
+
 * **Day 278 (10/05/2022)**: []()
+
+[355 Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration]()
+
+**Abstract—** 
+
+[356 Oracle Analysis Of Representations For Deep Open Set Detection]()
+
+**Abstract—** 
 
 * **Day 279 (10/06/2022)**: []()
 
