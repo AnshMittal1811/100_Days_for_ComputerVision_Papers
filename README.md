@@ -1562,7 +1562,23 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 279 (10/06/2022)**: []()
 
+[357 Learning Interpretable Dynamics from Images of a Freely Rotating Rigid Body](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/357%20Learning%20Interpretable%20Dynamics%20from%20Images%20of%20a%20Freely%20Rotating%203D%20Rigid%20Body.pdf)
+
+**Abstract—** 
+
+[358 NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/358%20NasHD%20Efficient%20ViT%20Architecture%20Performance%20Ranking%20using%20Hyperdimensional%20Computing.pdf)
+
+**Abstract—** 
+
 * **Day 280 (10/07/2022)**: []()
+
+[359 CUTS: A Fully Unsupervised Framework for Medical Image Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/359%20CUTS%20A%20Fully%20Unsupervised%20Framework%20for%20Medical%20Image%20Segmentation.pdf)
+
+**Abstract—** 
+
+[360 LGDN: Language-Guided Denoising Network for Video-Language Modeling](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/360%20LGDN%20Language-Guided%20Denoising%20Networkfor%20Video-Language%20Modeling.pdf)
+
+**Abstract—** 
 
 * **Day 281 (10/08/2022)**: []()
 
@@ -1645,3 +1661,91 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 * **Day 320 (11/16/2022)**: []()
 
 * **Day 321 (11/17/2022)**: []()
+
+* **Day 322 (11/18/2022)**: []()
+
+* **Day 323 (11/19/2022)**: []()
+
+* **Day 324 (11/20/2022)**: []()
+
+* **Day 325 (11/21/2022)**: []()
+
+* **Day 326 (11/22/2022)**: []()
+
+* **Day 327 (11/23/2022)**: []()
+
+* **Day 328 (11/24/2022)**: []()
+
+* **Day 329 (11/25/2022)**: []()
+
+* **Day 330 (11/26/2022)**: []()
+
+* **Day 331 (11/27/2022)**: []()
+
+* **Day 332 (11/28/2022)**: []()
+
+* **Day 333 (11/29/2022)**: []()
+
+* **Day 334 (11/30/2022)**: []()
+
+* **Day 335 (12/01/2022)**: []()
+
+* **Day 336 (12/02/2022)**: []()
+
+* **Day 337 (12/03/2022)**: []()
+
+* **Day 338 (12/04/2022)**: []()
+
+* **Day 339 (12/05/2022)**: []()
+
+* **Day 340 (12/06/2022)**: []()
+
+* **Day 341 (12/07/2022)**: []()
+
+* **Day 342 (12/08/2022)**: []()
+
+* **Day 343 (12/09/2022)**: []()
+
+* **Day 344 (12/10/2022)**: []()
+
+* **Day 345 (12/11/2022)**: []()
+
+* **Day 346 (12/12/2022)**: []()
+
+* **Day 347 (12/13/2022)**: []()
+
+* **Day 348 (12/14/2022)**: []()
+
+* **Day 349 (12/15/2022)**: []()
+
+* **Day 350 (12/16/2022)**: []()
+
+* **Day 351 (12/17/2022)**: []()
+
+* **Day 352 (12/18/2022)**: []()
+
+* **Day 353 (12/19/2022)**: []()
+
+* **Day 354 (12/20/2022)**: []()
+
+* **Day 355 (12/21/2022)**: []()
+
+* **Day 356 (12/22/2022)**: []()
+
+* **Day 357 (12/23/2022)**: []()
+
+* **Day 358 (12/24/2022)**: []()
+
+* **Day 359 (12/25/2022)**: []()
+
+* **Day 360 (12/26/2022)**: []()
+
+* **Day 361 (12/27/2022)**: []()
+
+* **Day 362 (12/28/2022)**: []()
+
+* **Day 363 (12/29/2022)**: []()
+
+* **Day 364 (12/30/2022)**: []()
+
+* **Day 365 (12/31/2022)**: []()
