@@ -1564,23 +1564,31 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 [357 Learning Interpretable Dynamics from Images of a Freely Rotating Rigid Body](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/357%20Learning%20Interpretable%20Dynamics%20from%20Images%20of%20a%20Freely%20Rotating%203D%20Rigid%20Body.pdf)
 
-**Abstract—** 
+**Abstract—** In many real-world settings, image observations of freely rotating 3D rigid bodies, such as satellites, may be available when low-dimensional measurements are not. However, the high-dimensionality of image data precludes the use of classical estimation techniques to learn the dynamics and a lack of interpretability reduces the usefulness of standard deep learning methods. In this work, we present a physics-informed neural network model to estimate and predict 3D rotational dynamics from image sequences. We achieve this using a multi-stage prediction pipeline that maps individual images to a latent representation homeomorphic to SO(3), computes angular velocities from latent pairs, and predicts future latent states using the Hamiltonian equations of motion with a learned representation of the Hamiltonian. We demonstrate the efficacy of our approach on a new rotating rigid-body dataset with sequences of rotating cubes and rectangular prisms with uniform and non-uniform density.
 
 [358 NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/358%20NasHD%20Efficient%20ViT%20Architecture%20Performance%20Ranking%20using%20Hyperdimensional%20Computing.pdf)
 
-**Abstract—** 
+**Abstract—** Neural Architecture Search (NAS) is an automated architecture engineering method for deep learning design automation, which serves as an alternative to the manual and error-prone process of model development, selection, evaluation and performance estimation. However, one major obstacle of NAS is the extremely demanding computation resource requirements and time-consuming iterations particularly when the dataset scales. In this paper, targeting at the emerging vision transformer (ViT), we present NasHD, a hyperdimensional computing based supervised learning model to rank the performance given the architectures and configurations. Different from other learning based methods, NasHD is faster thanks to the high parallel processing of HDC architecture. We also evaluated two HDC encoding schemes: Gram-based and Record-based of NasHD on their performance and efficiency. On the VIMER-UFO benchmark dataset of 8 applications from a diverse range of domains, NasHD Record can rank the performance of nearly 100K vision transformer models with about 1 minute while still achieving comparable results with sophisticated models.
 
 * **Day 280 (10/07/2022)**: []()
 
 [359 CUTS: A Fully Unsupervised Framework for Medical Image Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/359%20CUTS%20A%20Fully%20Unsupervised%20Framework%20for%20Medical%20Image%20Segmentation.pdf)
 
-**Abstract—** 
+**Abstract—** In this work we introduce CUTS (Contrastive and Unsupervised Training for Segmentation) the first fully unsupervised deep learning framework for medical image segmentation, facilitating the use of the vast majority of imaging data that is not labeled or annotated. Segmenting medical images into regions of interest is a critical task for facilitating both patient diagnoses and quantitative research. A major limiting factor in this segmentation is the lack of labeled data, as getting expert annotations for each new set of imaging data or task can be expensive, labor intensive, and inconsistent across annotators: thus, we utilize self-supervision based on pixel-centered patches from the images themselves. Our unsupervised approach is based on a training objective with both contrastive learning and autoencoding aspects. Previous contrastive learning approaches for medical image segmentation have focused on image-level contrastive training, rather than our intra-image patch-level approach or have used this as a pre-training task where the network needed further supervised training afterwards. By contrast, we build the first entirely unsupervised framework that operates at the pixel-centered-patch level. Specifically, we add novel augmentations, a patch reconstruction loss, and introduce a new pixel clustering and identification framework. Our model achieves improved results on several key medical imaging tasks, as verified by held-out expert annotations on the task of segmenting geographic atrophy (GA) regions of images of the retina.
 
 [360 LGDN: Language-Guided Denoising Network for Video-Language Modeling](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/360%20LGDN%20Language-Guided%20Denoising%20Networkfor%20Video-Language%20Modeling.pdf)
 
-**Abstract—** 
+**Abstract—** Video-language modeling has attracted much attention with the rapid growth of web videos. Most existing methods assume that the video frames and text description are semantically correlated, and focus on video-language modeling at video level. However, this hypothesis often fails for two reasons: (1) With the rich semantics of video contents, it is difficult to cover all frames with a single video-level description; (2) A raw video typically has noisy/meaningless information (e.g., scenery shot, transition or teaser). Although a number of recent works deploy attention mechanism to alleviate this problem, the irrelevant/noisy information still makes it very difficult to address. To overcome such challenge, we thus propose an efficient and effective model, termed Language-Guided Denoising Network (LGDN), for video-language modeling. Different from most existing methods that utilize all extracted video frames, LGDN dynamically filters out the misaligned or redundant frames under the language supervision and obtains only 2--4 salient frames per video for cross-modal token-level alignment. Extensive experiments on five public datasets show that our LGDN outperforms the state-of-the-arts by large margins. We also provide detailed ablation study to reveal the critical importance of solving the noise issue, in hope of inspiring future video-language work.
 
 * **Day 281 (10/08/2022)**: []()
+
+[361 Towards Frame Rate Agnostic Multi-Object Tracking](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/361%20Towards%20Frame%20Rate%20Agnostic%20Multi-Object%20Tracking.pdf)
+
+**Abstract—** 
+
+[362 Understanding Open-Set Recognition by Jacobian Norm of Representation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/362%20Understanding%20Open-Set%20Recognition%20by%20Jacobian%20Norm%20of%20Representation.pdf)
+
+**Abstract—** 
 
 * **Day 282 (10/09/2022)**: []()
 
