@@ -1674,6 +1674,14 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 * **Day 290 (10/17/2022)**: []()
 
+[379 Pose-Aided Video-based Person Re-Identification via Recurrent Graph Convolutional Network](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/379%20Pose-Aided%20Video-based%20Person%20Re-Identification%20via%20Recurrent%20Graph%20Convolutional%20Network.pdf)
+
+**Abstract—** 
+
+[380 Multi-Granularity Graph Pooling for Video-based Person ReIdentification](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/380%20Multi-Granularity%20Graph%20Pooling%20for%20Video-based%20Person%20Re-Identification.pdf)
+
+**Abstract—** 
+
 * **Day 291 (10/18/2022)**: []()
 
 * **Day 292 (10/19/2022)**: []()
