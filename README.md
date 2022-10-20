@@ -1676,13 +1676,23 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 [379 Pose-Aided Video-based Person Re-Identification via Recurrent Graph Convolutional Network](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/379%20Pose-Aided%20Video-based%20Person%20Re-Identification%20via%20Recurrent%20Graph%20Convolutional%20Network.pdf)
 
-**Abstract—** 
+**Abstract—** Existing methods for video-based person re-identification (ReID) mainly learn the appearance feature of a given pedestrian via a feature extractor and a feature aggregator. However, the appearance models would fail when different pedestrians have similar appearances. Considering that different pedestrians have different walking postures and body proportions, we propose to learn the discriminative pose feature beyond the appearance feature for video retrieval. Specifically, we implement a two-branch architecture to separately learn the appearance feature and pose feature, and then concatenate them together for inference. To learn the pose feature, we first detect the pedestrian pose in each frame through an off-the-shelf pose detector, and construct a temporal graph using the pose sequence. We then exploit a recurrent graph convolutional network (RGCN) to learn the node embeddings of the temporal pose graph, which devises a global information propagation mechanism to simultaneously achieve the neighborhood aggregation of intra-frame nodes and message passing among inter-frame graphs. Finally, we propose a dual-attention method consisting of node-attention and time-attention to obtain the temporal graph representation from the node embeddings, where the self-attention mechanism is employed to learn the importance of each node and each frame. We verify the proposed method on three video-based ReID datasets, i.e., Mars, DukeMTMC and iLIDS-VID, whose experimental results demonstrate that the learned pose feature can effectively improve the performance of existing appearance models.
 
 [380 Multi-Granularity Graph Pooling for Video-based Person ReIdentification](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/380%20Multi-Granularity%20Graph%20Pooling%20for%20Video-based%20Person%20Re-Identification.pdf)
 
-**Abstract—** 
+**Abstract—** The video-based person re-identification (ReID) aims to identify the given pedestrian video sequence across multiple non-overlapping cameras.
+To aggregate the temporal and spatial features of the video samples, the graph neural networks (GNNs) are introduced. However, existing graph-based models, like STGCN, perform the \textit{mean}/\textit{max pooling} on node features to obtain the graph representation, which neglect the graph topology and node importance. In this paper, we propose the graph pooling network (GPNet) to learn the multi-granularity graph representation for the video retrieval, where the \textit{graph pooling layer} is implemented to downsample the graph. We first construct a multi-granular graph, whose node features denote image embedding learned by backbone, and edges are established between the temporal and Euclidean neighborhood nodes. We then implement multiple graph convolutional layers to perform the neighborhood aggregation on the graphs. To downsample the graph, we propose a multi-head full attention graph pooling (MHFAPool) layer, which integrates the advantages of existing node clustering and node selection pooling methods. Specifically, MHFAPool takes the main eigenvector of full attention matrix as the aggregation coefficients to involve the global graph information in each pooled nodes. Extensive experiments demonstrate that our GPNet achieves the competitive results on four widely-used datasets, i.e., MARS, DukeMTMC-VideoReID, iLIDS-VID and PRID-2011.
 
 * **Day 291 (10/18/2022)**: []()
+
+[381 ](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/379%20Pose-Aided%20Video-based%20Person%20Re-Identification%20via%20Recurrent%20Graph%20Convolutional%20Network.pdf)
+
+**Abstract—** 
+
+[382 ](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/380%20Multi-Granularity%20Graph%20Pooling%20for%20Video-based%20Person%20Re-Identification.pdf)
+
+**Abstract—** 
+
 
 * **Day 292 (10/19/2022)**: []()
 
