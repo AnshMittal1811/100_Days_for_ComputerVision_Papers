@@ -1697,13 +1697,21 @@ To aggregate the temporal and spatial features of the video samples, the graph n
 
 [383 Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/383%20Image-to-Image%20Translation%20for%20Autonomous%20Driving%20from%20Coarsely-Aligned%20Image%20Pairs.pdf)
 
-**Abstract—** 
+**Abstract—** A self-driving car must be able to reliably handle adverse weather conditions (e.g., snowy) to operate safely. In this paper, we investigate the idea of turning sensor inputs (i.e., images) captured in an adverse condition into a benign one (i.e., sunny), upon which the downstream tasks (e.g., semantic segmentation) can attain high accuracy. Prior work primarily formulates this as an unpaired image-to-image translation problem due to the lack of paired images captured under the exact same camera poses and semantic layouts. While perfectly-aligned images are not available, one can easily obtain coarsely-paired images. For instance, many people drive the same routes daily in both good and adverse weather; thus, images captured at close-by GPS locations can form a pair. Though data from repeated traversals are unlikely to capture the same foreground objects, we posit that they provide rich contextual information to supervise the image translation model. To this end, we propose a novel training objective leveraging coarsely-aligned image pairs. We show that our coarsely-aligned training scheme leads to a better image translation quality and improved downstream tasks, such as semantic segmentation, monocular depth estimation, and visual localization.
 
 [384 PNeRF: Probabilistiv Neural Scene Representations for Uncertain 3D Visual Mapping](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/384%20PNeRF%20Probabilistic%20Neural%20Scene%20Representations%20for%20Uncertain%203D%20Visual%20Mapping.pdf)
 
 **Abstract—** 
 
 * **Day 293 (10/20/2022)**: []()
+
+[385 An Overall of Violence Detection Techniques Current Challenges and Future Directions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/385%20An%20Overview%20of%20Violence%20Detection%20Techniques%20Current%20Challenges%20and%20Future%20Directions.pdf)
+
+**Abstract—** 
+
+[386 Meteorologicala Satellite Images Prediction Based on Deep Multi-scales Extrapolation Fusion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/386%20Meteorological%20Satellite%20Images%20Prediction%20Based%20on%20Deep%20Multi-scales%20Extrapolation%20Fusion.pdf)
+
+**Abstract—** 
 
 * **Day 294 (10/21/2022)**: []()
 
