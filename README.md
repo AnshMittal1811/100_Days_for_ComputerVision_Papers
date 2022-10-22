@@ -1705,15 +1705,24 @@ To aggregate the temporal and spatial features of the video samples, the graph n
 
 * **Day 293 (10/20/2022)**: []()
 
-[385 An Overall of Violence Detection Techniques Current Challenges and Future Directions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/385%20An%20Overview%20of%20Violence%20Detection%20Techniques%20Current%20Challenges%20and%20Future%20Directions.pdf)
+[385 An Overview of Violence Detection Techniques Current Challenges and Future Directions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/385%20An%20Overview%20of%20Violence%20Detection%20Techniques%20Current%20Challenges%20and%20Future%20Directions.pdf)
 
-**Abstract—** 
+**Abstract—** The Big Video Data generated in today's smart cities has raised concerns from its purposeful usage perspective, where surveillance cameras, among many others are the most prominent resources to contribute to the huge volumes of data, making its automated analysis a difficult task in terms of computation and preciseness. Violence Detection (VD), broadly plunging under Action and Activity recognition domain, is used to analyze Big Video data for anomalous actions incurred due to humans. The VD literature is traditionally based on manually engineered features, though advancements to deep learning based standalone models are developed for real-time VD analysis. This paper focuses on overview of deep sequence learning approaches along with localization strategies of the detected violence. This overview also dives into the initial image processing and machine learning-based VD literature and their possible advantages such as efficiency against the current complex models. Furthermore,the datasets are discussed, to provide an analysis of the current models, explaining their pros and cons with future directions in VD domain derived from an in-depth analysis of the previous methods.
 
-[386 Meteorologicala Satellite Images Prediction Based on Deep Multi-scales Extrapolation Fusion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/386%20Meteorological%20Satellite%20Images%20Prediction%20Based%20on%20Deep%20Multi-scales%20Extrapolation%20Fusion.pdf)
+[386 Meteorological Satellite Images Prediction Based on Deep Multi-scales Extrapolation Fusion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/386%20Meteorological%20Satellite%20Images%20Prediction%20Based%20on%20Deep%20Multi-scales%20Extrapolation%20Fusion.pdf)
 
-**Abstract—** 
+**Abstract—** Meteorological satellite imagery is critical for meteorologists. The data have played an important role in monitoring and analyzing weather and climate changes. However, satellite imagery is a kind of observation data and exists a significant time delay when transmitting the data back to Earth. It is important to make accurate predictions for meteorological satellite images, especially the nowcasting prediction up to 2 hours ahead. In recent years, there has been growing interest in the research of nowcasting prediction applications of weather radar images based on deep learning. Compared to the weather radar images prediction problem, the main challenge for meteorological satellite images prediction is the large-scale observation areas and therefore the large sizes of the observation products. Here we present a deep multi-scales extrapolation fusion method, to address the challenge of the meteorological satellite images nowcasting prediction. First, we downsample the original satellite images dataset with large size to several images datasets with smaller resolutions, then we use a deep spatiotemporal sequences prediction method to generate the multi-scales prediction images with different resolutions separately. Second, we fuse the multi-scales prediction results to the targeting prediction images with the original size by a conditional generative adversarial network. The experiments based on the FY-4A meteorological satellite data show that the proposed method can generate realistic prediction images that effectively capture the evolutions of the weather systems in detail. We believe that the general idea of this work can be potentially applied to other spatiotemporal sequence prediction tasks with a large size.
+
 
 * **Day 294 (10/21/2022)**: []()
+
+[387 T3VIP: Transformation-based 3D Video Prediction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/387%20T3VIP%20Transformation-based%203D%20Video%20Prediction.pdf)
+
+**Abstract—** 
+
+[388 Rate Distortion in Image Coding for Machines](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/388%20Rate-Distortion%20in%20Image%20Coding%20for%20Machines.pdf)
+
+**Abstract—** 
 
 * **Day 295 (10/22/2022)**: []()
 
