@@ -1718,23 +1718,72 @@ To aggregate the temporal and spatial features of the video samples, the graph n
 
 [387 T3VIP: Transformation-based 3D Video Prediction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/387%20T3VIP%20Transformation-based%203D%20Video%20Prediction.pdf)
 
-**Abstract—** 
+**Abstract—** For autonomous skill acquisition, robots have to learn about the physical rules governing the 3D world dynamics from their own past experience to predict and reason about plausible future outcomes. To this end, we propose a transformation-based 3D video prediction (T3VIP) approach that explicitly models the 3D motion by decomposing a scene into its object parts and predicting their corresponding rigid transformations. Our model is fully unsupervised, captures the stochastic nature of the real world, and the observational cues in image and point cloud domains constitute its learning signals. To fully leverage all the 2D and 3D observational signals, we equip our model with automatic hyperparameter optimization (HPO) to interpret the best way of learning from them. To the best of our knowledge, our model is the first generative model that provides an RGB-D video prediction of the future for a static camera. Our extensive evaluation with simulated and real-world datasets demonstrates that our formulation leads to interpretable 3D models that predict future depth videos while achieving on-par performance with 2D models on RGB video prediction. Moreover, we demonstrate that our model outperforms 2D baselines on visuomotor control. Videos, code, dataset, and pre-trained models are available [at this http URL](http://t3vip.cs.uni-freiburg.de/).
 
 [388 Rate Distortion in Image Coding for Machines](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/388%20Rate-Distortion%20in%20Image%20Coding%20for%20Machines.pdf)
 
-**Abstract—** 
+**Abstract—** In recent years, there has been a sharp increase in transmission of images to remote servers specifically for the purpose of computer vision. In many applications, such as surveillance, images are mostly transmitted for automated analysis, and rarely seen by humans. Using traditional compression for this scenario has been shown to be inefficient in terms of bit-rate, likely due to the focus on human based distortion metrics. Thus, it is important to create specific image coding methods for joint use by humans and machines. One way to create the machine side of such a codec is to perform feature matching of some intermediate layer in a Deep Neural Network performing the machine task. In this work, we explore the effects of the layer choice used in training a learnable codec for humans and machines. We prove, using the data processing inequality, that matching features from deeper layers is preferable in the sense of rate-distortion. Next, we confirm our findings empirically by re-training an existing model for scalable human-machine coding. In our experiments we show the trade-off between the human and machine sides of such a scalable model, and discuss the benefit of using deeper layers for training in that regard.
+
 
 * **Day 295 (10/22/2022)**: []()
 
+[389]()
+
+**Abstract—** 
+
+[390]()
+
+**Abstract—** 
+
 * **Day 296 (10/23/2022)**: []()
+
+[391]()
+
+**Abstract—** 
+
+[392]()
+
+**Abstract—** 
 
 * **Day 297 (10/24/2022)**: []()
 
+[393]()
+
+**Abstract—** 
+
+[394]()
+
+**Abstract—** 
+
 * **Day 298 (10/25/2022)**: []()
+
+[395]()
+
+**Abstract—** 
+
+[396]()
+
+**Abstract—** 
 
 * **Day 299 (10/26/2022)**: []()
 
+[397]()
+
+**Abstract—** 
+
+[398]()
+
+**Abstract—** 
+
 * **Day 300 (10/27/2022)**: []()
+
+[399]()
+
+**Abstract—** 
+
+[400]()
+
+**Abstract—** 
 
 * **Day 301 (10/28/2022)**: []()
 
