@@ -1727,11 +1727,11 @@ To aggregate the temporal and spatial features of the video samples, the graph n
 
 * **Day 295 (10/22/2022)**: []()
 
-[389]()
+[389 Fractal Decomposition-based Algorithms for Dynamic Camera Alignment Optimization Problem](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/389%20Fractal%20Decomposition%20based%20Algorithm%20for%20Dynamic%20camera%20alignment%20Optmization%20Problem.pdf)
 
 **Abstract—** 
 
-[390]()
+[390 Edge Oriente  Neural Representation with Channel Tuning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/390%20Edge-oriented%20Implicit%20Neural%20Representation%20with%20Channel%20Tuning.pdf)
 
 **Abstract—** 
 
