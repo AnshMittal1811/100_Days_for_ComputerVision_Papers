@@ -1483,33 +1483,436 @@ Conclusion: We have automated the computation of 11 VBMs from retinal blood vess
 
 [341 Boost CTR Prediction for New Advertisements via Modeling Visual Content](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/341%20Boost%20CTR%20Prediction%20for%20New%20Advertisements%20via%20Modeling%20Visual%20Content.pdf)
 
-**Abstract—** 
+**Abstract—** Existing advertisements click-through rate (CTR) prediction models are mainly dependent on behavior ID features, which are learned based on the historical user-ad interactions. Nevertheless, behavior ID features relying on historical user behaviors are not feasible to describe new ads without previous interactions with users. To overcome the limitations of behavior ID features in modeling new ads, we exploit the visual content in ads to boost the performance of CTR prediction models. Specifically, we map each ad into a set of visual IDs based on its visual content. These visual IDs are further used for generating the visual embedding for enhancing CTR prediction models. We formulate the learning of visual IDs into a supervised quantization problem. Due to a lack of class labels for commercial images in advertisements, we exploit image textual descriptions as the supervision to optimize the image extractor for generating effective visual IDs. Meanwhile, since the hard quantization is non-differentiable, we soften the quantization operation to make it support the end-to-end network training. After mapping each image into visual IDs, we learn the embedding for each visual ID based on the historical user-ad interactions accumulated in the past. Since the visual ID embedding depends only on the visual content, it generalizes well to new ads. Meanwhile, the visual ID embedding complements the ad behavior ID embedding. Thus, it can considerably boost the performance of the CTR prediction models previously relying on behavior ID features for both new ads and ads that have accumulated rich user behaviors. After incorporating the visual ID embedding in the CTR prediction model of Baidu online advertising, the average CTR of ads improves by 1.46%, and the total charge increases by 1.10%.
 
 [342 Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/342%20Dual-Cycle%20Self-Supervised%20Dual-View%20Fluorescence%20Microscopy%20Image%20Reconstruction%20using%20CycleGAN.pdf)
 
-**Abstract—** 
+**Abstract—** Three-dimensional fluorescence microscopy often suffers from anisotropy, where the resolution along the axial direction is lower than that within the lateral imaging plane. We address this issue by presenting Dual-Cycle, a new framework for joint deconvolution and fusion of dual-view fluorescence images. Inspired by the recent Neuroclear method, Dual-Cycle is designed as a cycle-consistent generative network trained in a self-supervised fashion by combining a dual-view generator and prior-guided degradation model. We validate Dual-Cycle on both synthetic and real data showing its state-of-the-art performance without any external training data.
 
 * **Day 272 (09/29/2022)**: []()
 
 [343 3DPCT: 3D Point Cloud Transformer with Dual Self-Attention](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/343%203DPCT%203D%20Point%20Cloud%20Transformer%20with%20Dual%20Self-Attention.pdf)
 
-**Abstract—** 
+**Abstract—** Transformers have resulted in remarkable achievements in the field of image processing. Inspired by this great success, the application of Transformers to 3D point cloud processing has drawn more and more attention. This paper presents a novel point cloud representational learning network, 3D Point Cloud Transformer with Dual Self-attention (3DPCT) and an encoder-decoder structure. Specifically, 3DPCT has a hierarchical encoder, which contains two local-global dual-attention modules for the classification task (three modules for the segmentation task), with each module consisting of a Local Feature Aggregation (LFA) block and a Global Feature Learning (GFL) block. The GFL block is dual self-attention, with both point-wise and channel-wise self-attention to improve feature extraction. Moreover, in LFA, to better leverage the local information extracted, a novel point-wise self-attention model, named as Point-Patch Self-Attention (PPSA), is designed. The performance is evaluated on both classification and segmentation datasets, containing both synthetic and real-world data. Extensive experiments demonstrate that the proposed method achieved state-of-the-art results on both classification and segmentation tasks.
 
 [344 Recurrence-free Survival Prediction under the Guidance of Automatic Gross Tumor Volume Segmentation for Head and Neck Cancers](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/344%20Recurrence-free%20Survival%20Prediction%20under%20the%20Guidance%20of%20Automatic%20Gross%20Tumor%20Volume%20Segmentation%20for%20Head%20and%20Neck%20Cancers.pdf)
 
-**Abstract—** 
+**Abstract—** For Head and Neck Cancers (HNC) patient management, automatic gross tumor volume (GTV) segmentation and accurate pre-treatment cancer recurrence prediction are of great importance to assist physicians in designing personalized management plans, which have the potential to improve the treatment outcome and quality of life for HNC patients. In this paper, we developed an automated primary tumor (GTVp) and lymph nodes (GTVn) segmentation method based on combined pre-treatment positron emission tomography/computed tomography (PET/CT) scans of HNC patients. We extracted radiomics features from the segmented tumor volume and constructed a multi-modality tumor recurrence-free survival (RFS) prediction model, which fused the prediction results from separate CT radiomics, PET radiomics, and clinical models. We performed 5-fold cross-validation to train and evaluate our methods on the MICCAI 2022 HEad and neCK TumOR segmentation and outcome prediction challenge (HECKTOR) dataset. The ensemble prediction results on the testing cohort achieved Dice scores of 0.77 and 0.73 for GTVp and GTVn segmentation, respectively, and a C-index value of 0.67 for RFS prediction. The code is publicly available (this https URL). Our team's name is AIRT.
 
 * **Day 273 (09/30/2022)**: []()
 
-[345]()
+[345 Capsule Network based Contrastive Learning of Unsupervised Visual Representations](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/345%20Capsule%20Network%20based%20Contrastive%20Learning%20of%20Unsupervised%20Visual%20Representations.pdf)
 
-**Abstract—** 
+**Abstract—** Capsule Networks have shown tremendous advancement in the past decade, outperforming the traditional CNNs in various task due to it's equivariant properties. With the use of vector I/O which provides information of both magnitude and direction of an object or it's part, there lies an enormous possibility of using Capsule Networks in unsupervised learning environment for visual representation tasks such as multi class image classification. In this paper, we propose Contrastive Capsule (CoCa) Model which is a Siamese style Capsule Network using Contrastive loss with our novel architecture, training and testing algorithm. We evaluate the model on unsupervised image classification CIFAR-10 dataset and achieve a top-1 test accuracy of 70.50% and top-5 test accuracy of 98.10%. Due to our efficient architecture our model has 31 times less parameters and 71 times less FLOPs than the current SOTA in both supervised and unsupervised learning.
 
-[346]()
+[346 FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/346%20FusionVAE%20A%20Deep%20Hierarchical%20Variational%20Autoencoder%20for%20RGB%20Image%20Fusion.pdf)
 
-**Abstract—** 
+**Abstract—** Sensor fusion can significantly improve the performance of many computer vision tasks. However, traditional fusion approaches are either not data-driven and cannot exploit prior knowledge nor find regularities in a given dataset or they are restricted to a single application. We overcome this shortcoming by presenting a novel deep hierarchical variational autoencoder called FusionVAE that can serve as a basis for many fusion tasks. Our approach is able to generate diverse image samples that are conditioned on multiple noisy, occluded, or only partially visible input images. We derive and optimize a variational lower bound for the conditional log-likelihood of FusionVAE. In order to assess the fusion capabilities of our model thoroughly, we created three novel datasets for image fusion based on popular computer vision datasets. In our experiments, we show that FusionVAE learns a representation of aggregated information that is relevant to fusion tasks. The results demonstrate that our approach outperforms traditional methods significantly. Furthermore, we present the advantages and disadvantages of different design choices.
 
 * **Day 274 (10/01/2022)**: []()
 
+[347 T2FPV: Constructing High-Fidelity First-Person View Datasets From Real-World Pedestrian Trajectories](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/347%20T2FPV%20Constructing%20High-Fidelity%20First-Person%20View%20Datasets%20From%20Real-World%20Pedestrian%20Trajectories.pdf)
+
+**Abstract—** Capsule Networks have shown tremendous advancement in the past decade, outperforming the traditional CNNs in various task due to it's equivariant properties. With the use of vector I/O which provides information of both magnitude and direction of an object or it's part, there lies an enormous possibility of using Capsule Networks in unsupervised learning environment for visual representation tasks such as multi class image classification. In this paper, we propose Contrastive Capsule (CoCa) Model which is a Siamese style Capsule Network using Contrastive loss with our novel architecture, training and testing algorithm. We evaluate the model on unsupervised image classification CIFAR-10 dataset and achieve a top-1 test accuracy of 70.50% and top-5 test accuracy of 98.10%. Due to our efficient architecture our model has 31 times less parameters and 71 times less FLOPs than the current SOTA in both supervised and unsupervised learning.
+
+[348 Deep Domain Adaptation for Detecting Bomb Craters in Aerial Images](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/348%20Deep%20Domain%20Adaptation%20for%20Detecting%20Bomb%20Craters%20in%20Aerial%20Images.pdf)
+
+**Abstract—** Sensor fusion can significantly improve the performance of many computer vision tasks. However, traditional fusion approaches are either not data-driven and cannot exploit prior knowledge nor find regularities in a given dataset or they are restricted to a single application. We overcome this shortcoming by presenting a novel deep hierarchical variational autoencoder called FusionVAE that can serve as a basis for many fusion tasks. Our approach is able to generate diverse image samples that are conditioned on multiple noisy, occluded, or only partially visible input images. We derive and optimize a variational lower bound for the conditional log-likelihood of FusionVAE. In order to assess the fusion capabilities of our model thoroughly, we created three novel datasets for image fusion based on popular computer vision datasets. In our experiments, we show that FusionVAE learns a representation of aggregated information that is relevant to fusion tasks. The results demonstrate that our approach outperforms traditional methods significantly. Furthermore, we present the advantages and disadvantages of different design choices.
+
+
 * **Day 275 (10/02/2022)**: []()
+
+[349 Colonoscopy Landmark Detection using Vision Transformers](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/349%20Colonoscopy%20Landmark%20Detection%20using%20Vision%20Transformers.pdf)
+
+**Abstract—** Colonoscopy is a routine outpatient procedure used to examine the colon and rectum for any abnormalities including polyps, diverticula and narrowing of colon structures. A significant amount of the clinician's time is spent in post-processing snapshots taken during the colonoscopy procedure, for maintaining medical records or further investigation. Automating this step can save time and improve the efficiency of the process. In our work, we have collected a dataset of 120 colonoscopy videos and 2416 snapshots taken during the procedure, that have been annotated by experts. Further, we have developed a novel, vision-transformer based landmark detection algorithm that identifies key anatomical landmarks (the appendiceal orifice, ileocecal valve/cecum landmark and rectum retroflexion) from snapshots taken during colonoscopy. Our algorithm uses an adaptive gamma correction during preprocessing to maintain a consistent brightness for all images. We then use a vision transformer as the feature extraction backbone and a fully connected network based classifier head to categorize a given frame into four classes: the three landmarks or a non-landmark frame. We compare the vision transformer (ViT-B/16) backbone with ResNet-101 and ConvNext-B backbones that have been trained similarly. We report an accuracy of 82% with the vision transformer backbone on a test dataset of snapshots.
+
+[350 FuTH-Net: Fusing Temporal Relations and Holistic Features for Aerial Video Classification](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/350%20FuTH-Net%20Fusing%20Temporal%20Relations%20and%20Holistic%20Features%20for%20Aerial%20Video%20Classification.pdf)
+
+**Abstract—** Unmanned aerial vehicles (UAVs) are now widely applied to data acquisition due to its low cost and fast mobility. With the increasing volume of aerial videos, the demand for automatically parsing these videos is surging. To achieve this, current researches mainly focus on extracting a holistic feature with convolutions along both spatial and temporal dimensions. However, these methods are limited by small temporal receptive fields and cannot adequately capture long-term temporal dependencies which are important for describing complicated dynamics. In this paper, we propose a novel deep neural network, termed FuTH-Net, to model not only holistic features, but also temporal relations for aerial video classification. Furthermore, the holistic features are refined by the multi-scale temporal relations in a novel fusion module for yielding more discriminative video representations. More specially, FuTH-Net employs a two-pathway architecture: (1) a holistic representation pathway to learn a general feature of both frame appearances and shortterm temporal variations and (2) a temporal relation pathway to capture multi-scale temporal relations across arbitrary frames, providing long-term temporal dependencies. Afterwards, a novel fusion module is proposed to spatiotemporal integrate the two features learned from the two pathways. Our model is evaluated on two aerial video classification datasets, ERA and Drone-Action, and achieves the state-of-the-art results. This demonstrates its effectiveness and good generalization capacity across different recognition tasks (event classification and human action recognition). To facilitate further research, we release the code at [this https URL](https://gitlab.lrz.de/ai4eo/reasoning/futh-net).
+
+* **Day 276 (10/03/2022)**: []()
+
+[351 Privacy-Preserving Person Detection Using Low-Resolution Infrared Cameras](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/351%20Privacy-Preserving%20Person%20Detection%20Using%20Low-Resolution%20Infrared%20Cameras.pdf)
+
+**Abstract—** In intelligent building management, knowing the number of people and their location in a room are important for better control of its illumination, ventilation, and heating with reduced costs and improved comfort. This is typically achieved by detecting people using compact embedded devices that are installed on the room's ceiling, and that integrate low-resolution infrared camera, which conceals each person's identity. However, for accurate detection, state-of-the-art deep learning models still require supervised training using a large annotated dataset of images. In this paper, we investigate cost-effective methods that are suitable for person detection based on low-resolution infrared images. Results indicate that for such images, we can reduce the amount of supervision and computation, while still achieving a high level of detection accuracy. Going from single-shot detectors that require bounding box annotations of each person in an image, to auto-encoders that only rely on unlabelled images that do not contain people, allows for considerable savings in terms of annotation costs, and for models with lower computational costs. We validate these experimental findings on two challenging top-view datasets with low-resolution infrared images.
+
+[352 UNav: An Infrastructure-Independent Vision-Based Navigation System for People with Blindness and Low Vision](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/352%20UNav%20An%20Infrastructure-Independent%20Vision-Based%20Navigation%20System%20for%20People%20with%20Blindness%20and%20Low%20Vision.pdf)
+
+**Abstract—** Vision-based localization approaches now underpin newly emerging navigation pipelines for myriad use cases from robotics to assistive technologies. Compared to sensor-based solutions, vision-based localization does not require pre-installed sensor infrastructure, which is costly, time-consuming, and/or often infeasible at scale. Herein, we propose a novel vision-based localization pipeline for a specific use case: navigation support for end-users with blindness and low vision. Given a query image taken by an end-user on a mobile application, the pipeline leverages a visual place recognition (VPR) algorithm to find similar images in a reference image database of the target space. The geolocations of these similar images are utilized in downstream tasks that employ a weighted-average method to estimate the end-user's location and a perspective-n-point (PnP) algorithm to estimate the end-user's direction. Additionally, this system implements Dijkstra's algorithm to calculate a shortest path based on a navigable map that includes trip origin and destination. The topometric map used for localization and navigation is built using a customized graphical user interface that projects a 3D reconstructed sparse map, built from a sequence of images, to the corresponding a priori 2D floor plan. Sequential images used for map construction can be collected in a pre-mapping step or scavenged through public databases/citizen science. The end-to-end system can be installed on any internet-accessible device with a camera that hosts a custom mobile application. For evaluation purposes, mapping and localization were tested in a complex hospital environment. The evaluation results demonstrate that our system can achieve localization with an average error of less than 1 meter without knowledge of the camera's intrinsic parameters, such as focal length.
+
+* **Day 277 (10/04/2022)**: []()
+
+[353 A domain adaptive deep learning solution for scanpath prediction of paintings](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/353%20A%20domain%20adaptive%20deep%20learning%20solution%20for%20scanpath%20prediction%20of%20paintings.pdf)
+
+**Abstract—** Cultural heritage understanding and preservation is an important issue for society as it represents a fundamental aspect of its identity. Paintings represent a significant part of cultural heritage, and are the subject of study continuously. However, the way viewers perceive paintings is strictly related to the so-called HVS (Human Vision System) behaviour. This paper focuses on the eye-movement analysis of viewers during the visual experience of a certain number of paintings. In further details, we introduce a new approach to predicting human visual attention, which impacts several cognitive functions for humans, including the fundamental understanding of a scene, and then extend it to painting images. The proposed new architecture ingests images and returns scanpaths, a sequence of points featuring a high likelihood of catching viewers' attention. We use an FCNN (Fully Convolutional Neural Network), in which we exploit a differentiable channel-wise selection and Soft-Argmax modules. We also incorporate learnable Gaussian distributions onto the network bottleneck to simulate visual attention process bias in natural scene images. Furthermore, to reduce the effect of shifts between different domains (i.e. natural images, painting), we urge the model to learn unsupervised general features from other domains using a gradient reversal classifier. The results obtained by our model outperform existing state-of-the-art ones in terms of accuracy and efficiency.
+
+[354 Fast Disparity Estimation from a Single Compressed Light Field Measurement](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/354%20Fast%20Disparity%20Estimation%20from%20a%20Single%20Compressed%20Light%20Field%20Measurement.pdf)
+
+**Abstract—** The abundant spatial and angular information from light fields has allowed the development of multiple disparity estimation approaches. However, the acquisition of light fields requires high storage and processing cost, limiting the use of this technology in practical applications. To overcome these drawbacks, the compressive sensing (CS) theory has allowed the development of optical architectures to acquire a single coded light field measurement. This measurement is decoded using an optimization algorithm or deep neural network that requires high computational costs. The traditional approach for disparity estimation from compressed light fields requires first recovering the entire light field and then a post-processing step, thus requiring long times. In contrast, this work proposes a fast disparity estimation from a single compressed measurement by omitting the recovery step required in traditional approaches. Specifically, we propose to jointly optimize an optical architecture for acquiring a single coded light field snapshot and a convolutional neural network (CNN) for estimating the disparity maps. Experimentally, the proposed method estimates disparity maps comparable with those obtained from light fields reconstructed using deep learning approaches. Furthermore, the proposed method is 20 times faster in training and inference than the best method that estimates the disparity from reconstructed light fields.
+
+* **Day 278 (10/05/2022)**: []()
+
+[355 Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/355%20Swin2SR%20SwinV2%20Transformer%20for%20Compressed%20Image%20Super-Resolution%20and%20Restoration.pdf)
+
+**Abstract—** Compression plays an important role on the efficient transmission and storage of images and videos through band-limited systems such as streaming services, virtual reality or videogames. However, compression unavoidably leads to artifacts and the loss of the original information, which may severely degrade the visual quality. For these reasons, quality enhancement of compressed images has become a popular research topic. While most state-of-the-art image restoration methods are based on convolutional neural networks, other transformers-based methods such as SwinIR, show impressive performance on these tasks. In this paper, we explore the novel Swin Transformer V2, to improve SwinIR for image super-resolution, and in particular, the compressed input scenario. Using this method we can tackle the major issues in training transformer vision models, such as training instability, resolution gaps between pre-training and fine-tuning, and hunger on data. We conduct experiments on three representative tasks: JPEG compression artifacts removal, image super-resolution (classical and lightweight), and compressed image super-resolution. Experimental results demonstrate that our method, Swin2SR, can improve the training convergence and performance of SwinIR, and is a top-5 solution at the "AIM 2022 Challenge on Super-Resolution of Compressed Image and Video".
+
+[356 Oracle Analysis Of Representations For Deep Open Set Detection](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/356%20Oracle%20Analysis%20Of%20Representations%20For%20Deep%20Open%20Set%20Detection.pdf)
+
+**Abstract—** The problem of detecting a novel class at run time is known as Open Set Detection & is important for various real-world applications like medical application, autonomous driving, etc. Open Set Detection within context of deep learning involves solving two problems: (i) Must map the input images into a latent representation that contains enough information to detect the outliers, and (ii) Must learn an anomaly scoring function that can extract this information from the latent representation to identify the anomalies. Research in deep anomaly detection methods has progressed slowly. One reason may be that most papers simultaneously introduce new representation learning techniques and new anomaly scoring approaches. The goal of this work is to improve this methodology by providing ways of separately measuring the effectiveness of the representation learning and anomaly scoring. This work makes two methodological contributions. The first is to introduce the notion of Oracle anomaly detection for quantifying the information available in a learned latent representation. The second is to introduce Oracle representation learning, which produces a representation that is guaranteed to be sufficient for accurate anomaly detection. These two techniques help researchers to separate the quality of the learned representation from the performance of the anomaly scoring mechanism so that they can debug and improve their systems. The methods also provide an upper limit on how much open category detection can be improved through better anomaly scoring mechanisms. The combination of the two oracles gives an upper limit on the performance that any open category detection method could achieve. This work introduces these two oracle techniques and demonstrates their utility by applying them to several leading open category detection methods.
+
+* **Day 279 (10/06/2022)**: []()
+
+[357 Learning Interpretable Dynamics from Images of a Freely Rotating Rigid Body](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/357%20Learning%20Interpretable%20Dynamics%20from%20Images%20of%20a%20Freely%20Rotating%203D%20Rigid%20Body.pdf)
+
+**Abstract—** In many real-world settings, image observations of freely rotating 3D rigid bodies, such as satellites, may be available when low-dimensional measurements are not. However, the high-dimensionality of image data precludes the use of classical estimation techniques to learn the dynamics and a lack of interpretability reduces the usefulness of standard deep learning methods. In this work, we present a physics-informed neural network model to estimate and predict 3D rotational dynamics from image sequences. We achieve this using a multi-stage prediction pipeline that maps individual images to a latent representation homeomorphic to SO(3), computes angular velocities from latent pairs, and predicts future latent states using the Hamiltonian equations of motion with a learned representation of the Hamiltonian. We demonstrate the efficacy of our approach on a new rotating rigid-body dataset with sequences of rotating cubes and rectangular prisms with uniform and non-uniform density.
+
+[358 NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/358%20NasHD%20Efficient%20ViT%20Architecture%20Performance%20Ranking%20using%20Hyperdimensional%20Computing.pdf)
+
+**Abstract—** Neural Architecture Search (NAS) is an automated architecture engineering method for deep learning design automation, which serves as an alternative to the manual and error-prone process of model development, selection, evaluation and performance estimation. However, one major obstacle of NAS is the extremely demanding computation resource requirements and time-consuming iterations particularly when the dataset scales. In this paper, targeting at the emerging vision transformer (ViT), we present NasHD, a hyperdimensional computing based supervised learning model to rank the performance given the architectures and configurations. Different from other learning based methods, NasHD is faster thanks to the high parallel processing of HDC architecture. We also evaluated two HDC encoding schemes: Gram-based and Record-based of NasHD on their performance and efficiency. On the VIMER-UFO benchmark dataset of 8 applications from a diverse range of domains, NasHD Record can rank the performance of nearly 100K vision transformer models with about 1 minute while still achieving comparable results with sophisticated models.
+
+* **Day 280 (10/07/2022)**: []()
+
+[359 CUTS: A Fully Unsupervised Framework for Medical Image Segmentation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/359%20CUTS%20A%20Fully%20Unsupervised%20Framework%20for%20Medical%20Image%20Segmentation.pdf)
+
+**Abstract—** In this work we introduce CUTS (Contrastive and Unsupervised Training for Segmentation) the first fully unsupervised deep learning framework for medical image segmentation, facilitating the use of the vast majority of imaging data that is not labeled or annotated. Segmenting medical images into regions of interest is a critical task for facilitating both patient diagnoses and quantitative research. A major limiting factor in this segmentation is the lack of labeled data, as getting expert annotations for each new set of imaging data or task can be expensive, labor intensive, and inconsistent across annotators: thus, we utilize self-supervision based on pixel-centered patches from the images themselves. Our unsupervised approach is based on a training objective with both contrastive learning and autoencoding aspects. Previous contrastive learning approaches for medical image segmentation have focused on image-level contrastive training, rather than our intra-image patch-level approach or have used this as a pre-training task where the network needed further supervised training afterwards. By contrast, we build the first entirely unsupervised framework that operates at the pixel-centered-patch level. Specifically, we add novel augmentations, a patch reconstruction loss, and introduce a new pixel clustering and identification framework. Our model achieves improved results on several key medical imaging tasks, as verified by held-out expert annotations on the task of segmenting geographic atrophy (GA) regions of images of the retina.
+
+[360 LGDN: Language-Guided Denoising Network for Video-Language Modeling](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/360%20LGDN%20Language-Guided%20Denoising%20Networkfor%20Video-Language%20Modeling.pdf)
+
+**Abstract—** Video-language modeling has attracted much attention with the rapid growth of web videos. Most existing methods assume that the video frames and text description are semantically correlated, and focus on video-language modeling at video level. However, this hypothesis often fails for two reasons: (1) With the rich semantics of video contents, it is difficult to cover all frames with a single video-level description; (2) A raw video typically has noisy/meaningless information (e.g., scenery shot, transition or teaser). Although a number of recent works deploy attention mechanism to alleviate this problem, the irrelevant/noisy information still makes it very difficult to address. To overcome such challenge, we thus propose an efficient and effective model, termed Language-Guided Denoising Network (LGDN), for video-language modeling. Different from most existing methods that utilize all extracted video frames, LGDN dynamically filters out the misaligned or redundant frames under the language supervision and obtains only 2--4 salient frames per video for cross-modal token-level alignment. Extensive experiments on five public datasets show that our LGDN outperforms the state-of-the-arts by large margins. We also provide detailed ablation study to reveal the critical importance of solving the noise issue, in hope of inspiring future video-language work.
+
+* **Day 281 (10/08/2022)**: []()
+
+[361 Towards Frame Rate Agnostic Multi-Object Tracking](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/361%20Towards%20Frame%20Rate%20Agnostic%20Multi-Object%20Tracking.pdf)
+
+**Abstract—** Multi-Object Tracking (MOT) is one of the most fundamental computer vision tasks which contributes to a variety of video analysis applications. Despite the recent promising progress, current MOT research is still limited to a fixed sampling frame rate of the input stream. In fact, we empirically find that the accuracy of all recent state-of-the-art trackers drops dramatically when the input frame rate changes. For a more intelligent tracking solution, we shift the attention of our research work to the problem of Frame Rate Agnostic MOT (FraMOT). In this paper, we propose a Frame Rate Agnostic MOT framework with Periodic training Scheme (FAPS) to tackle the FraMOT problem for the first time. Specifically, we propose a Frame Rate Agnostic Association Module (FAAM) that infers and encodes the frame rate information to aid identity matching across multi-frame-rate inputs, improving the capability of the learned model in handling complex motion-appearance relations in FraMOT. Besides, the association gap between training and inference is enlarged in FraMOT because those post-processing steps not included in training make a larger difference in lower frame rate scenarios. To address it, we propose Periodic Training Scheme (PTS) to reflect all post-processing steps in training via tracking pattern matching and fusion. Along with the proposed approaches, we make the first attempt to establish an evaluation method for this new task of FraMOT in two different modes, i.e., known frame rate and unknown frame rate, aiming to handle a more complex situation. The quantitative experiments on the challenging MOT datasets (FraMOT version) have clearly demonstrated that the proposed approaches can handle different frame rates better and thus improve the robustness against complicated scenarios.
+
+[362 Understanding Open-Set Recognition by Jacobian Norm of Representation](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/362%20Understanding%20Open-Set%20Recognition%20by%20Jacobian%20Norm%20of%20Representation.pdf)
+
+**Abstract—** In contrast to conventional closed-set recognition, open-set recognition (OSR) assumes the presence of an unknown class, which is not seen to a model during training. One predominant approach in OSR is metric learning, where a model is trained to separate the inter-class representations of known class data. Numerous works in OSR reported that, even though the models are trained only with the known class data, the models become aware of the unknown, and learn to separate the unknown class representations from the known class representations. This paper analyzes this emergent phenomenon by observing the Jacobian norm of representation. We theoretically show that minimizing the intra-class distances within the known set reduces the Jacobian norm of known class representations while maximizing the inter-class distances within the known set increases the Jacobian norm of the unknown class. The closed-set metric learning thus separates the unknown from the known by forcing their Jacobian norm values to differ. We empirically validate our theoretical framework with ample pieces of evidence using standard OSR datasets. Moreover, under our theoretical framework, we explain how the standard deep learning techniques can be helpful for OSR and use the framework as a guiding principle to develop an effective OSR model.
+
+* **Day 282 (10/09/2022)**: []()
+
+[363 Rethinking Performance Gains in Image Dehazing Networks](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/363%20Rethinking%20Performance%20Gains%20in%20Image%20Dehazing%20Networks.pdf)
+
+**Abstract—** Image dehazing is an active topic in low-level vision, and many image dehazing networks have been proposed with the rapid development of deep learning. Although these networks' pipelines work fine, the key mechanism to improving image dehazing performance remains unclear. For this reason, we do not target to propose a dehazing network with fancy modules; rather, we make minimal modifications to popular U-Net to obtain a compact dehazing network. Specifically, we swap out the convolutional blocks in U-Net for residual blocks with the gating mechanism, fuse the feature maps of main paths and skip connections using the selective kernel, and call the resulting U-Net variant gUNet. As a result, with a significantly reduced overhead, gUNet is superior to state-of-the-art methods on multiple image dehazing datasets. Finally, we verify these key designs to the performance gain of image dehazing networks through extensive ablation studies.
+
+[364 Motion Guided Deep Dynamic Garments](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/364%20Motion%20Guided%20Deep%20Dynamic%203D%20Garments.pdf)
+
+**Abstract—** Realistic dynamic garments on animated characters have many AR/VR applications. While authoring such dynamic garment geometry is still a challenging task, data-driven simulation provides an attractive alternative, especially if it can be controlled simply using the motion of the underlying character. In this work, we focus on motion guided dynamic 3D garments, especially for loose garments. In a data-driven setup, we first learn a generative space of plausible garment geometries. Then, we learn a mapping to this space to capture the motion dependent dynamic deformations, conditioned on the previous state of the garment as well as its relative position with respect to the underlying body. Technically, we model garment dynamics, driven using the input character motion, by predicting per-frame local displacements in a canonical state of the garment that is enriched with frame-dependent skinning weights to bring the garment to the global space. We resolve any remaining per-frame collisions by predicting residual local displacements. The resultant garment geometry is used as history to enable iterative rollout prediction. We demonstrate plausible generalization to unseen body shapes and motion inputs, and show improvements over multiple state-of-the-art alternatives.
+
+
+* **Day 283 (10/10/2022)**: []()
+
+[365 TeST: Test-time Self-Training under Distribution Shift](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/365%20TeST%20Test-time%20Self-Training%20under%20Distribution%20Shift.pdf)
+
+**Abstract—** Despite their recent success, deep neural networks continue to perform poorly when they encounter distribution shifts at test time. Many recently proposed approaches try to counter this by aligning the model to the new distribution prior to inference. With no labels available this requires unsupervised objectives to adapt the model on the observed test data. In this paper, we propose Test-Time Self-Training (TeST): a technique that takes as input a model trained on some source data and a novel data distribution at test time, and learns invariant and robust representations using a student-teacher framework. We find that models adapted using TeST significantly improve over baseline test-time adaptation algorithms. TeST achieves competitive performance to modern domain adaptation algorithms, while having access to 5-10x less data at time of adaption. We thoroughly evaluate a variety of baselines on two tasks: object detection and image segmentation and find that models adapted with TeST. We find that TeST sets the new state-of-the art for test-time domain adaptation algorithms.
+
+
+[366 Unsupervised Hashing with Semantic Concept Mining](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/366%20Unsupervised%20Hashing%20with%20Semantic%20Concept%20Mining.pdf)
+
+**Abstract—** Recently, to improve the unsupervised image retrieval performance, plenty of unsupervised hashing methods have been proposed by designing a semantic similarity matrix, which is based on the similarities between image features extracted by a pre-trained CNN model. However, most of these methods tend to ignore high-level abstract semantic concepts contained in images. Intuitively, concepts play an important role in calculating the similarity among images. In real-world scenarios, each image is associated with some concepts, and the similarity between two images will be larger if they share more identical concepts. Inspired by the above intuition, in this work, we propose a novel Unsupervised Hashing with Semantic Concept Mining, called UHSCM, which leverages a VLP model to construct a high-quality similarity matrix. Specifically, a set of randomly chosen concepts is first collected. Then, by employing a vision-language pretraining (VLP) model with the prompt engineering which has shown strong power in visual representation learning, the set of concepts is denoised according to the training images. Next, the proposed method UHSCM applies the VLP model with prompting again to mine the concept distribution of each image and construct a high-quality semantic similarity matrix based on the mined concept distributions. Finally, with the semantic similarity matrix as guiding information, a novel hashing loss with a modified contrastive loss based regularization item is proposed to optimize the hashing network. Extensive experiments on three benchmark datasets show that the proposed method outperforms the state-of-the-art baselines in the image retrieval task.
+
+* **Day 284 (10/11/2022)**: []()
+
+[367 Weakly-Supervised Two-Stage Training Scheme for Deep-Video Fight Detection Model](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/367%20Weakly%20Supervised%20Two-Stage%20Training%20Scheme%20for%20Deep%20Video%20Fight%20Detection%20Model.pdf)
+
+**Abstract—** Fight detection in videos is an emerging deep learning application with today's prevalence of surveillance systems and streaming media. Previous work has largely relied on action recognition techniques to tackle this problem. In this paper, we propose a simple but effective method that solves the task from a new perspective: we design the fight detection model as a composition of an action-aware feature extractor and an anomaly score generator. Also, considering that collecting frame-level labels for videos is too laborious, we design a weakly supervised two-stage training scheme, where we utilize multiple-instance-learning loss calculated on video-level labels to train the score generator, and adopt the self-training technique to further improve its performance. Extensive experiments on a publicly available large-scale dataset, UBI-Fights, demonstrate the effectiveness of our method, and the performance on the dataset exceeds several previous state-of-the-art approaches. Furthermore, we collect a new dataset, VFD-2000, that specializes in video fight detection, with a larger scale and more scenarios than existing datasets. The implementation of our method and the proposed dataset will be publicly available at [this https URL](https://github.com/Hepta-Col/VideoFightDetection).
+
+[368 GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/368%20GIDP%20Learning%20a%20Good%20Initialization%20and%20Inducing%20Descriptor%20Post-enhancing%20for%20Large-scale%20Place%20Recognition.pdf)
+
+**Abstract—** Large-scale place recognition is a fundamental but challenging task, which plays an increasingly important role in autonomous driving and robotics. Existing methods have achieved acceptable good performance, however, most of them are concentrating on designing elaborate global descriptor learning network structures. The importance of feature generalization and descriptor post-enhancing has long been neglected. In this work, we propose a novel method named GIDP to learn a Good Initialization and Inducing Descriptor Poseenhancing for Large-scale Place Recognition. In particular, an unsupervised momentum contrast point cloud pretraining module and a reranking-based descriptor post-enhancing module are proposed respectively in GIDP. The former aims at learning a good initialization for the point cloud encoding network before training the place recognition model, while the later aims at post-enhancing the predicted global descriptor through reranking at inference time. Extensive experiments on both indoor and outdoor datasets demonstrate that our method can achieve state-of-the-art performance using simple and general point cloud encoding backbones.
+
+* **Day 285 (10/12/2022)**: []()
+
+[369 Grouped Adaptive Loss Weighting for Person Search](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/369%20Grouped%20Adaptive%20Loss%20Weighting%20for%20Person%20Search.pdf)
+
+**Abstract—** Person search is an integrated task of multiple sub-tasks such as foreground/background classification, bounding box regression and person re-identification. Therefore, person search is a typical multi-task learning problem, especially when solved in an end-to-end manner. Recently, some works enhance person search features by exploiting various auxiliary information, e.g. person joint keypoints, body part position, attributes, etc., which brings in more tasks and further complexifies a person search model. The inconsistent convergence rate of each task could potentially harm the model optimization. A straightforward solution is to manually assign different weights to different tasks, compensating for the diverse convergence rates. However, given the special case of person search, i.e. with a large number of tasks, it is impractical to weight the tasks manually. To this end, we propose a Grouped Adaptive Loss Weighting (GALW) method which adjusts the weight of each task automatically and dynamically. Specifically, we group tasks according to their convergence rates. Tasks within the same group share the same learnable weight, which is dynamically assigned by considering the loss uncertainty. Experimental results on two typical benchmarks, CUHK-SYSU and PRW, demonstrate the effectiveness of our method.
+
+[370 Comparison of synthetic dataset generation methods for medical intervention rooms using medical clothing detection as an example](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/370%20Comparison%20of%20synthetic%20dataset%20generation%20methods%20for%20medical%20intervention%20rooms%20using%20medical%20clothing%20detection%20as%20an%20example.pdf)
+
+**Abstract—** The availability of real data from areas with high privacy requirements, such as the medical intervention space, is low and the acquisition legally complex. Therefore, this work presents a way to create a synthetic dataset for the medical context, using medical clothing as an example. The goal is to close the reality gap between the synthetic and real data. For this purpose, methods of 3D-scanned clothing and designed clothing are compared in a Domain-Randomization and Structured-Domain-Randomization scenario using an Unreal-Engine plugin or Unity. Additionally a Mixed-Reality dataset in front of a greenscreen and a target domain dataset were used. Our experiments show, that Structured-Domain-Randomization of designed clothing together with Mixed-Reality data provide a baseline achieving 72.0% mAP on a test dataset of the clinical target domain. When additionally using 15% of available target domain train data, the gap towards 100% (660 images) target domain train data could be nearly closed 80.05% mAP (81.95% mAP). Finally we show that when additionally using 100% target domain train data the accuracy could be increased to 83.35% mAP.
+
+* **Day 286 (10/13/2022)**: []()
+
+[371 Marine Video Kit: A New Marine Video Dataset for Content-based Analysis and Retrieval](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/371%20Marine%20Video%20Kit%20A%20New%20Marine%20Video%20Dataset%20for%20Content-based%20Analysis%20and%20Retrieval.pdf)
+
+**Abstract—** Effective analysis of unusual domain specific video collections represents an important practical problem, where state-of-the-art general purpose models still face limitations. Hence, it is desirable to design benchmark datasets that challenge novel powerful models for specific domains with additional constraints. It is important to remember that domain specific data may be noisier (e.g., endoscopic or underwater videos) and often require more experienced users for effective search. In this paper, we focus on single-shot videos taken from moving cameras in underwater environments which constitute a nontrivial challenge for research purposes. The first shard of a new Marine Video Kit dataset is presented to serve for video retrieval and other computer vision challenges. In addition to basic meta-data statistics, we present several insights and reference graphs based on low-level features as well as semantic annotations of selected keyframes. The analysis contains also experiments showing limitations of respected general purpose models for retrieval.
+
+[372 Vector Quantized Semantic Communication System](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/372%20Vector%20Quantized%20Semantic%20Communication%20System.pdf)
+
+**Abstract—** Although analog semantic communication systems have received considerable attention in the literature, there is less work on digital semantic communication systems. In this paper, we develop a deep learning (DL)-enabled vector quantized (VQ) semantic communication system for image transmission, named VQ-DeepSC. Specifically, we propose a convolutional neural network (CNN)-based transceiver to extract multi-scale semantic features of images and introduce multi-scale semantic embedding spaces to perform semantic feature quantization, rendering the data compatible with digital communication systems. Furthermore, we employ adversarial training to improve the quality of received images by introducing a PatchGAN discriminator. Experimental results demonstrate that the proposed VQ-DeepSC outperforms traditional image transmission methods in terms of SSIM.
+
+* **Day 287 (10/14/2022)**: []()
+
+[373 WS-3D-Lane: Weakly Supervised 3D Lane Detection with 2D Lane](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/373%20WS-3D-Lane%20Weakly%20Supervised%203D%20Lane%20Detection%20With%202D%20Lane.pdf)
+
+**Abstract—** Compared to 2D lanes, real 3D lane data is difficult to collect accurately. In this paper, we propose a novel method for training 3D lanes with only 2D lane labels, called weakly supervised 3D lane detection WS-3D-Lane. By assumptions of constant lane width and equal height on adjacent lanes, we indirectly supervise 3D lane heights in the training. To overcome the problem of the dynamic change of the camera pitch during data collection, a camera pitch self-calibration method is proposed. In anchor representation, we propose a double-layer anchor with a improved non-maximum suppression (NMS) method, which enables the anchor-based method to predict two lane lines that are close. Experiments are conducted on the base of 3D-LaneNet under two supervision methods. Under weakly supervised setting, our WS-3D-Lane outperforms previous 3D-LaneNet: F-score rises to 92.3% on Apollo 3D synthetic dataset, and F1 rises to 74.5% on ONCE-3DLanes. Meanwhile, WS-3D-Lane in purely supervised setting makes more increments and outperforms state-of-the-art. To the best of our knowledge, WS-3D-Lane is the first try of 3D lane detection under weakly supervised setting.
+
+[374 Statistical shape representation for temporal registration of plant components in 3D](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/374%20Statistical%20shape%20representations%20for%20temporal%20registration%20of%20plant%20components%20in%203D.pdf)
+
+**Abstract—** Plants are dynamic organisms. Understanding temporal variations in vegetation is an essential problem for all robots in the wild. However, associating repeated 3D scans of plants across time is challenging. A key step in this process is re-identifying and tracking the same individual plant components over time. Previously, this has been achieved by comparing their global spatial or topological location. In this work, we demonstrate how using shape features improves temporal organ matching. We present a landmark-free shape compression algorithm, which allows for the extraction of 3D shape features of leaves, characterises leaf shape and curvature efficiently in few parameters, and makes the association of individual leaves in feature space possible. The approach combines 3D contour extraction and further compression using Principal Component Analysis (PCA) to produce a shape space encoding, which is entirely learned from data and retains information about edge contours and 3D curvature. Our evaluation on temporal scan sequences of tomato plants shows, that incorporating shape features improves temporal leaf-matching. A combination of shape, location, and rotation information proves most informative for recognition of leaves over time and yields a true positive rate of 75%, a 15% improvement on sate-of-the-art methods. This is essential for robotic crop monitoring, which enables whole-of-lifecycle phenotyping.
+
+* **Day 288 (10/15/2022)**: []()
+
+[375 MAGIC: Mask-Guided Image Synthesis by Inverting a Quasi-Robust Classifier](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/375%20MAGIC%20Mask-Guided%20Image%20Synthesis%20by%20Inverting%20a%20Quasi-Robust%20Classifier.pdf)
+
+**Abstract—** We offer a method for one-shot image synthesis that allows controlling manipulations of a single image by inverting a quasi-robust classifier equipped with strong regularizers. Our proposed method, entitled Magic, samples structured gradients from a pre-trained quasi-robust classifier to better preserve the input semantics while preserving its classification accuracy, thereby guaranteeing credibility in the synthesis. Unlike current methods that use complex primitives to supervise the process or use attention maps as a weak supervisory signal, Magic aggregates gradients over the input, driven by a guide binary mask that enforces a strong, spatial prior. Magic implements a series of manipulations with a single framework achieving shape and location control, intense non-rigid shape deformations, and copy/move operations in the presence of repeating objects and gives users firm control over the synthesis by requiring simply specifying binary guide masks. Our study and findings are supported by various qualitative comparisons with the state-of-the-art on the same images sampled from ImageNet and quantitative analysis using machine perception along with a user survey of 100+ participants that endorse our synthesis quality.
+
+[376 Query-based Hard-Image Retrieval for Object Detection at Test-time](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/376%20Query-based%20Hard-Image%20Retrieval%20for%20Object%20Detection%20at%20Test%20Time.pdf)
+
+**Abstract—** There is a longstanding interest in capturing the error behaviour of object detectors by finding images where their performance is likely to be unsatisfactory. In real-world applications such as autonomous driving, it is also crucial to characterise potential failures beyond simple requirements of detection performance. For example, a missed detection of a pedestrian close to an ego vehicle will generally require closer inspection than a missed detection of a car in the distance. The problem of predicting such potential failures at test time has largely been overlooked in the literature and conventional approaches based on detection uncertainty fall short in that they are agnostic to such fine-grained characterisation of errors. In this work, we propose to reformulate the problem of finding "hard" images as a query-based hard image retrieval task, where queries are specific definitions of "hardness", and offer a simple and intuitive method that can solve this task for a large family of queries. Our method is entirely post-hoc, does not require ground-truth annotations, is independent of the choice of a detector, and relies on an efficient Monte Carlo estimation that uses a simple stochastic model in place of the ground-truth. We show experimentally that it can be applied successfully to a wide variety of queries for which it can reliably identify hard images for a given detector without any labelled data. We provide results on ranking and classification tasks using the widely used RetinaNet, Faster-RCNN, Mask-RCNN, and Cascade Mask-RCNN object detectors.
+
+* **Day 289 (10/16/2022)**: []()
+
+[377 Multi-Modal Cross-Domain Alignment Network for Video Moment Retrieval](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/377%20Multi-Modal%20Cross-Domain%20Alignment%20Network%20for%20Video%20Moment%20Retrieval.pdf)
+
+**Abstract—** As an increasingly popular task in multimedia information retrieval, video moment retrieval (VMR) aims to localize the target moment from an untrimmed video according to a given language query. Most previous methods depend heavily on numerous manual annotations (i.e., moment boundaries), which are extremely expensive to acquire in practice. In addition, due to the domain gap between different datasets, directly applying these pre-trained models to an unseen domain leads to a significant performance drop. In this paper, we focus on a novel task: cross-domain VMR, where fully-annotated datasets are available in one domain (``source domain''), but the domain of interest (``target domain'') only contains unannotated datasets. As far as we know, we present the first study on cross-domain VMR. To address this new task, we propose a novel Multi-Modal Cross-Domain Alignment (MMCDA) network to transfer the annotation knowledge from the source domain to the target domain. However, due to the domain discrepancy between the source and target domains and the semantic gap between videos and queries, directly applying trained models to the target domain generally leads to a performance drop. To solve this problem, we develop three novel modules: (i) a domain alignment module is designed to align the feature distributions between different domains of each modality; (ii) a cross-modal alignment module aims to map both video and query features into a joint embedding space and to align the feature distributions between different modalities in the target domain; (iii) a specific alignment module tries to obtain the fine-grained similarity between a specific frame and the given query for optimal localization. By jointly training these three modules, our MMCDA can learn domain-invariant and semantic-aligned cross-modal representations.
+
+[378 Towards Complete-View and High-Level Pose-based Gait Recognition](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/378%20Towards%20Complete-View%20and%20High-Level%20Pose-based%20Gait%20Recognition.pdf)
+
+**Abstract—** The model-based gait recognition methods usually adopt the pedestrian walking postures to identify human beings. However, existing methods did not explicitly resolve the large intra-class variance of human pose due to camera views changing. In this paper, we propose to generate multi-view pose sequences for each single-view pose sample by learning full-rank transformation matrices via lower-upper generative adversarial network (LUGAN). By the prior of camera imaging, we derive that the spatial coordinates between cross-view poses satisfy a linear transformation of a full-rank matrix, thereby, this paper employs the adversarial training to learn transformation matrices from the source pose and target views to obtain the target pose sequences. To this end, we implement a generator composed of graph convolutional (GCN) layers, fully connected (FC) layers and two-branch convolutional (CNN) layers: GCN layers and FC layers encode the source pose sequence and target view, then CNN branches learn a lower triangular matrix and an upper triangular matrix, respectively, finally they are multiplied to formulate the full-rank transformation matrix. For the purpose of adversarial training, we further devise a condition discriminator that distinguishes whether the pose sequence is true or generated. To enable the high-level correlation learning, we propose a plug-and-play module, named multi-scale hypergraph convolution (HGC), to replace the spatial graph convolutional layer in baseline, which could simultaneously model the joint-level, part-level and body-level correlations. Extensive experiments on two large gait recognition datasets, i.e., CASIA-B and OUMVLP-Pose, demonstrate that our method outperforms the baseline model and existing pose-based methods by a large margin.
+
+* **Day 290 (10/17/2022)**: []()
+
+[379 Pose-Aided Video-based Person Re-Identification via Recurrent Graph Convolutional Network](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/379%20Pose-Aided%20Video-based%20Person%20Re-Identification%20via%20Recurrent%20Graph%20Convolutional%20Network.pdf)
+
+**Abstract—** Existing methods for video-based person re-identification (ReID) mainly learn the appearance feature of a given pedestrian via a feature extractor and a feature aggregator. However, the appearance models would fail when different pedestrians have similar appearances. Considering that different pedestrians have different walking postures and body proportions, we propose to learn the discriminative pose feature beyond the appearance feature for video retrieval. Specifically, we implement a two-branch architecture to separately learn the appearance feature and pose feature, and then concatenate them together for inference. To learn the pose feature, we first detect the pedestrian pose in each frame through an off-the-shelf pose detector, and construct a temporal graph using the pose sequence. We then exploit a recurrent graph convolutional network (RGCN) to learn the node embeddings of the temporal pose graph, which devises a global information propagation mechanism to simultaneously achieve the neighborhood aggregation of intra-frame nodes and message passing among inter-frame graphs. Finally, we propose a dual-attention method consisting of node-attention and time-attention to obtain the temporal graph representation from the node embeddings, where the self-attention mechanism is employed to learn the importance of each node and each frame. We verify the proposed method on three video-based ReID datasets, i.e., Mars, DukeMTMC and iLIDS-VID, whose experimental results demonstrate that the learned pose feature can effectively improve the performance of existing appearance models.
+
+[380 Multi-Granularity Graph Pooling for Video-based Person ReIdentification](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/380%20Multi-Granularity%20Graph%20Pooling%20for%20Video-based%20Person%20Re-Identification.pdf)
+
+**Abstract—** The video-based person re-identification (ReID) aims to identify the given pedestrian video sequence across multiple non-overlapping cameras.
+To aggregate the temporal and spatial features of the video samples, the graph neural networks (GNNs) are introduced. However, existing graph-based models, like STGCN, perform the \textit{mean}/\textit{max pooling} on node features to obtain the graph representation, which neglect the graph topology and node importance. In this paper, we propose the graph pooling network (GPNet) to learn the multi-granularity graph representation for the video retrieval, where the \textit{graph pooling layer} is implemented to downsample the graph. We first construct a multi-granular graph, whose node features denote image embedding learned by backbone, and edges are established between the temporal and Euclidean neighborhood nodes. We then implement multiple graph convolutional layers to perform the neighborhood aggregation on the graphs. To downsample the graph, we propose a multi-head full attention graph pooling (MHFAPool) layer, which integrates the advantages of existing node clustering and node selection pooling methods. Specifically, MHFAPool takes the main eigenvector of full attention matrix as the aggregation coefficients to involve the global graph information in each pooled nodes. Extensive experiments demonstrate that our GPNet achieves the competitive results on four widely-used datasets, i.e., MARS, DukeMTMC-VideoReID, iLIDS-VID and PRID-2011.
+
+* **Day 291 (10/18/2022)**: []()
+
+[381 I-Split: Deep Network Interpretability for Split Computing](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/381%20I-SPLIT%20Deep%20Network%20Interpretability%20for%20Split%20Computing.pdf)
+
+**Abstract—** This work makes a substantial step in the field of split computing, i.e., how to split a deep neural network to host its early part on an embedded device and the rest on a server. So far, potential split locations have been identified exploiting uniquely architectural aspects, i.e., based on the layer sizes. Under this paradigm, the efficacy of the split in terms of accuracy can be evaluated only after having performed the split and retrained the entire pipeline, making an exhaustive evaluation of all the plausible splitting points prohibitive in terms of time. Here we show that not only the architecture of the layers does matter, but the importance of the neurons contained therein too. A neuron is important if its gradient with respect to the correct class decision is high. It follows that a split should be applied right after a layer with a high density of important neurons, in order to preserve the information flowing until then. Upon this idea, we propose Interpretable Split (I-SPLIT): a procedure that identifies the most suitable splitting points by providing a reliable prediction on how well this split will perform in terms of classification accuracy, beforehand of its effective implementation. As a further major contribution of I-SPLIT, we show that the best choice for the splitting point on a multiclass categorization problem depends also on which specific classes the network has to deal with. Exhaustive experiments have been carried out on two networks, VGG16 and ResNet-50, and three datasets, Tiny-Imagenet-200, notMNIST, and Chest X-Ray Pneumonia. The source code is available at [this https URL](https://github.com/vips4/I-Split).
+
+[382 View-Invariant Skeleton-based Action Recognition via Global-Local Contrastive Learning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/382%20View-Invariant%20Skeleton-based%20Action%20Recognition%20via%20Global-Local%20Contrastive%20Learning.pdf)
+
+**Abstract—** Skeleton-based human action recognition has been drawing more interest recently due to its low sensitivity to appearance changes and the accessibility of more skeleton data. However, even the 3D skeletons captured in practice are still sensitive to the viewpoint and direction gave the occlusion of different human-body joints and the errors in human joint localization. Such view variance of skeleton data may significantly affect the performance of action recognition. To address this issue, we propose in this paper a new view-invariant representation learning approach, without any manual action labeling, for skeleton-based human action recognition. Specifically, we leverage the multi-view skeleton data simultaneously taken for the same person in the network training, by maximizing the mutual information between the representations extracted from different views, and then propose a global-local contrastive loss to model the multi-scale co-occurrence relationships in both spatial and temporal domains. Extensive experimental results show that the proposed method is robust to the view difference of the input skeleton data and significantly boosts the performance of unsupervised skeleton-based human action methods, resulting in new state-of-the-art accuracies on two challenging multi-view benchmarks of PKUMMD and NTU RGB+D.
+
+* **Day 292 (10/19/2022)**: []()
+
+[383 Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/383%20Image-to-Image%20Translation%20for%20Autonomous%20Driving%20from%20Coarsely-Aligned%20Image%20Pairs.pdf)
+
+**Abstract—** A self-driving car must be able to reliably handle adverse weather conditions (e.g., snowy) to operate safely. In this paper, we investigate the idea of turning sensor inputs (i.e., images) captured in an adverse condition into a benign one (i.e., sunny), upon which the downstream tasks (e.g., semantic segmentation) can attain high accuracy. Prior work primarily formulates this as an unpaired image-to-image translation problem due to the lack of paired images captured under the exact same camera poses and semantic layouts. While perfectly-aligned images are not available, one can easily obtain coarsely-paired images. For instance, many people drive the same routes daily in both good and adverse weather; thus, images captured at close-by GPS locations can form a pair. Though data from repeated traversals are unlikely to capture the same foreground objects, we posit that they provide rich contextual information to supervise the image translation model. To this end, we propose a novel training objective leveraging coarsely-aligned image pairs. We show that our coarsely-aligned training scheme leads to a better image translation quality and improved downstream tasks, such as semantic segmentation, monocular depth estimation, and visual localization.
+
+[384 PNeRF: Probabilistic Neural Scene Representations for Uncertain 3D Visual Mapping](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/384%20PNeRF%20Probabilistic%20Neural%20Scene%20Representations%20for%20Uncertain%203D%20Visual%20Mapping.pdf)
+
+**Abstract—** Recently neural scene representations have provided very impressive results for representing 3D scenes visually, however, their study and progress have mainly been limited to visualization of virtual models in computer graphics or scene reconstruction in computer vision without explicitly accounting for sensor and pose uncertainty. Using this novel scene representation in robotics applications, however, would require accounting for this uncertainty in the neural map. The aim of this paper is therefore to propose a novel method for training {\em probabilistic neural scene representations} with uncertain training data that could enable the inclusion of these representations in robotics applications. Acquiring images using cameras or depth sensors contains inherent uncertainty, and furthermore, the camera poses used for learning a 3D model are also imperfect. If these measurements are used for training without accounting for their uncertainty, then the resulting models are non-optimal, and the resulting scene representations are likely to contain artifacts such as blur and un-even geometry. In this work, the problem of uncertainty integration to the learning process is investigated by focusing on training with uncertain information in a probabilistic manner. The proposed method involves explicitly augmenting the training likelihood with an uncertainty term such that the learnt probability distribution of the network is minimized with respect to the training uncertainty. It will be shown that this leads to more accurate image rendering quality, in addition to more precise and consistent geometry. Validation has been carried out on both synthetic and real datasets showing that the proposed approach outperforms state-of-the-art methods. The results show notably that the proposed method is capable of rendering novel high-quality views even when the training data is limited.
+
+* **Day 293 (10/20/2022)**: []()
+
+[385 An Overview of Violence Detection Techniques Current Challenges and Future Directions](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/385%20An%20Overview%20of%20Violence%20Detection%20Techniques%20Current%20Challenges%20and%20Future%20Directions.pdf)
+
+**Abstract—** The Big Video Data generated in today's smart cities has raised concerns from its purposeful usage perspective, where surveillance cameras, among many others are the most prominent resources to contribute to the huge volumes of data, making its automated analysis a difficult task in terms of computation and preciseness. Violence Detection (VD), broadly plunging under Action and Activity recognition domain, is used to analyze Big Video data for anomalous actions incurred due to humans. The VD literature is traditionally based on manually engineered features, though advancements to deep learning based standalone models are developed for real-time VD analysis. This paper focuses on overview of deep sequence learning approaches along with localization strategies of the detected violence. This overview also dives into the initial image processing and machine learning-based VD literature and their possible advantages such as efficiency against the current complex models. Furthermore,the datasets are discussed, to provide an analysis of the current models, explaining their pros and cons with future directions in VD domain derived from an in-depth analysis of the previous methods.
+
+[386 Meteorological Satellite Images Prediction Based on Deep Multi-scales Extrapolation Fusion](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/386%20Meteorological%20Satellite%20Images%20Prediction%20Based%20on%20Deep%20Multi-scales%20Extrapolation%20Fusion.pdf)
+
+**Abstract—** Meteorological satellite imagery is critical for meteorologists. The data have played an important role in monitoring and analyzing weather and climate changes. However, satellite imagery is a kind of observation data and exists a significant time delay when transmitting the data back to Earth. It is important to make accurate predictions for meteorological satellite images, especially the nowcasting prediction up to 2 hours ahead. In recent years, there has been growing interest in the research of nowcasting prediction applications of weather radar images based on deep learning. Compared to the weather radar images prediction problem, the main challenge for meteorological satellite images prediction is the large-scale observation areas and therefore the large sizes of the observation products. Here we present a deep multi-scales extrapolation fusion method, to address the challenge of the meteorological satellite images nowcasting prediction. First, we downsample the original satellite images dataset with large size to several images datasets with smaller resolutions, then we use a deep spatiotemporal sequences prediction method to generate the multi-scales prediction images with different resolutions separately. Second, we fuse the multi-scales prediction results to the targeting prediction images with the original size by a conditional generative adversarial network. The experiments based on the FY-4A meteorological satellite data show that the proposed method can generate realistic prediction images that effectively capture the evolutions of the weather systems in detail. We believe that the general idea of this work can be potentially applied to other spatiotemporal sequence prediction tasks with a large size.
+
+
+* **Day 294 (10/21/2022)**: []()
+
+[387 T3VIP: Transformation-based 3D Video Prediction](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/387%20T3VIP%20Transformation-based%203D%20Video%20Prediction.pdf)
+
+**Abstract—** For autonomous skill acquisition, robots have to learn about the physical rules governing the 3D world dynamics from their own past experience to predict and reason about plausible future outcomes. To this end, we propose a transformation-based 3D video prediction (T3VIP) approach that explicitly models the 3D motion by decomposing a scene into its object parts and predicting their corresponding rigid transformations. Our model is fully unsupervised, captures the stochastic nature of the real world, and the observational cues in image and point cloud domains constitute its learning signals. To fully leverage all the 2D and 3D observational signals, we equip our model with automatic hyperparameter optimization (HPO) to interpret the best way of learning from them. To the best of our knowledge, our model is the first generative model that provides an RGB-D video prediction of the future for a static camera. Our extensive evaluation with simulated and real-world datasets demonstrates that our formulation leads to interpretable 3D models that predict future depth videos while achieving on-par performance with 2D models on RGB video prediction. Moreover, we demonstrate that our model outperforms 2D baselines on visuomotor control. Videos, code, dataset, and pre-trained models are available [at this http URL](http://t3vip.cs.uni-freiburg.de/).
+
+[388 Rate Distortion in Image Coding for Machines](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/388%20Rate-Distortion%20in%20Image%20Coding%20for%20Machines.pdf)
+
+**Abstract—** In recent years, there has been a sharp increase in transmission of images to remote servers specifically for the purpose of computer vision. In many applications, such as surveillance, images are mostly transmitted for automated analysis, and rarely seen by humans. Using traditional compression for this scenario has been shown to be inefficient in terms of bit-rate, likely due to the focus on human based distortion metrics. Thus, it is important to create specific image coding methods for joint use by humans and machines. One way to create the machine side of such a codec is to perform feature matching of some intermediate layer in a Deep Neural Network performing the machine task. In this work, we explore the effects of the layer choice used in training a learnable codec for humans and machines. We prove, using the data processing inequality, that matching features from deeper layers is preferable in the sense of rate-distortion. Next, we confirm our findings empirically by re-training an existing model for scalable human-machine coding. In our experiments we show the trade-off between the human and machine sides of such a scalable model, and discuss the benefit of using deeper layers for training in that regard.
+
+
+* **Day 295 (10/22/2022)**: []()
+
+[389 Fractal Decomposition-based Algorithms for Dynamic Camera Alignment Optimization Problem](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/389%20Fractal%20Decomposition%20based%20Algorithm%20for%20Dynamic%20camera%20alignment%20Optmization%20Problem.pdf)
+
+**Abstract—** 
+
+[390 Edge Oriente  Neural Representation with Channel Tuning](https://github.com/AnshMittal1811/100_Days_for_ComputerVision_Papers/blob/master/390%20Edge-oriented%20Implicit%20Neural%20Representation%20with%20Channel%20Tuning.pdf)
+
+**Abstract—** 
+
+* **Day 296 (10/23/2022)**: []()
+
+[391]()
+
+**Abstract—** 
+
+[392]()
+
+**Abstract—** 
+
+* **Day 297 (10/24/2022)**: []()
+
+[393]()
+
+**Abstract—** 
+
+[394]()
+
+**Abstract—** 
+
+* **Day 298 (10/25/2022)**: []()
+
+[395]()
+
+**Abstract—** 
+
+[396]()
+
+**Abstract—** 
+
+* **Day 299 (10/26/2022)**: []()
+
+[397]()
+
+**Abstract—** 
+
+[398]()
+
+**Abstract—** 
+
+* **Day 300 (10/27/2022)**: []()
+
+[399]()
+
+**Abstract—** 
+
+[400]()
+
+**Abstract—** 
+
+* **Day 301 (10/28/2022)**: []()
+
+* **Day 302 (10/29/2022)**: []()
+
+* **Day 303 (10/30/2022)**: []()
+
+* **Day 304 (10/31/2022)**: []()
+
+* **Day 305 (11/01/2022)**: []()
+
+* **Day 306 (11/02/2022)**: []()
+
+* **Day 307 (11/03/2022)**: []()
+
+* **Day 308 (11/04/2022)**: []()
+
+* **Day 309 (11/05/2022)**: []()
+
+* **Day 310 (11/06/2022)**: []()
+
+* **Day 311 (11/07/2022)**: []()
+
+* **Day 312 (11/08/2022)**: []()
+
+* **Day 313 (11/09/2022)**: []()
+
+* **Day 314 (11/10/2022)**: []()
+
+* **Day 315 (11/11/2022)**: []()
+
+* **Day 316 (11/12/2022)**: []()
+
+* **Day 317 (11/13/2022)**: []()
+
+* **Day 318 (11/14/2022)**: []()
+
+* **Day 319 (11/15/2022)**: []()
+
+* **Day 320 (11/16/2022)**: []()
+
+* **Day 321 (11/17/2022)**: []()
+
+* **Day 322 (11/18/2022)**: []()
+
+* **Day 323 (11/19/2022)**: []()
+
+* **Day 324 (11/20/2022)**: []()
+
+* **Day 325 (11/21/2022)**: []()
+
+* **Day 326 (11/22/2022)**: []()
+
+* **Day 327 (11/23/2022)**: []()
+
+* **Day 328 (11/24/2022)**: []()
+
+* **Day 329 (11/25/2022)**: []()
+
+* **Day 330 (11/26/2022)**: []()
+
+* **Day 331 (11/27/2022)**: []()
+
+* **Day 332 (11/28/2022)**: []()
+
+* **Day 333 (11/29/2022)**: []()
+
+* **Day 334 (11/30/2022)**: []()
+
+* **Day 335 (12/01/2022)**: []()
+
+* **Day 336 (12/02/2022)**: []()
+
+* **Day 337 (12/03/2022)**: []()
+
+* **Day 338 (12/04/2022)**: []()
+
+* **Day 339 (12/05/2022)**: []()
+
+* **Day 340 (12/06/2022)**: []()
+
+* **Day 341 (12/07/2022)**: []()
+
+* **Day 342 (12/08/2022)**: []()
+
+* **Day 343 (12/09/2022)**: []()
+
+* **Day 344 (12/10/2022)**: []()
+
+* **Day 345 (12/11/2022)**: []()
+
+* **Day 346 (12/12/2022)**: []()
+
+* **Day 347 (12/13/2022)**: []()
+
+* **Day 348 (12/14/2022)**: []()
+
+* **Day 349 (12/15/2022)**: []()
+
+* **Day 350 (12/16/2022)**: []()
+
+* **Day 351 (12/17/2022)**: []()
+
+* **Day 352 (12/18/2022)**: []()
+
+* **Day 353 (12/19/2022)**: []()
+
+* **Day 354 (12/20/2022)**: []()
+
+* **Day 355 (12/21/2022)**: []()
+
+* **Day 356 (12/22/2022)**: []()
+
+* **Day 357 (12/23/2022)**: []()
+
+* **Day 358 (12/24/2022)**: []()
+
+* **Day 359 (12/25/2022)**: []()
+
+* **Day 360 (12/26/2022)**: []()
+
+* **Day 361 (12/27/2022)**: []()
+
+* **Day 362 (12/28/2022)**: []()
+
+* **Day 363 (12/29/2022)**: []()
+
+* **Day 364 (12/30/2022)**: []()
+
+* **Day 365 (12/31/2022)**: []()
+
 
